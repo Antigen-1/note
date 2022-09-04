@@ -19,7 +19,7 @@
     (define min-len (/ (length (regexp-match* #px"\\S" pattern)) 2))
     (lambda (item)
       (define res (o:get-longest-common-substring pattern item #:substring substring #:string->list string->list #:elem=? char=?))
-      (>= (length (regexp-match* #px"\\S" res)) min-len))))
+      (>= (apply max (map (lambda (r) (length (regexp-match* #px"\\S" r))) res)) min-len))))
 
 (define compare-to-filter1
   (lambda (pattern #:char=? [char=? char=?])
