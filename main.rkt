@@ -23,7 +23,7 @@
 
 (define compare-to-filter1
   (lambda (pattern #:char=? [char=? char=?])
-    (define min-len (/ (string-length pattern) 2))
+    (define len (string-length pattern))
     (lambda (item)
-      (>= (o:longest-common-subsequence-length pattern item #:sequence->list string->list #:elem=? char=?)
-          min-len))))
+      (= (o:longest-common-subsequence-length pattern item #:sequence->list string->list #:elem=? char=?)
+         len))))
