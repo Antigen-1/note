@@ -7,4 +7,4 @@
     (define compiled (compile-pattern pattern #:sequence->list string->list))
     (define check (lambda (port) (Sunday-match port compiled #:sequence->list (curry port->list read-char))))
     (parameterize ((current-directory directory))
-      (filter (lambda (path) (and (has-ext? path "nt") (call-with-input-file path (lambda (in) (check in))))) (directory-list)))))
+      (filter (lambda (path) (and (has-ext? path "pm") (call-with-input-file path (lambda (in) (check in))))) (directory-list)))))
