@@ -11,6 +11,8 @@ th, td {
         padding: 5px;
                  text-align: center;
                  }
+ul {list-style-type: circle;}
+ol {list-style-type: upper-roman;}
 </style>
 </head>
 <body>◊(->html doc)</body>
