@@ -3,8 +3,6 @@
 ◊(define multiplier 1.3)
 ◊(define color "firebrick")
 
-◊(define index "../index.ptree")
-
 <html>
 <head>
 <meta charset="UTF-8">
@@ -48,7 +46,7 @@ h1 {
 </style>
 </head>
 <body>◊(->html doc)
-The previous is ◊|(previous here index)|.
-The next is ◊|(next here index)|.
+The previous is ◊|(previous here)|.
+The next is ◊|(next here)|.
 </body>
 </html>
