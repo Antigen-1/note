@@ -1,19 +1,53 @@
+◊(define inner 2)
+◊(define edge (* inner 2))
+◊(define multiplier 1.3)
+◊(define color "firebrick")
+
 <html>
 <head>
 <meta charset="UTF-8">
 <title>◊(select 'h1 doc)</title>
 <style type="text/css">
 table, th, td {
-               border: 1px solid black;
-                       border-collapse: collapse;
+        border: 1px solid black;
+        border-collapse: collapse;
                        }
 th, td {
         padding: 5px;
-                 text-align: center;
+        text-align: center;
                  }
 ul {list-style-type: circle;}
 ol {list-style-type: upper-roman;}
+body {
+    margin: ◊|edge|em;
+    padding: ◊|inner|em;
+    border: ◊|color|;
+    font-size: ◊|multiplier|em;
+    line-height: ◊|multiplier|;
+}
+ 
+h1 {
+    font-size: ◊|multiplier|em;
+}
+ 
+#prev, #next {
+    position: fixed;
+    top: ◊|(/ edge 2)|em;
+}
+ 
+#prev {
+    left: ◊|edge|em;
+}
+ 
+#next {
+    right: ◊|edge|em;
+}
+
 </style>
 </head>
-<body>◊(->html doc)</body>
+<body>◊(->html doc)
+The current page is called ◊|here|.
+The previous is ◊|(previous here "tree.pp")|.
+The next is ◊|(next here "tree.pp")|.
+</body>
 </html>
