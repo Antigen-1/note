@@ -5,7 +5,7 @@
 <link rel="stylesheet" type="text/css" href="../styles.css" />
 </head>
 <body>◊(->html doc)
-The previous is ◊|(previous here)|.
-The next is ◊|(next here)|.
+The previous is <a href="◊|(previous here)|">◊|(previous here)|</a>.
+The next is <a href="◊|(next here)|">◊|(next here)|</a>.
 </body>
 </html>
