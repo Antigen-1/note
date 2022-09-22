@@ -47,7 +47,7 @@ h1 {
 </head>
 <body>◊(->html doc)
 The current page is called ◊|here|.
-The previous is ◊|(previous here "tree.pp")|.
-The next is ◊|(next here "tree.pp")|.
+The previous is ◊|(previous here "index.ptree")|.
+The next is ◊|(next here "index.ptree")|.
 </body>
 </html>
