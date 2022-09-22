@@ -3,6 +3,9 @@
 ◊(define multiplier 1.3)
 ◊(define color "firebrick")
 
+◊(require racket/runtime-path)
+◊(define-runtime-path index "index.ptree")
+
 <html>
 <head>
 <meta charset="UTF-8">
@@ -46,8 +49,7 @@ h1 {
 </style>
 </head>
 <body>◊(->html doc)
-The current page is called ◊|here|.
-The previous is ◊|(previous here "index.ptree")|.
-The next is ◊|(next here "index.ptree")|.
+The previous is ◊|(previous here index)|.
+The next is ◊|(next here index)|.
 </body>
 </html>
