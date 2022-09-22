@@ -3,8 +3,7 @@
 ◊(define multiplier 1.3)
 ◊(define color "firebrick")
 
-◊(require racket/runtime-path)
-◊(define-runtime-path index "index.ptree")
+◊(define index "../index.ptree")
 
 <html>
 <head>
