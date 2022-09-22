@@ -21,7 +21,7 @@ ol {list-style-type: upper-roman;}
 body {
     margin: ◊|edge|em;
     padding: ◊|inner|em;
-    border: ◊|color|;
+    border: 1px solid ◊|color|;
     font-size: ◊|multiplier|em;
     line-height: ◊|multiplier|;
 }
