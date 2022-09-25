@@ -1,25 +1,37 @@
 #lang racket/base
-(require txexpr racket/string racket/function racket/port racket/list)
+(require txexpr racket/string racket/function racket/list sugar/list)
 (provide tbl lst)
 
-(define string->lines (lambda (string) (port->list (compose string-trim read-line) (open-input-string string))))
+(define list->lines
+  (lambda (list) (filter-not null? (filter-split (lambda (string) (and (string? string) (string=? "\n" string))) list))))
+
+(define split-line
+  (lambda (line)
+    (let loop ((l line) (r null))
+      (cond ((null? l) (reverse r))
+            ((string? (car l))
+             (let ((s (string-split (car l) #rx"@" #:trim? #f)))
+               (cond ((null? s) (loop (cdr l) r))
+                     ((= 1 (length s)) (loop (cdr l) (cons (append (car r) s) (cdr r))))
+                     (else (loop (cdr l) (append (map list (cdr s)) (cons (append (car r) (list (car s))) (cdr r))))))))
+            (else (loop (cdr l) (cons (append (car r) (list (car l))) (cdr r))))))))
 
 (define tbl
-  (lambda (string)
-    (define lines (filter-not non-empty-string? (string->lines string)))
+  (lambda elements
+    (define lines (list->lines elements))
     (txexpr 'table
             null
-            `(,(txexpr 'caption null (list (car lines)))
-              ,(txexpr 'tr null (map (curry list 'th) (string-split (cadr lines) #rx"@")))
+            `(,(txexpr 'caption null (car lines))
+              ,(txexpr 'tr null (map (curry list 'th) (split-line (cadr lines))))
               ,@(map (lambda (line)
                        (txexpr
                         'tr null
-                        (map (curry list 'td) (string-split line #rx"@"))))
+                        (map (curry list 'td) (split-line line))))
                      (cddr lines))))))
 
 (define lst
-  (lambda (string)
-    (define lines (filter-not non-empty-string? (string->lines string)))
+  (lambda elements
+    (define lines (list->lines elements))
     (define type (string->symbol (car lines)))
     (txexpr type
             null
@@ -27,6 +39,6 @@
              (case type
                ((ol ul) (curry list 'li))
                ((dl) (lambda (line)
-                       (define e (string-split line #rx"@"))
+                       (define e (split-line line))
                        (cons (list 'dt (car e)) (map (curry list 'dd) (cdr e))))))
              (cdr lines)))))
