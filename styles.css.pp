@@ -9,6 +9,13 @@ table, th, td {
         border-collapse: collapse;
                        }
 
+tr:nth-child(even) {background-color: #f2f2f2;}
+
+th {
+  background-color: #04AA6D;
+  color: white;
+}
+
 th, td {
         padding: 5px;
         text-align: center;
