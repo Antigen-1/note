@@ -32,7 +32,7 @@
 (define lst
   (lambda elements
     (define lines (list->lines elements))
-    (define type (string->symbol (car lines)))
+    (define type (string->symbol (caar lines)))
     (txexpr type
             null
             (map
