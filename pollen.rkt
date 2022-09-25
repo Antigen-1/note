@@ -22,11 +22,11 @@
     (txexpr 'table
             null
             `(,(txexpr 'caption null (car lines))
-              ,(txexpr 'tr null (map (curry list 'th) (split-line (cadr lines))))
+              ,(txexpr 'tr null (map (curry cons 'th) (split-line (cadr lines))))
               ,@(map (lambda (line)
                        (txexpr
                         'tr null
-                        (map (curry list 'td) (split-line line))))
+                        (map (curry cons 'td) (split-line line))))
                      (cddr lines))))))
 
 (define lst
@@ -37,8 +37,8 @@
             null
             (map
              (case type
-               ((ol ul) (curry list 'li))
+               ((ol ul) (curry cons 'li))
                ((dl) (lambda (line)
                        (define e (split-line line))
-                       (cons '@ (cons (list 'dt (car e)) (map (curry list 'dd) (cdr e)))))))
+                       (cons '@ (cons (cons 'dt (car e)) (map (curry cons 'dd) (cdr e)))))))
              (cdr lines)))))
