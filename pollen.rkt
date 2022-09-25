@@ -40,5 +40,5 @@
                ((ol ul) (curry list 'li))
                ((dl) (lambda (line)
                        (define e (split-line line))
-                       (cons (list 'dt (car e)) (map (curry list 'dd) (cdr e))))))
+                       (cons '@ (cons (list 'dt (car e)) (map (curry list 'dd) (cdr e)))))))
              (cdr lines)))))
