@@ -7,7 +7,7 @@
 
 (define split-line
   (lambda (line)
-    (let loop ((l line) (r null))
+    (let loop ((l line) (r (list null)))
       (cond ((null? l) (reverse r))
             ((string? (car l))
              (let ((s (string-split (car l) #rx"@" #:trim? #f)))
