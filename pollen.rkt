@@ -3,7 +3,7 @@
 (provide tbl lst)
 
 (define list->lines
-  (lambda (list) (filter-not null? (filter-split (lambda (string) (and (string? string) (string=? "\n" string))) list))))
+  (lambda (list) (filter-not null? (filter-split list (lambda (string) (and (string? string) (string=? "\n" string)))))))
 
 (define split-line
   (lambda (line)
