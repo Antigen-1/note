@@ -23,4 +23,4 @@ clinical trial@临床试验
 
 ◊h2{如何学习}
 
-◊img{◊src{药理学学习方法.png}}
+◊img[#:src "药理学学习方法.png" #:alt "不支持图片"]
