@@ -13,7 +13,7 @@ dl
 
 ◊tbl{
 概念辨析
-英文 中文
+英文@中文
 in vitro@离体的，体外的
 in vivo@体内的
 in situ@原位的
