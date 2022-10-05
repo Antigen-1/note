@@ -33,6 +33,10 @@ body {
     line-height: ◊|multiplier|;
 }
 
+code {
+    background-color: #a9a9a9;
+}
+
 #prev, #next {
     position: fixed;
     top: ◊|(/ edge 2)|em;
