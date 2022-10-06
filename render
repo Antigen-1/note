@@ -1,1 +1,1 @@
-raco pollen render -p *.p *.pp *.pm
+raco pollen render -p *.p *.pp *.pm *.ptree
