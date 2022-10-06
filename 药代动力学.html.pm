@@ -35,7 +35,11 @@ pH值常可改变离子型和非离子型的比例，从而影响其转运。
 
 体内pH值改变不大，故解离度影响药物转运。
 
-◊img[#:src "解离度.png" #:alt "not supported"]
+◊(br)
+
+◊img[#:src "解离度.png" #:alt "not supported" #:width "600" #:height "400"]
+
+◊(br)
 
 例如，弱酸性药物中毒时，应碱化尿液，抑制其重吸收。
 
