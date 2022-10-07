@@ -42,3 +42,7 @@
                        (define e (split-line line))
                        (cons '@ (cons (cons 'dt (car e)) (map (curry cons 'dd) (cdr e)))))))
              (cdr lines)))))
+
+(define im
+  (lambda (attributes . elements)
+    (list 'div (txexpr 'img attributes elements))))
