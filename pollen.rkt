@@ -13,7 +13,7 @@
              (let ((s (string-split (car l) #rx"@" #:trim? #f)))
                (cond ((null? s) (loop (cdr l) r))
                      ((= 1 (length s)) (loop (cdr l) (cons (append (car r) s) (cdr r))))
-                     (else (loop (cdr l) (append (map list (cdr s)) (cons (append (car r) (list (car s))) (cdr r))))))))
+                     (else (loop (cdr l) (append (map list (reverse (cdr s))) (cons (append (car r) (list (car s))) (cdr r))))))))
             (else (loop (cdr l) (cons (append (car r) (list (car l))) (cdr r))))))))
 
 (define tbl
