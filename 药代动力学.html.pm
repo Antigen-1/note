@@ -64,7 +64,12 @@ ol
 
 ◊p{首关效应很强的典型药物：硝酸甘油。}
 
-◊im[#:src "给药方式.png" #:alt "not supported" #:width "600" #:height "400"]
+◊im{
+给药方式.png
+not supported
+600
+400
+}
 
 ◊p{肺部吸收面积很大，效率可与静脉注射媲美，且无首关消除。}
 

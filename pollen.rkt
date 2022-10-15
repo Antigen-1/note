@@ -44,5 +44,6 @@
              (cdr lines)))))
 
 (define im
-  (lambda (attributes . elements)
-    (list 'div (txexpr 'img attributes elements))))
+  (lambda elements
+    (define l (filter-not null? (filter-split elements (curry string=? "\n"))))
+    (list 'div (txexpr 'img (list (cons 'src (car l)) (cons 'alt (cadr l)) (cons 'width (caddr l)) (cons 'height (cadddr l))) null))))
