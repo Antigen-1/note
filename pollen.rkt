@@ -1,6 +1,6 @@
 #lang racket/base
 (require txexpr racket/string racket/function racket/list sugar/list)
-(provide tbl lst)
+(provide tbl lst im)
 
 (define list->lines
   (lambda (list) (filter-not null? (filter-split list (lambda (string) (and (string? string) (string=? "\n" string)))))))
