@@ -5,3 +5,4 @@ render:
 
 clean:
 	-rm *.html
+	raco pollen reset
