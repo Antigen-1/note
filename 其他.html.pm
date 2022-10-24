@@ -14,3 +14,12 @@ the Far East：远东
 
 hand sth down (from ... to ...):pass sth from older people to younger ones
 
+◊h2{亲属的修饰}
+
+◊lst{
+ul
+remote ancestor
+distant relative(远亲)
+close/near relative(近亲)
+}
+
