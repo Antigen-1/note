@@ -22,3 +22,18 @@ eg2.◊b{As a logical consequence of this development,separate journals have now
 ◊(br)
 
 作为这种发展的一种必然的结果，现在已经出现了主要针对专业或业余读者的分开的刊物。
+
+◊h2{无灵主语/物称主语}
+
+there be句型常用于无灵主语。例如
+
+◊lst{
+ul
+there seem/appear to be
+there happen to be（碰巧有）
+there is/are going to be
+}
+
+◊p{造句：现在世界上依然有部分地区人们还吃不饱肚子（cannot satisfy one's hunger）。}
+
+◊p{There are some parts of the world where even now people cannot satisfy their hunger.}

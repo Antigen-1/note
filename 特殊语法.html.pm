@@ -14,3 +14,14 @@ eg.[NCE4.1]◊b{We can read of things that happened 5000 years ago in the Near E
 ◊(br)
 
 The past few years witnessed the great ◊i{influx} of migrant workers from the countryside to big cities,where they could ◊i{secure decent jobs} and ◊i{support} their families.
+
+◊h2{不定式作表语}
+
+◊p{不定式作表语若前面出现了实义动词“do”，则常去掉“to”，例如：}
+
+◊lst{
+ul
+All I have to ◊b{do} is ◊b{dream}.
+The best thing you can ◊b{do} now is ◊b{write} her an apology.
+}
+
