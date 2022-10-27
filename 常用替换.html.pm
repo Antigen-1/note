@@ -48,3 +48,12 @@ dl
 rot@vt/vi@搭配：rot away烂掉@rotten（adj）eg.One rotten apple spoils the whole barrel.一颗老鼠屎毁了一锅粥。
 decay@同义词@派生义：衰败eg.Each civilization is born,it culminates,and it decays.
 }
+
+◊h2{类似于}
+
+◊lst{
+ul
+be similar to
+resemble(vt)
+bear a resemblance to
+}

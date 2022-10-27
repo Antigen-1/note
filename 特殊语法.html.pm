@@ -25,3 +25,17 @@ All I have to ◊b{do} is ◊b{dream}.
 The best thing you can ◊b{do} now is ◊b{write} her an apology.
 }
 
+◊h2{定语从句省略}
+
+◊p{定语从句关系代词作主语后跟be动词，二者可一同省略。例如NCE4.1}
+
+◊lst{
+ul
+the first people who were similar to ...
+the first people similar to ...
+}
+
+◊h2{(even) if引导让步状从}
+
+例如◊b{He is seldom, if ever, absent from work.他——即使有也很少——旷工。}
+

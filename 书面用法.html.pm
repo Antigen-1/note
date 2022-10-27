@@ -1,5 +1,5 @@
 #lang pollen/markup
-◊h1{习惯用法}
+◊h1{书面用法}
 
 ◊h2{避免头重脚轻}
 
@@ -37,3 +37,17 @@ there is/are going to be
 ◊p{造句：现在世界上依然有部分地区人们还吃不饱肚子（cannot satisfy one's hunger）。}
 
 ◊p{There are some parts of the world where even now people cannot satisfy their hunger.}
+
+◊h2{实词的替换}
+
+例如NCE4.1
+
+◊lst{
+ul
+fossil man
+people who lived long ago
+the first 'morden man'
+ancient man
+the first people like ourselves
+}
+
