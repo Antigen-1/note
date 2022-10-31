@@ -53,6 +53,7 @@ cannot/could not have done
 表批评（虚拟）：
 
 ◊lst{
+ul
 should/ought to have done
 should not/ought not to have done
 }
