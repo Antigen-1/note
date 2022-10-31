@@ -23,3 +23,12 @@ distant relative(远亲)
 close/near relative(近亲)
 }
 
+◊h2{飞禽走兽相关表达}
+
+◊lst{
+ul
+skin皮
+hide兽皮
+fur毛皮
+feather羽毛
+}

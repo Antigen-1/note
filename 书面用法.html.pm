@@ -51,3 +51,15 @@ ancient man
 the first people like ourselves
 }
 
+◊h2{名词作动词}
+
+◊tbl{
+n->v
+单词@动词含义@名词含义
+shape@塑造@形状
+thunder@擂@雷
+veil@笼罩@面纱
+whip@卷起@鞭子
+duck@躲闪@鸭子
+}
+

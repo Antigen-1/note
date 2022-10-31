@@ -39,3 +39,33 @@ the first people similar to ...
 
 例如◊b{He is seldom, if ever, absent from work.他——即使有也很少——旷工。}
 
+◊h2{语气}
+
+表推测：
+
+◊lst{
+ul
+may/might have done
+must have done
+cannot/could not have done
+}
+
+表批评（虚拟）：
+
+◊lst{
+should/ought to have done
+should not/ought not to have done
+}
+
+◊h2{不定式作主语}
+
+◊b{sth be ◊i{adj} to do=to do sth be ◊i{adj}}
+
+◊p{此处do为及物动词}
+
+◊h2{when引导让步状从}
+
+◊p{此时when一般放在主句后}
+
+eg.◊b{He walks when he might take a taxi.}尽管他可以坐出租车，但他选择了步行。
+

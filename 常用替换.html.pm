@@ -57,3 +57,7 @@ be similar to
 resemble(vt)
 bear a resemblance to
 }
+
+◊h2{消失得无影无踪}
+
+disappear/vanish without trace
