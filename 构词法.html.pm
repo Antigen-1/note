@@ -77,3 +77,12 @@ ul
 story-teller:讲故事的人
 fortune-teller:算命先生}
 
+◊h2{（不）满足}
+
+◊lst{
+ul
+content/contented[adj]满足
+content/satisfaction[n]满足
+discontent/dissatisfaction[n]不满足
+}
+

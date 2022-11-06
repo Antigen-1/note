@@ -61,3 +61,27 @@ bear a resemblance to
 ◊h2{消失得无影无踪}
 
 disappear/vanish without trace
+
+◊h2{调查}
+
+◊lst{
+dl
+census[n]对数量的统计，普查
+investigation[n](事故、案件)调查@The case is under investigation.@The investigation into the cause of the air crash is continuing.
+inquest[n](死因)调查
+survey/poll/opinion poll[n](民意)调查@~ find/show/indicate/reveal......
+inquiry/enquiry[n](各种)调查@sampling inquiry抽样调查
+}
+
+◊h2{满意}
+
+◊lst{
+ul
+content[adj]满足的，满意的(作表语)@◊lst{
+ul
+be content/satisfied with
+be content/satisfied to do
+}
+contented[adj]满意的(表语、定语均可)@be dissatisfied/discontented with
+}
+

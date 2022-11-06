@@ -70,3 +70,8 @@ should not/ought not to have done
 
 eg.◊b{He walks when he might take a taxi.}尽管他可以坐出租车，但他选择了步行。
 
+◊h2{while引导让步状从}
+
+while位于句首且从句为现在时时很可能表让步。eg.
+
+◊p{While the quality of the legal journalism varies greatly, there is an undue(◊i{过分的}) reliance amongst many journalists on interpretations supplied to them by lawyers.}
