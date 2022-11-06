@@ -76,7 +76,7 @@ inquiry/enquiry[n](各种)调查@sampling inquiry抽样调查
 ◊h2{满意}
 
 ◊lst{
-ul
+dl
 content[adj]满足的，满意的(作表语)@◊lst{
 ul
 be content/satisfied with
