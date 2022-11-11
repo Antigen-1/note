@@ -85,3 +85,7 @@ be content/satisfied to do
 contented[adj]满意的(表语、定语均可)@be dissatisfied/discontented with
 }
 
+◊h2{spare放过，省下}
+
+◊p{谚语◊i{Spare the rod and spoil the child.}不打不成器。}
+
