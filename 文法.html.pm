@@ -51,3 +51,12 @@ eg.◊b{The crown should not yield to the cross.}王权不应屈服于神权。
 ◊h2{problem-solution pattern}
 
 NCE4.1
+
+◊h2{自问自答}
+
+例如[NCE4.2]◊i{Why, you may wonder, should spiders be our friends?}
+
+◊p{在这里should用在疑问句中表意外的语气，译作「怎么会」。相对不重要的成分作为插入语。}
+
+◊p{整句翻译为，◊i{你可能会问，蜘蛛怎么会是我们的朋友？}}
+

@@ -89,3 +89,24 @@ contented[adj]满意的(表语、定语均可)@be dissatisfied/discontented with
 
 ◊p{谚语◊i{Spare the rod and spoil the child.}不打不成器。}
 
+◊h2{杀死}
+
+◊lst{
+dl
+destroy杀死@[NCE4.2]destroy so many insects
+kill off使动植物大量死去
+slaughter/massacre屠杀、屠宰
+wipe out/exterminate使绝种
+}
+
+◊h2{人类}
+
+◊lst{
+ul
+man[U]/human being[C]人类
+mankind/humankind[U]人类
+humanity[U]人类（人性）
+}
+
+例如◊i{a crime against humanity}反人类罪
+
