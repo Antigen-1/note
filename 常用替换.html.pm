@@ -103,6 +103,7 @@ wipe out/exterminate使绝种
 
 ◊lst{
 ul
+human race人类（种族）
 man[U]/human being[C]人类
 mankind/humankind[U]人类
 humanity[U]人类（人性）
