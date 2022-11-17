@@ -21,9 +21,11 @@ th, td {
         text-align: center;
                  }
 
-ul {list-style-type: circle; align-items: left;}
+li {align-items: left;}
+
+ul {list-style-type: circle;}
                      
-ol {list-style-type: upper-roman; align-items: left;}
+ol {list-style-type: upper-roman;}
                      
 body {
     margin: ◊|edge|em;
