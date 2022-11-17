@@ -18,7 +18,7 @@ th {
 
 th, td {
         padding: 5px;
-        text-align: center;
+        text-align: left;
                  }
 
 li {align-items: left;}
