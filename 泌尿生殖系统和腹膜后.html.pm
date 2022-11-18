@@ -48,14 +48,14 @@ ul
 ◊im{
 肾结核.png
 Not supported
-400
+800
 600
 }
 
 ◊im{
 其他尿路结核.png
 Not supported
-400
+800
 600
 }
 
@@ -116,7 +116,7 @@ Not supported
 ◊im{
 前列腺.png
 Not supported
-400
+800
 600
 }
 
