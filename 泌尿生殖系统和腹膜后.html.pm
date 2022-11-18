@@ -45,14 +45,14 @@ ul
 
 ◊h4{结核}
 
-◊img{
+◊im{
 肾结核.png
 Not supported
 400
 600
 }
 
-◊img{
+◊im{
 其他尿路结核.png
 Not supported
 400
@@ -113,7 +113,7 @@ Not supported
 
 ◊h2{男性生殖系统}
 
-◊img{
+◊im{
 前列腺.png
 Not supported
 400
