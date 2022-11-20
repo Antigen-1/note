@@ -60,3 +60,10 @@ NCE4.1
 
 ◊p{整句翻译为，◊i{你可能会问，蜘蛛怎么会是我们的朋友？}}
 
+◊h2{圆周句（掉尾句）}
+
+◊p{结构强调句（句首制造悬念，句末揭示谜底）}
+
+◊p{例如[NCE4.24]◊i{That all great art has this power of suggesting a world beyond is ◊b{undeniable}.}不可否认，一切伟大的艺术都具有使人遐想到进入天外世界的魅力。}
+
+

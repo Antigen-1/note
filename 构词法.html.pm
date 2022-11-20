@@ -86,3 +86,25 @@ content/satisfaction[n]满足
 discontent/dissatisfaction[n]不满足
 }
 
+◊h2{复合形容词}
+
+◊tbl{
+定从->复合形容词
+原型@复合形容词
+animals which eat insects@insect-eating animals
+citizens who abide by the law@law-abiding citizens
+silverware which is made by hands@hand-made silverware
+diseases which are related to stress@stress-related diseases
+}
+
+◊lst{
+ul
+state-owned enterprises(SOE)国有企业
+flower-selling girls卖花的女孩
+epoch-making masterpieces划时代的巨作
+cancer-causing substances致癌物质
+}
+
+◊p{一定要注意主被动关系，复合形容词中动词主被动与原有定从一致。}
+
+

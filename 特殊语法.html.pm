@@ -75,3 +75,16 @@ eg.◊b{He walks when he might take a taxi.}尽管他可以坐出租车，但他
 while位于句首且从句为现在时时很可能表让步。eg.
 
 ◊p{While the quality of the legal journalism varies greatly, there is an undue(◊i{过分的}) reliance amongst many journalists on interpretations supplied to them by lawyers.}
+
+◊h2{虚拟语气}
+
+◊;;TODO
+
+◊p{对现在虚拟：◊i{If S were/did ..., S would/should/could/might do ...}}
+
+◊p{例如◊i{Were it not for your support, I would be in big trouble now.}}
+
+◊p{在此例句中，除虚拟语气外，还出现了其倒装形式。}
+
+◊p{◊i{if it were not for ...}表示”若没有...的话“，因此可以译为“若没有你的支持，想必我现在已经麻烦大了罢。”}
+

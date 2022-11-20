@@ -111,3 +111,42 @@ humanity[U]人类（人性）
 
 例如◊i{a crime against humanity}反人类罪
 
+◊h2{要不是/除...之外}
+
+◊lst{
+ul
+but for/except for
+except/but (that)
+}
+
+◊lst{
+ul
+But for/Except for your support, I would be in big trouble now.
+I would buy a Mercedes except/but (that) I am poor. （从句是真实语气,与◊i{were it not for}不同）
+}
+
+◊h2{使能够}
+
+◊lst{
+ul
+make it possible for sb to do
+enable sb to do
+}
+
+◊p{◊i{render sb/sth adj}使某物如何。eg.◊i{Solar power could become a viable energy source, rendering fossil fuels obsolete.}太阳能成为一种切实可行的能源，使得化石燃料变得过时。}
+
+◊h2{群}
+
+◊lst{
+ul
+flock羊群/鸟群
+herd牛/象/鹿群
+drove驱赶之中的动物群
+pack猛兽群
+pride专门表狮群
+swarm飞虫
+colony地上爬的虫
+school/shoal鱼群
+}
+
+
