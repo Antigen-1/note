@@ -66,4 +66,26 @@ NCE4.1
 
 ◊p{例如[NCE4.24]◊i{That all great art has this power of suggesting a world beyond is ◊b{undeniable}.}不可否认，一切伟大的艺术都具有使人遐想到进入天外世界的魅力。}
 
+◊h2{双重否定}
+
+◊p{加强语气}
+
+◊p{例如：◊b{do harm to}对...有害->◊b{do no harm to/never do the least harm to}对...无害}
+
+其他的例子
+
+◊lst{
+ul
+I do not have the foggiest idea what to do next.我没有关于接下来该做什么的最模糊的想法。
+I do not have the slightest interest in boxing.我对拳击没有丝毫兴趣。
+}
+
+写作常用表达：
+
+◊lst{
+ul
+No one can avoid being influenced by...没有人可以避免某物的影响
+No one can deny that...我们都必须承认
+No one can resist...我们都会被...所吸引
+}
 

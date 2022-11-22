@@ -149,4 +149,91 @@ colony地上爬的虫
 school/shoal鱼群
 }
 
+◊h2{好的}
+
+◊lst{
+ul
+good
+beneficial
+contributing
+effective
+constructive
+}
+
+◊h2{重视}
+
+◊lst{
+ul
+think highly of
+pay attention to
+attach importance to
+}
+
+◊h2{认为}
+
+◊lst{
+ul
+I think/deem that我认为
+I cast my preference to the opinion that我更倾向于
+}
+
+◊h2{归因于}
+
+◊lst{
+ul
+owe A to B
+put A down to B
+attribute A to B
+assign A to B
+ascribe A to B
+credit A to B
+}
+
+◊h2{名词的两种替换方式}
+
+◊lst{
+ul
+同义词
+上义词（母集）
+}
+
+例如◊tbl{
+上义替换
+原词@替换
+lorry@vehicle
+ship@vessel
+giant panda@endangered species
+golf course/resort hotel(专门接待度假者的宾馆)@facility(设施)
+}
+
+例句：◊b{Giant pandas are considered a national treasure and the Chinese government are doing their best to protect the endangered species.}大熊猫被视为一种国宝，而中国政府正在尽最大努力保护这个濒危物种。
+
+◊h2{部分}
+
+◊lst{
+ul
+fraction分数/一小部分
+proportion（比例）/percentage（百分比）部分
+}
+
+搭配◊lst{
+ul
+a high/large proportion/percentage of
+a small/tiny proportion/percentage of
+}
+
+造句◊b{我们所有人加在一起挣的钱，也不过是比尔盖茨的一小部分而已。}
+
+◊p{All of us put together earn only a fraction of the money made by Bill Gates.}
+
+◊h2{此外}
+
+◊lst{
+ul
+moreover
+besides
+further/furthermore
+what is more
+in addition/additionally
+}
 
