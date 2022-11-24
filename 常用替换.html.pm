@@ -237,3 +237,10 @@ what is more
 in addition/additionally
 }
 
+◊h2{区分}
+
+◊lst{
+ul
+tell the difference,tell sb/sth apart分辨开
+distinguish/differentiate/discriminate between A and B/ A from B分辨开}
+

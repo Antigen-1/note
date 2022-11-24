@@ -64,18 +64,6 @@ should not/ought not to have done
 
 ◊p{此处do为及物动词}
 
-◊h2{when引导让步状从}
-
-◊p{此时when一般放在主句后}
-
-eg.◊b{He walks when he might take a taxi.}尽管他可以坐出租车，但他选择了步行。
-
-◊h2{while引导让步状从}
-
-while位于句首且从句为现在时时很可能表让步。eg.
-
-◊p{While the quality of the legal journalism varies greatly, there is an undue(◊i{过分的}) reliance amongst many journalists on interpretations supplied to them by lawyers.}
-
 ◊h2{虚拟语气}
 
 ◊;;TODO
@@ -87,4 +75,14 @@ while位于句首且从句为现在时时很可能表让步。eg.
 ◊p{在此例句中，除虚拟语气外，还出现了其倒装形式。}
 
 ◊p{◊i{if it were not for ...}表示”若没有...的话“，因此可以译为“若没有你的支持，想必我现在已经麻烦大了罢。”}
+
+◊h2{并列句省略}
+
+◊p{并列句中重复部分除动词搭配的介词外，只要不引起歧义均可省略。}
+
+◊lst{
+ul
+Paul likes poetry, and Peter (likes) fiction.
+Paul likes poetry, and I know that Peter likes fiction.
+}
 
