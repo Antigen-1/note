@@ -1,5 +1,5 @@
 #lang pollen/markup
-◊h1{常用替换}
+◊h1{常用表达}
 
 ◊h2{叙述，讲述}
 
@@ -243,4 +243,19 @@ in addition/additionally
 ul
 tell the difference,tell sb/sth apart分辨开
 distinguish/differentiate/discriminate between A and B/ A from B分辨开}
+
+◊h2{从事}
+
+◊p{be engaged in (doing) sth}
+
+◊h2{为了}
+
+◊lst{
+ul
+on one's behalf/on behalf of sb
+in one's interest/in the interest of sb
+}
+
+例如◊b{The guardian signed the contract on behalf of the minor child.}监护人为未成年孩子签下这份协议。
+
 
