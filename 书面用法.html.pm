@@ -63,3 +63,12 @@ whip@卷起@鞭子
 duck@躲闪@鸭子
 }
 
+◊h2{that is (to say)}
+
+◊p{相当于◊i{or more exactly}，表示“也就是说，确切来说”}
+
+◊p{例如，◊b{I loved him-that is, I thought I did.}我爱过他——确切来说，我那时认为我爱他。}
+
+◊p{又如，◊b{The fare is reduced for children, that is anyone under 15 years old.}儿童——确切来说是不满十五岁的所有人——交通费可以减免。}
+
+

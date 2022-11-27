@@ -17,3 +17,19 @@ I owe a lot to my father.
 
 ◊p{owe A to B表示把A归因于B（更多替换见常用替换）。}
 
+◊h2{authority}
+
+◊p{authority on某方面的权威}
+
+◊p{例如，◊i{Yuan Longping is a leading authority on hybrid rice.}袁隆平是杂交水稻方面首屈一指的权威。}
+
+◊p{还可表示当局：}
+
+◊lst{
+ul
+the authorities
+the local authorities
+the forest authorities
+the French/Chinese authorities}
+
+

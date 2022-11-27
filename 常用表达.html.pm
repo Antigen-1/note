@@ -258,4 +258,27 @@ in one's interest/in the interest of sb
 
 例如◊b{The guardian signed the contract on behalf of the minor child.}监护人为未成年孩子签下这份协议。
 
+◊h2{大约}
+
+◊lst{
+ul
+something like
+some
+something/somewhere in the region of}
+
+◊p{例如，[NCE4.2]◊i{...that is some/something in the region of 6000000 spiders of different kinds...}}
+
+◊p{又如，[NCE4.32]◊i{...and today we can see even his famous clash with the Inquisition in something like its proper perspective.}甚至他与宗教法庭那著名的冲突，我们如今多少也能正确的看待。}
+
+◊h2{场所}
+
+◊lst{
+ul
+pitch/field大型场地。a football/soccer ~
+court中型运动场。a tennis/basketball/badminton ~
+ring（拳击）台
+rink（溜冰）场
+baseball diamond/court棒球场
+golf course/links高尔夫球场
+bowling alley保龄球馆}
 
