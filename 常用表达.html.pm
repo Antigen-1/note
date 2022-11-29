@@ -282,3 +282,34 @@ baseball diamond/court棒球场
 golf course/links高尔夫球场
 bowling alley保龄球馆}
 
+◊h2{胡乱的}
+
+◊lst{
+ul
+wild
+unreasonable
+without careful thought
+}
+
+◊p{例如，◊b{a wild dream/imagination/speculation}白日梦/胡思乱想/瞎猜}
+
+◊h2{more than + n.}
+
+◊p{超过，不仅仅}
+
+◊p{例如[NCE4.2]◊b{It is impossible to make more than the wildest guess at how many they kill, but they are hungry creatures, (being) not content with only three meals a day.}我们几乎无法猜测它们究竟杀了多少，但是它们是饥饿的生物，对一天只有三餐饭并不满足。}
+
+◊p{造句：他们是有事业心的年轻人，不会满足于平淡的日常生活。}
+
+◊p{They are ◊b{enterprising} young people, not content with ◊b{the dull routine of everyday life.}}
+
+◊h2{guess}
+
+◊p{guess what你猜怎么着}
+
+◊p{例如◊b{Guess what?John got engaged to Susan.}你猜怎么着？约翰与苏珊订婚了。}
+
+◊p{又如◊b{Guess what?I just nominated you for this year's class treasurer.}你猜怎么着？我刚推荐你为今年我们班的生活委员。}
+
+◊p{make a guess at也可以表示“猜”}
+

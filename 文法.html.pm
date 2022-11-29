@@ -89,3 +89,7 @@ No one can deny that...我们都必须承认
 No one can resist...我们都会被...所吸引
 }
 
+◊h2{问答模式}
+
+[NCE4.2]
+
