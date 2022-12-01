@@ -342,3 +342,28 @@ broaden one's vision
 
 ◊p{例如，◊i{To some extent, they are a gang of robbers, who should be responsible for their guilt.}某种程度上，他们是一伙强盗，应当对他们的罪行负责。}
 
+◊h2{探索}
+
+◊p{pioneer[n]先驱，探索者；[v]开拓，探索}
+
+◊p{例如，◊i{Young Pioneers}少先队员}
+
+◊p{pioneering开拓性的}
+
+◊lst{
+ul
+break the ground做开创性的工作->ground-breaking[复合形容词]开创性的
+lead the way开拓，探索
+}
+
+◊h2{顶峰}
+
+◊lst{
+dl
+summit[n]山顶，顶点，峰会@hold a summit举行峰会
+summit/peak巅峰@如the summit/peak of his career他事业的巅峰
+crest山峰，波峰，巅峰
+pinnacle(建筑)尖顶，巅峰
+apex顶点，巅峰
+zenith穹顶，巅峰}
+
