@@ -313,3 +313,32 @@ without careful thought
 
 ◊p{make a guess at也可以表示“猜”}
 
+◊h2{有益的}
+
+◊lst{
+ul
+be helpful for
+be conducive to
+be beneficial to
+}
+
+◊h2{打下坚实基础}
+
+◊p{lay a solid foundation for}
+
+◊h2{开阔眼界}
+
+◊lst{
+ul
+widen one's horizon
+broaden one's vision
+}
+
+◊p{造句:◊i{Regulars of bookstores are always telling you that reading is able to widen your horizon.}书店的常客总是喋喋不休地告诉你读书能够开阔你的视野。}
+
+◊h2{某种程度上}
+
+◊p{to some extent}
+
+◊p{例如，◊i{To some extent, they are a gang of robbers, who should be responsible for their guilt.}某种程度上，他们是一伙强盗，应当对他们的罪行负责。}
+
