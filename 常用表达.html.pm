@@ -399,3 +399,17 @@ fur毛皮
 feather羽毛
 }
 
+◊h2{危险}
+
+◊lst{dl
+perilous非常危险的@peril极大的危险；in peril处在危险之中
+hazardous有风险的@hazard风险；be/present/pose/constitute a hazard to对...构成隐患@be/present/pose/constitute a threat/menance to对...构成威胁}
+
+◊h2{颤抖}
+
+◊p{shudder[v]颤抖，不寒而栗}
+
+◊p{tremble/shiver/quiver（人或物）颤抖}
+
+◊p{例如，◊i{He trembled with anger/fear/excitement.}他气/怕/兴奋得直颤抖。}
+
