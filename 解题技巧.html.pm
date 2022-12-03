@@ -66,6 +66,6 @@ ul
 
 ◊p{通用内容◊lst{dl
 过渡句@◊i{A number of factors can account for this phenomenon/issue.}@◊i{My opinions go as follows.}
-建议句@◊i{It is imperative for ... , say, ... , to ... . Only in this way can we lead to the harmony of the society.
-中间举例@◊i{It's the experience of our remote ancestors, whereas it is still correct in many circumstances even today.}}}}
+建议句@◊i{It is imperative for ... , say, ... , to ... . Only in this way can we lead to the harmony of the society.}
+中间举例@◊i{It's the experience of our remote ancestors, whereas it is still correct in many circumstances even today.}}}
 
