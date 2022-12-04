@@ -69,3 +69,10 @@ ul
 建议句@◊i{It is imperative for ... , say, ... , to ... . Only in this way can we lead to the harmony of the society.}
 中间举例@◊i{It's the experience of our remote ancestors, whereas it is still correct in many circumstances even today.}}}
 
+◊h2{听力做题流程}
+
+◊lst{ol
+勾画关键词（动词和核心名词）——试音+direction+读问题（+试卷下发后）
+预测问题（根据人称代词）&挖掘选项之间的联系（如同义词）
+勾画听到的关键词}
+
