@@ -107,4 +107,21 @@ cancer-causing substances致癌物质
 
 ◊p{一定要注意主被动关系，复合形容词中动词主被动与原有定从一致。}
 
+◊h2{sol}
+
+◊p{sol=alone}
+
+◊lst{ul
+sole单独的
+solo[n]独唱，独奏
+soliloquy独白
+solitary唯一的}
+
+◊p{如◊i{They had a single aim, a solitary goal--the top!}他们有一个唯一的目标——顶峰！（同意连用加强语气）}
+
+◊lst{ul
+solitude[n]独自
+loneliness[n]孤单}
+
+◊p{in solitude单独地}
 

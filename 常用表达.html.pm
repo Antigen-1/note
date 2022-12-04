@@ -413,3 +413,15 @@ hazardous有风险的@hazard风险；be/present/pose/constitute a hazard to对..
 
 ◊p{例如，◊i{He trembled with anger/fear/excitement.}他气/怕/兴奋得直颤抖。}
 
+◊h2{贫穷}
+
+◊lst{ul
+impoverish[v]使贫困-impoverished[adj]贫困的
+deplete使渐渐枯竭
+destitute贫困的
+这些可修饰人或地区“贫困的”◊lst{ul
+deprived
+disadvantaged
+underpriviledged}
+underdeveloped只能修饰地区“贫困的”}
+
