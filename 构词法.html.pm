@@ -125,3 +125,17 @@ loneliness[n]孤单}
 
 ◊p{in solitude单独地}
 
+◊h2{-ridden}
+
+◊p{full of sth unpleasant}
+
+◊lst{ul
+flea-ridden布满跳蚤的。flea跳蚤，flee(-fled-fled)逃跑
+debt-ridden负债累累的
+mosquito-ridden swamps到处是蚊虫的沼泽
+disease-ridden slums疾病流行的贫民窟}
+
+◊p{类似的还有-infested充满讨厌的动物的}
+
+◊p{如，◊i{shark-infested waters}到处是鲨鱼的水域}
+
