@@ -425,3 +425,19 @@ disadvantaged
 underpriviledged}
 underdeveloped只能修饰地区“贫困的”}
 
+◊h2{对...来说必不可少}
+
+◊p{be indispensable to sb/sth}
+
+◊h2{产生影响}
+
+◊p{exert positive/negative effects on}
+
+◊h2{做出共同努力}
+
+◊p{make joint efforts}
+
+◊h2{综合素质}
+
+◊p{conprehensive quality}
+
