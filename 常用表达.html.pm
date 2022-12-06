@@ -441,3 +441,26 @@ underdeveloped只能修饰地区“贫困的”}
 
 ◊p{conprehensive quality}
 
+◊h2{拥有}
+
+◊p{boast}
+
+◊lst{ul
+人作主语：炫耀。boast of/about sth炫耀；boast that夸口说
+物作主语：拥有（好的东西）}
+
+◊p{如，◊i{China and Frence boast sound bilateral relations.}中国和法国有着良好的双边关系。}
+
+◊p{此外还有}
+
+◊lst{ul
+enjoy享有
+be blessed with后天获得（好东西）
+be endowed with天生就有（好东西）
+cherish有（感情）
+}
+
+◊p{如，◊i{He cherish the memory of his late wife.}他和他故去的妻子有美好的回忆。}
+
+◊p{be free from没有（不好的东西）}
+
