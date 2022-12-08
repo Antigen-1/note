@@ -356,6 +356,8 @@ break the ground做开创性的工作->ground-breaking[复合形容词]开创性
 lead the way开拓，探索
 }
 
+◊p{predecessor前辈}
+
 ◊h2{顶峰}
 
 ◊lst{
@@ -463,4 +465,45 @@ cherish有（感情）
 ◊p{如，◊i{He cherish the memory of his late wife.}他和他故去的妻子有美好的回忆。}
 
 ◊p{be free from没有（不好的东西）}
+
+◊h2{alpinist}
+
+◊p{登山者}
+
+◊h2{当代的}
+
+◊lst{ul
+modern
+modern-day/present-day当代的
+today's/of today当今的
+contemporary当代的}
+
+◊h2{sport[un]fun,amusement}
+
+例如
+
+◊lst{ul
+◊i{Swimming in the sea will give you good(很多) sport.}在海里游泳可以给你带来很多乐趣。
+◊i{He tormented the cat only ◊b{for sport/fun.}}他折磨这只猫仅仅为了娱乐。}
+
+◊h2{实情}
+
+◊lst{ul
+This is not the case at all.这根本不是实情
+This is not always the case.这不总是实情
+This is indeed the case.这的确是实情
+This is not necessarily the case.这不一定是实情
+This might not be the case.这可能不是实情}
+
+◊h2{感}
+
+◊p{the sense of pride/honor/accomplishment}
+
+◊h2{seek}
+
+◊p{[v]try to achieve sth}
+
+◊lst{ul
+seek refuge/asylum寻求避难
+The incumbent president will not seek reelection.现任总统不会寻求连任}
 

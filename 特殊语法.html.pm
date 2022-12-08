@@ -86,3 +86,17 @@ Paul likes poetry, and Peter (likes) fiction.
 Paul likes poetry, and I know that Peter likes fiction.
 }
 
+◊h2{the 比较级，the 比较级}
+
+◊p{主/从句中主语非代词且谓语为be动词时be动词可省略}
+
+◊p{如，◊i{The younger the child (is), the more (is) the child's need of sleep.}前一个分句为从句，后一个为主句；由于主语太长主句出现完全到装}
+
+◊p{主从句语序还可以颠倒}
+
+◊p{如◊i{I play (the) better, the more I practice.}}
+
+◊p{又如◊i{A compound is considered the more stable, the smaller its potential energy.}}
+
+◊p{又如[NCE3.55]◊i{... the dust becomes thinner the further we travel towards the outer edges of our own solar system.}}
+
