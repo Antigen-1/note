@@ -69,6 +69,14 @@ ul
 建议句@◊i{It is imperative for ... , say, ... , to ... . Only in this way can we lead to the harmony of the society.}
 中间举例@◊i{It's the experience of our remote ancestors, whereas it is still correct in many circumstances even today.}}}
 
+◊h3{模板补充}
+
+◊lst{ul
+Simple as it is, the picture offers much food for speculation.尽管图片很简单，但它留给了我们很多思考空间。
+The topic can be interpreted/considered from numerous aspects, among which I will name three extremely significant ones as follows.
+The case is best illustrated by the example of ... , which, to the best of my knowledge, is by no means an isolated instance, but one that can be seen everywhere.
+We have good reasons to expect more studies carried out concerning the topic.}
+
 ◊h2{听力做题流程}
 
 ◊lst{ol
