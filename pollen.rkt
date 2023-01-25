@@ -1,6 +1,6 @@
 #lang racket/base
 (require txexpr racket/string racket/function racket/list sugar/list)
-(provide tbl lst im)
+(provide tbl lst img)
 
 (define list->lines
   (lambda (list) (filter-not null? (filter-split list (lambda (string) (and (string? string) (string=? "\n" string)))))))
@@ -43,7 +43,9 @@
                        (cons '@ (cons (cons 'dt (car e)) (map (curry cons 'dd) (cdr e)))))))
              (cdr lines)))))
 
-(define im
+(define img
   (lambda elements
-    (define l (filter-not null? (filter-split elements (curry string=? "\n"))))
-    (list 'div (txexpr 'img (list (cons 'src (car l)) (cons 'alt (cadr l)) (cons 'width (caddr l)) (cons 'height (cadddr l))) null))))
+    (txexpr 'img (list (list 'src (car elements))
+                       (list 'width "50%")
+                       (list 'alt "not supported"))
+            null)))

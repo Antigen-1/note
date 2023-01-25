@@ -45,19 +45,9 @@ ul
 
 ◊h4{结核}
 
-◊im{
-肾结核.png
-Not supported
-800
-600
-}
+◊img{肾结核.png}
 
-◊im{
-其他尿路结核.png
-Not supported
-800
-600
-}
+◊img{其他尿路结核.png}
 
 ◊h3{肿瘤}
 
@@ -113,12 +103,7 @@ Not supported
 
 ◊h2{男性生殖系统}
 
-◊im{
-前列腺.png
-Not supported
-800
-600
-}
+◊img{前列腺.png}
 
 ◊p{前列腺增生：体积增大、信号混杂}
 

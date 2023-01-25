@@ -17,7 +17,7 @@ emigrant@n
 
 ◊(br)
 
-◊img[#:src "migra.png" #:alt "not supported" #:width "600" #:height "400"]
+◊img{migra.png}
 
 ◊(br)
 
