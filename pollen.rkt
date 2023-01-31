@@ -1,6 +1,6 @@
 #lang racket/base
 (require txexpr racket/string racket/function racket/list sugar/list)
-(provide tbl lst img)
+(provide tbl lst img lnk)
 
 (define list->lines
   (lambda (list) (filter-not null? (filter-split list (lambda (string) (and (string? string) (string=? "\n" string)))))))
@@ -49,3 +49,8 @@
                        (list 'width "50%")
                        (list 'alt "not supported"))
             null)))
+
+(define lnk (lambda elements
+              (txexpr 'a
+                      (list (list 'href (car elements)))
+                      (list (car elements)))))
