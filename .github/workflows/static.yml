@@ -40,7 +40,7 @@ jobs:
       - name: Build
         run: |
           mkdir source
-          mv -t source *.p *.pp *.pm *.ptree
+          mv -t source *.p *.pp *.pm *.ptree pollen.rkt pollen-images
           raco pollen render -p source
           mkdir product
           raco pollen publish source product

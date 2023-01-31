@@ -45,7 +45,7 @@
 
 (define img
   (lambda elements
-    (txexpr 'img (list (list 'src (car elements))
+    (txexpr 'img (list (list 'src (path->string (build-path "pollen-images" (car elements))))
                        (list 'width "50%")
                        (list 'alt "not supported"))
             null)))
