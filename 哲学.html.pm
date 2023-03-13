@@ -4,4 +4,5 @@
 ◊lst{
 ul
 ◊lnk{自我.html}
+◊lnk{一般的有.html}
 }
