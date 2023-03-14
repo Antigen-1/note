@@ -507,3 +507,36 @@ This might not be the case.这可能不是实情}
 seek refuge/asylum寻求避难
 The incumbent president will not seek reelection.现任总统不会寻求连任}
 
+◊h2{诚然}
+
+◊p{It is true that/Addmittedly/Granted ... but/yet ...}
+
+◊p{造句：中国确实是一个发展中国家，但她却充满了潜力}
+
+◊p{◊i{It is true that China is still a developing country, but she is full of potential/potentialities.}}
+
+◊p{转折后常用表达有：}
+
+◊lst{
+ul
+that is not to say that
+it does not necessarily mean that
+we cannot ensure/guarantee that
+there is no guarantee that}
+
+◊h2{面对}
+
+◊p{face/confront [vt] 面对}
+
+◊p{“面对”这个动作是相互的，因此两个单词主动形式也等价于◊b{be faced/confronted with}}
+
+◊h2{equip}
+
+◊p{be equipped with配备有}
+
+◊p{be equipped in a manner which [NCE4.3] 以一种...的方式装备好}
+
+◊h2{特意（做某事）}
+
+◊p{go out of one's way (to do ...)}
+

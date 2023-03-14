@@ -41,3 +41,13 @@ while位于句首且从句为现在时时很可能表让步。eg.
 
 eg.◊b{He walks when he might take a taxi.}尽管他可以坐出租车，但他选择了步行。
 
+◊h2{at the ... (of ...)}
+
+◊p{表“一...就...”}
+
+◊P{例如}
+
+◊lst{ul
+at the thought of the manner一想到这种方式就
+they always go into raptures at the mere mention of the country [NCE3.41]他们总是仅仅提到那个国家就欣喜若狂
+She fainted at the news of her father's death她一听到父亲的死讯就昏倒了}

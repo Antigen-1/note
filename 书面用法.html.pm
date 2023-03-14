@@ -71,4 +71,21 @@ duck@躲闪@鸭子
 
 ◊p{又如，◊b{The fare is reduced for children, that is anyone under 15 years old.}儿童——确切来说是不满十五岁的所有人——交通费可以减免。}
 
+◊h2{of a ... nature}
+
+◊p{表事物种类}
+
+◊p{例如◊b{treaties of a political nature}政治协议}
+
+◊h2{同义连用}
+
+◊p{[NCE4.3] ◊i{They had a single aim, a solitary goal -- the top!}}
+
+◊p{其他例子：}
+
+◊lst{
+ul
+sick and tired烦透了
+pick and choose挑三拣四
+aches and pains到处疼}
 
