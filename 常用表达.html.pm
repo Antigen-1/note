@@ -115,13 +115,16 @@ humanity[U]人类（人性）
 
 ◊lst{
 ul
-but for/except for
-except/but (that)
+but for/except for要不是/除...之外
+were it not for(if it were not for)要不是
+except/but (that)除...之外/要不是（复合连词）
 }
+
+◊p{except/but不能置于句首}
 
 ◊lst{
 ul
-But for/Except for your support, I would be in big trouble now.
+But for/Except for/Were it not for your support, I would be in big trouble now.
 I would buy a Mercedes except/but (that) I am poor. （从句是真实语气,与◊i{were it not for}不同）
 }
 
@@ -539,4 +542,24 @@ there is no guarantee that}
 ◊h2{特意（做某事）}
 
 ◊p{go out of one's way (to do ...)}
+
+◊h2{往往}
+
+◊lst{
+ul
+tend to do
+have a tendency to do
+generally/in general
+mostly/in most cases
+on the whole/by and large
+for the most part/most of the time}
+
+◊h2{与...相隔绝}
+
+◊lst{
+ul
+be cut off from
+be out of touch with
+be isolated from
+be separated from}
 
