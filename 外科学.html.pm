@@ -7,4 +7,5 @@ ul
 ◊lnk{输血.html}
 ◊lnk{外科休克.html}
 ◊lnk{三度四分法.html}
+◊lnk{颅脑.html}
 }
