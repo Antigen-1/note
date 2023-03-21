@@ -33,6 +33,16 @@ while位于句首且从句为现在时时很可能表让步。eg.
 
 ◊p{又如◊i{As has been said above, grammar is not a set of dead rules.}正如前面所说的那样，语法不是一堆死规则。}
 
+◊p{此外as与such/the same/as/so搭配引导限定性定语从句}
+
+◊p{如[NCE4.3]◊i{such inns as there were...}那里的小酒馆。以下三个例子含义相同：}
+
+◊lst{
+ul
+I need the same tool as you are using
+I need such a tool as you are using
+I need as useful a tool as you are using}
+
 ◊h2{连词for补充说明原因}
 
 ◊h2{when引导让步状从}

@@ -563,3 +563,13 @@ be out of touch with
 be isolated from
 be separated from}
 
+◊h2{accompany}
+
+◊p{陪伴}
+
+◊p{be accompanied by伴有}
+
+◊p{这个单词的主被动和face/confront类似}
+
+◊h2{wash sth down with sth（吃东西时）用液体送下去}
+
