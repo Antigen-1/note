@@ -32,4 +32,19 @@ the local authorities
 the forest authorities
 the French/Chinese authorities}
 
+◊h2{find one's way}
+
+◊lst{ul
+人作主语：找到道路
+物作主语：到达}
+
+◊p{如[NCE3.15]◊i{Very few of the fifty pence pieces and pound coins I have given him have found their way there}我给他的五十便士和一磅的硬币很少有能到达那儿的}
+
+◊h2{promise to do}
+
+◊lst{ul
+人作主语：承诺
+物作主语：可能}
+
+◊p{如◊i{Groundbreaking research by two French geophysicists promises to shed some light on the mystery}两位法国地球物理学家的开创性研究可能揭开这一谜题}
 

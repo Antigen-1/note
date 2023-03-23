@@ -573,3 +573,8 @@ be separated from}
 
 ◊h2{wash sth down with sth（吃东西时）用液体送下去}
 
+◊h2{衣食住行}
+
+◊p{◊b{Food, clothing, shelter and transportation} are basic necessities of daily life.}
+
+◊p{四个词都不可数}
