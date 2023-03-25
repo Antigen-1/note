@@ -578,3 +578,24 @@ be separated from}
 ◊p{◊b{Food, clothing, shelter and transportation} are basic necessities of daily life.}
 
 ◊p{四个词都不可数}
+
+◊h2{change}
+
+◊p{作名词[C/U]~ (in/to sth)改变}
+
+◊p{◊i{a change in the weather}天气的变化}
+
+◊p{[NCE4.3]◊i{the change to the Alps}变换一下生活环境来到阿尔卑斯山区}
+
+◊h2{讲究的}
+
+◊lst{ul
+fine:[NCE4.3]fine linen sheets讲究的亚麻布床单}
+
+◊h2{习惯于}
+
+◊lst{ul
+be accustomed to sth/doing
+be used to sth/doing
+be in the habit of sth/doing}
+

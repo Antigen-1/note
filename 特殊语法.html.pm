@@ -100,3 +100,13 @@ Paul likes poetry, and I know that Peter likes fiction.
 
 ◊p{又如[NCE3.55]◊i{... the dust becomes thinner the further we travel towards the outer edges of our own solar system.}}
 
+◊h2{同位语}
+
+◊p{[n]和[adj]均可用作同位语}
+
+◊p{如[NCE4.3]◊i{Invariably the background was the same: dirt and poverty, and very uncomfortable}}
+
+◊p{invariably相当于always；这句话翻译为“无论住在哪情况都一样：肮脏、贫穷、极度不舒适”}
+
+
+

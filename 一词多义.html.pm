@@ -48,3 +48,9 @@ the French/Chinese authorities}
 
 ◊p{如◊i{Groundbreaking research by two French geophysicists promises to shed some light on the mystery}两位法国地球物理学家的开创性研究可能揭开这一谜题}
 
+◊h2{course}
+
+◊p{课程，疗程，航线，道（菜）}
+
+◊p{[NCE4.3]◊i{... eating seven-course dinners ...}一顿饭七道菜}
+
