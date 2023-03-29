@@ -12,4 +12,5 @@ ul
 ◊lnk{解题技巧.html}
 ◊lnk{特殊语法.html}
 ◊lnk{一词多义.html}
+◊lnk{生词.html}
 }
