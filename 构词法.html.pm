@@ -139,3 +139,14 @@ disease-ridden slums疾病流行的贫民窟}
 
 ◊p{如，◊i{shark-infested waters}到处是鲨鱼的水域}
 
+◊h2{foli}
+
+◊p{表示leaf}
+
+◊lst{ul
+portfolio port=carry [n]公文包，文件夹；投资组合
+folio[n]对折纸，对开纸
+foliage age（集合名词后缀） [U]叶子
+foliate[adj]有叶的，叶状的
+defoliant de=down [n]落叶剂
+defoliate[v]使落叶}

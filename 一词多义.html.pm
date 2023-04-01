@@ -54,3 +54,8 @@ the French/Chinese authorities}
 
 ◊p{[NCE4.3]◊i{... eating seven-course dinners ...}一顿饭七道菜}
 
+◊h2{portfolio}
+
+◊p{[n]公文包，文件夹；投资组合}
+
+◊p{◊i{My stockbroker manages my portfolio for me.}我的股票经纪人为我管理投资组合}
