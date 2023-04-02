@@ -150,3 +150,30 @@ foliage age（集合名词后缀） [U]叶子
 foliate[adj]有叶的，叶状的
 defoliant de=down [n]落叶剂
 defoliate[v]使落叶}
+
+◊h2{mort/morb/mori=death}
+
+◊p{mortgage -gage=pledge保证 [n]抵押贷款[v]抵押}
+
+◊lst{ul
+apply for a mortgage申请抵押贷款
+take out a mortgage获得抵押贷款
+pay off a mortgage还清抵押贷款
+mortgage rates抵押贷款利率
+monthly mortgage repayments每月抵押贷款还款金额}
+
+◊p{◊i{He had to mortgage his house to pay his legal costs.}他不得不抵押了他的房子来付律师费}
+
+◊p{此外还有：}
+
+◊lst{ul
+mortal [adj]终有一死的，致死的，致命的
+mortality [n]不免一死，死亡率
+immortal im/in=not [adj]不朽的，永生的
+immortality [n]不朽，永生
+morbid [adj]病态的，忧郁的
+morbidity [n]病态，发病率
+moribund bund="tending toward" [adj]垂死的，行将消亡的
+mortuary ary场所 [n]停尸房，太平间
+postmortem post=after [n]验尸 [adj]死后的
+}
