@@ -599,3 +599,8 @@ be accustomed to sth/doing
 be used to sth/doing
 be in the habit of sth/doing}
 
+◊h2{缺乏}
+
+◊p{there is a shortage of缺乏}
+
+◊p{there is no shortage of = there is/are plenty of有的是（双重否定加强语气）}

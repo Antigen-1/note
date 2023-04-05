@@ -177,3 +177,26 @@ moribund bund="tending toward" [adj]垂死的，行将消亡的
 mortuary ary场所 [n]停尸房，太平间
 postmortem post=after [n]验尸 [adj]死后的
 }
+
+◊h2{ped}
+
+◊p{表示"foot"}
+
+◊p{pedestrian ian=人 [n]行人。}
+
+◊p{pedestrian[adj]1.为行人而设的。◊i{a pedestrian bridge/walkway}为行人而设的天桥/人行道}
+
+◊p{pedestrian[adj]2.平淡的，乏味的。◊i{a pedestrian account of his childhood}对他童年的平淡讲述}
+
+◊p{其他还有：}
+
+◊lst{ul
+pedal [adj]足的，脚的[n]踏板，脚蹬子
+pedicure [n]足部治疗，修脚
+biped bi=two [n]二足动物[adj]二足的
+quadruped quadru=four [n]四足动物[adj]四足的
+centipede centi=hundred [n]蜈蚣
+expedite ex=out [v]使加速
+expedition [n]远征，考察，探险
+impede im=in [v]妨碍，阻碍
+impediment [n]障碍，语言障碍}

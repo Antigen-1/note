@@ -28,4 +28,6 @@ intuitive@直觉的
 get insight into@深入了解
 aversion@厌恶，讨厌
 crystallize@使成型，具体化
+tipster@情报贩子
+get-rich-quick@迅速致富的。◊i{a get-rich-quick scheme}快速致富的方案；◊i{She despised the get-rich-quick mentality of the 1980s}她鄙视1980年代快速致富的思维模式
 }
