@@ -108,5 +108,15 @@ Paul likes poetry, and I know that Peter likes fiction.
 
 ◊p{invariably相当于always；这句话翻译为“无论住在哪情况都一样：肮脏、贫穷、极度不舒适”}
 
+◊h2{独立主格语态}
 
+◊p{动词不定式要用主动表被动}
 
+◊p{例如[NCE4.48]◊i{leave the Las Vegas mentality to those with money to fritter}把拉斯维加斯式的心态留给那些有钱可供挥霍的人}
+
+◊p{在这里}
+
+◊lst{
+ul
+mentality[n]某种错误的心态或思维方式。◊i{I can't understand the mentality of the people who are behind this kind of violence}我无法理解支持这种暴力的人的心态
+fritter[v]浪费。~ ◊u{away sth}/◊u{sth away} on。◊i{He frittered away a fortune on fast cars and gambling}他在快车和赌博上浪费了一大笔钱}
