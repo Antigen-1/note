@@ -79,3 +79,16 @@ the French/Chinese authorities}
 ◊lst{ul
 ◊i{European missionaries converted thousands to Christianity}欧洲传教士将成千上万人转变为了基督徒
 ◊i{She converted to Catholicism}她变为了一个天主教徒}
+
+◊h2{selection}
+
+◊lst{ul
+[U]选择。◊i{selection criteria}选择标准
+[C]挑选出的事项或人。[NCE4.48]◊i{a well-planned selection of investments}一种计划周密的投资选择}
+
+◊h2{go about}
+
+◊lst{ul
+~ (doing) sth开始做某事。◊i{The leaflet tells you how to go about making a will}这份小册子告诉你如何开始立一份遗嘱
+~ sth做自己常做的事。◊i{go about one's business}忙...自己的事。如[NCE3.54]◊i{We enjoy staring at them entranced as they go about their business, unaware (we hope) of our presence}我们喜欢盯着他们看，因为他们忙着自己的事情，（但愿）没有发现我们的存在而欣喜若狂
+}

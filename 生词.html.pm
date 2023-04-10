@@ -4,7 +4,7 @@
 
 ◊tbl{
 生词表
-中文@英文
+英文@中文
 deteriorate (into sth)@恶化
 claim@诉求，索赔。insurance claim保险索赔
 submerge@使淹没
@@ -29,5 +29,10 @@ get insight into@深入了解
 aversion@厌恶，讨厌
 crystallize@使成型，具体化
 tipster@情报贩子
-get-rich-quick@迅速致富的。◊i{a get-rich-quick scheme}快速致富的方案；◊i{She despised the get-rich-quick mentality of the 1980s}她鄙视1980年代快速致富的思维模式
+get-rich-quick@迅速致富的。◊lst{ul
+◊i{a get-rich-quick scheme}快速致富的方案
+◊i{She despised the get-rich-quick mentality of the 1980s}她鄙视1980年代快速致富的思维模式}
+newcomer@新来者，新手(~ to sth)。◊lst{ul
+◊i{a special award for the most promising newcomer}对最有前途的新手的一份特殊奖励
+◊i{I'm a relative newcomer to the retail business}相对来说我是零售生意的新来者}
 }
