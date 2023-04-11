@@ -604,3 +604,18 @@ be in the habit of sth/doing}
 ◊p{there is a shortage of缺乏}
 
 ◊p{there is no shortage of = there is/are plenty of有的是（双重否定加强语气）}
+
+◊h2{声誉好的，值得信赖的[adj]}
+
+◊p{reputable/reliable}
+
+◊p{◊i{reputable dealer}值得信赖的商人}
+
+◊p{反义词disreputable[adj]名声差的，品行不端的}
+
+◊h2{组织，计划[v]}
+
+◊p{structure/organize}
+
+◊p{◊i{The exhibition is structured around three topics}这场展出是围绕三个话题组织的}
+

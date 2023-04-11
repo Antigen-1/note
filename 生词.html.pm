@@ -35,4 +35,6 @@ get-rich-quick@迅速致富的。◊lst{ul
 newcomer@新来者，新手(~ to sth)。◊lst{ul
 ◊i{a special award for the most promising newcomer}对最有前途的新手的一份特殊奖励
 ◊i{I'm a relative newcomer to the retail business}相对来说我是零售生意的新来者}
+broker@[n]经纪人，中间人，掮客
+finances@[pl]（个人、组织、国家的）财力，财源，财务管理
 }
