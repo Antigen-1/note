@@ -37,4 +37,8 @@ newcomer@新来者，新手(~ to sth)。◊lst{ul
 ◊i{I'm a relative newcomer to the retail business}相对来说我是零售生意的新来者}
 broker@[n]经纪人，中间人，掮客
 finances@[pl]（个人、组织、国家的）财力，财源，财务管理
+undoubtedly@[adv]毫无疑问
+advisor@[n]顾问。~ to sb on sth就...向...提建议的顾问
+periwig@[n]长假发
+fictitious@[adj]虚构的。◊i{The account he gives of his childhood is fictitious.}他给的他童年的描述是虚构的。
 }

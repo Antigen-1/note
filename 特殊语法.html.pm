@@ -48,7 +48,12 @@ ul
 may/might have done
 must have done
 cannot/could not have done
+would do/have done
 }
+
+◊lst{ul
+◊i{It's no use talking to Henry--he wouldn't understand}跟亨利说没用——他不会理解的
+[NCE4.48]◊i{... none of the five advisors would have suggested sinking all (or perhaps any) of your money into Periwigs}五位顾问中不会有人建议你把所有（或一部分）资金投入（sink sth in/into sth花大笔钱）Periwigs公司}
 
 表批评（虚拟）：
 
