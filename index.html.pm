@@ -3,6 +3,7 @@
 
 ◊lst{
 ul
+◊lnk{Racket.html}
 ◊lnk{哲学.html}
 ◊lnk{影像学.html}
 ◊lnk{英语.html}
