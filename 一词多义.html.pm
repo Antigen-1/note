@@ -92,3 +92,22 @@ the French/Chinese authorities}
 ~ (doing) sth开始做某事。◊i{The leaflet tells you how to go about making a will}这份小册子告诉你如何开始立一份遗嘱
 ~ sth做自己常做的事。◊i{go about one's business}忙...自己的事。如[NCE3.54]◊i{We enjoy staring at them entranced as they go about their business, unaware (we hope) of our presence}我们喜欢盯着他们看，因为他们忙着自己的事情，（但愿）没有发现我们的存在而欣喜若狂
 }
+
+◊h2{sort out}
+
+◊lst{ul
+[v]1.弄清楚，搞明白。◊i{Investigators are still trying to sort out why the accident happened.}调查者仍试图搞清楚事故为何发生
+[v]2.将...分类整理好。◊i{We need to sort out our camping gear before we go away.}我们离开之前需要分类整理好野营设备（gear[U]）
+[v]3.挑出。[NCE3.58]◊i{At least sorting out the things she should have discarded years ago was now being made easier for her.}至少现在对她来说挑出那些她本该几年前就丢弃的东西变得更简单了}
+
+◊h2{access}
+
+◊lst{ul
+[n]1.（使用某物或接触某人的）机会和权利。◊i{have access to}有机会接近
+[n]2.（接近或进入某地的）方法，通道。◊i{access to}}
+
+◊lst{
+ul
+◊i{Only high officials have access to the president}只有高级公务员有机会接近总统
+◊i{The only access to the farmhouse is across the fields}进入农舍的唯一途径是穿过田野}
+

@@ -41,4 +41,6 @@ undoubtedly@[adv]毫无疑问
 advisor@[n]顾问。~ to sb on sth就...向...提建议的顾问
 periwig@[n]长假发
 fictitious@[adj]虚构的。◊i{The account he gives of his childhood is fictitious.}他给的他童年的描述是虚构的。
+reserve@[n usu pl]储备◊i{dwindling oil reserves越来越少的石油储备}
+pension@[n]养老金
 }

@@ -619,3 +619,20 @@ be in the habit of sth/doing}
 
 ◊p{◊i{The exhibition is structured around three topics}这场展出是围绕三个话题组织的}
 
+◊h2{基础知识，基本原则，基本原理}
+
+◊lst{ul
+basics
+fundamentals(常加the)
+rudiments
+first principles}
+
+◊p{习惯用复数}
+
+◊lst{
+ul
+◊i{This range of books for young children covers basics like alphabet and numbers}这一系列给年轻孩子的书包括了像字母表和数字这种基础知识
+◊i{master the rudiments of economies}精通经济学基本原理
+◊i{Discussing all these details will get us nowhere;we must get back to first principles}讨论所有这些细节只会让我们毫无进展；我们必须回到基本原则
+[NCE4.5]◊i{Let us get down to fundamentals and agree that the young are after all human beings--people just like their elders}让我们认真研究基本原则并同意一点：年轻人终究还是人——就像他们的长辈那样的人}
+
