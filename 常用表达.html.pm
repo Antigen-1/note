@@ -341,9 +341,12 @@ broaden one's vision
 
 ◊h2{某种程度上}
 
-◊p{to some extent}
-
-◊p{例如，◊i{To some extent, they are a gang of robbers, who should be responsible for their guilt.}某种程度上，他们是一伙强盗，应当对他们的罪行负责。}
+◊lst{
+ul
+to some extent ◊i{To some extent, they are a gang of robbers, who should be responsible for their guilt.}某种程度上，他们是一伙强盗，应当对他们的罪行负责
+partly [NCE4.48]◊i{These are partly a matter of personal circumstances, partly a matter of psychology}这某种程度上是个人境遇的问题，某种程度上又是心理学的问题
+in part [NCE3.35]◊i{When we use a phrase like it serves him right, we are, in part, admitting that a certain set of circumstances has enabled justice to act of its own accord}当我们使用像“他罪有应得”这样的短语时，我们某种程度上是在承认一系列特定情形使得正义能够主动（of one's own accord）发挥作用
+to some degree [NCE4.34]◊i{Disillusionment with the parents, however good and adequate they may be both as parents and as individuals, is to some degree inevitable}无论父母作为家长抑或是个体做的多好多足够，子女对父母的幻想破灭，某种程度上都是不可避免的}
 
 ◊h2{探索}
 
@@ -635,4 +638,19 @@ ul
 ◊i{master the rudiments of economies}精通经济学基本原理
 ◊i{Discussing all these details will get us nowhere;we must get back to first principles}讨论所有这些细节只会让我们毫无进展；我们必须回到基本原则
 [NCE4.5]◊i{Let us get down to fundamentals and agree that the young are after all human beings--people just like their elders}让我们认真研究基本原则并同意一点：年轻人终究还是人——就像他们的长辈那样的人}
+
+◊h2{设立自己的目标}
+
+◊p{establish one's own aims}
+
+◊p{◊i{One should establish his own aims in early years if he means to make achievements in his life.}一个人如果打算一生中有所建树就应当早年就设立自己的目标}
+
+◊h2{...的事/问题}
+
+◊p{a/the matter/question of}
+
+◊lst{ul
+[NCE4.19]◊i{... it ◊u{looks} very much ◊u{as if} sleeping is not simply a matter of giving body a rest}仿佛睡眠不是简单的身体的休息
+[NCE4.33]◊i{Education in the wilderness is not a matter of monetary means}未开发地区的教育不是钱的问题
+[NCE4.6]◊i{..., but as soon as the question of prestige arises, ...}但一旦涉及声望问题}
 
