@@ -654,3 +654,20 @@ ul
 [NCE4.33]◊i{Education in the wilderness is not a matter of monetary means}未开发地区的教育不是钱的问题
 [NCE4.6]◊i{..., but as soon as the question of prestige arises, ...}但一旦涉及声望问题}
 
+◊h2{（某事）可能（是真的）}
+
+◊p{may/might/could well}
+
+◊p{[NCE3.59]◊i{Over the years, one may well become an authority on one's hobby and will very probably be asked to give informal talks to little gatherings and then, if successful, to larger audiences}
+过了这么多年，一个人可能成为其爱好的权威并很可能会被要求在小型集会上作非正式的报告，而如果成功的话就将面对更广的听众}
+
+◊h2{想要}
+
+◊p{wish to do sth(fml)=want to do sth=like to do sth}
+
+◊p{[NCE4.48]◊i{... and you may well wish to boost your pension income}而你可能想要提高你的退休金收入}
+
+◊p{这里boost [T]增加，提高，促进}
+
+◊p{◊i{The new resort area has boosted tourism}这个新的度假胜地游客越来越多}
+
