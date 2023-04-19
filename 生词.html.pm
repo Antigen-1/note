@@ -43,4 +43,11 @@ periwig@[n]长假发
 fictitious@[adj]虚构的。◊i{The account he gives of his childhood is fictitious.}他给的他童年的描述是虚构的。
 reserve@[n usu pl]储备◊i{dwindling oil reserves越来越少的石油储备}
 pension@[n]养老金
+frustrating@[adj]令人沮丧的
+assign@[v]布置，安排-[n]assignment任务，作业
+enroll@[v]招收，注册
+productive@[adj]富有成效的
+certification@[n]证明，鉴定
+close-minded@[adj]保守的，思想闭锁的
+refrain@[v]抑制，克制
 }
