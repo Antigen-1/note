@@ -622,6 +622,12 @@ be in the habit of sth/doing}
 
 ◊p{◊i{The exhibition is structured around three topics}这场展出是围绕三个话题组织的}
 
+◊p{construct [v]构成，构建，形成}
+
+◊lst{ul
+◊i{You must learn how to construct a logical argument}你必须学会如何构建一个合逻辑的论证过程
+[NCE4.48]◊i{construct a portfolio with some shares(but not high risk ones)}制定一份包含某些（风险不是很大的）股份的投资组合}
+
 ◊h2{基础知识，基本原则，基本原理}
 
 ◊lst{ul
@@ -670,4 +676,12 @@ ul
 ◊p{这里boost [T]增加，提高，促进}
 
 ◊p{◊i{The new resort area has boosted tourism}这个新的度假胜地游客越来越多}
+
+◊h2{优先}
+
+◊p{priority [C]优先的事物}
+
+◊p{◊i{be one's main/top/high/immediate/first priority}某人最优先要做的事}
+
+◊p{[NCE4.48]◊i{So preserving your capital and generating extra income are your main priority}因此你的首要任务就是保护你的资金并产生额外的收入}
 

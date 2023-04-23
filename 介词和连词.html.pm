@@ -61,3 +61,10 @@ eg.◊b{He walks when he might take a taxi.}尽管他可以坐出租车，但他
 at the thought of the manner一想到这种方式就
 they always go into raptures at the mere mention of the country [NCE3.41]他们总是仅仅提到那个国家就欣喜若狂
 She fainted at the news of her father's death她一听到父亲的死讯就昏倒了}
+
+◊h2{along with}
+
+◊p{还有；和...一起}
+
+◊p{[NCE3.26]◊i{A little later, a man came along with a biscuit which occupied the whole boot of his car}过了一会，有一个人和他那占据了他整个车行李箱的饼干一块过来了}
+

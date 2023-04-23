@@ -2,6 +2,7 @@
 
 ◊h1{生词}
 
+◊;在这里不作过多补充的词以及适用范围有限的词
 ◊tbl{
 生词表
 英文@中文
@@ -50,4 +51,10 @@ productive@[adj]富有成效的
 certification@[n]证明，鉴定
 close-minded@[adj]保守的，思想闭锁的
 refrain@[v]抑制，克制
+gilt@[C]金边证券
+deposit@[n]存款(make a ~存入一笔钱)
+trust@[n]信托公司。◊lst{ul
+◊i{a charitable trust}一个慈善信托
+◊i{Housing trusts help to provide houses for people who are not well off}住房信托帮助向境况不好的人提供住房}
+split@[n sing]划分，分别，份额
 }
