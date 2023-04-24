@@ -455,7 +455,7 @@ underdeveloped只能修饰地区“贫困的”}
 
 ◊lst{ul
 人作主语：炫耀。boast of/about sth炫耀；boast that夸口说
-物作主语：拥有（好的东西）}
+物作主语：[T]拥有（好的东西）}
 
 ◊p{如，◊i{China and Frence boast sound bilateral relations.}中国和法国有着良好的双边关系。}
 
@@ -468,7 +468,10 @@ be endowed with天生就有（好东西）
 cherish有（感情）
 }
 
-◊p{如，◊i{He cherish the memory of his late wife.}他和他故去的妻子有美好的回忆。}
+◊lst{ul
+◊i{He cherish the memory of his late wife.}他和他故去的妻子有美好的回忆。
+[NCE3.3]◊i{..., for it enjoyed a high level of civilization}因为它曾拥有高等的文明
+[NCE4.23]◊i{Duck, and like them the pigeons, are endowed with steel-like muscles}鸭子以及与其类似的鸽子具备钢铁般的肌肉}
 
 ◊p{be free from没有（不好的东西）}
 
@@ -684,4 +687,48 @@ ul
 ◊p{◊i{be one's main/top/high/immediate/first priority}某人最优先要做的事}
 
 ◊p{[NCE4.48]◊i{So preserving your capital and generating extra income are your main priority}因此你的首要任务就是保护你的资金并产生额外的收入}
+
+◊h2{状况}
+
+◊p{position [n]地位，状况，处境}
+
+◊p{◊i{in ◊u{a/an} ◊u{delicate/dominating/favorable/adverse} position}处在微妙/统治/有利/不利地位}
+
+◊lst{ul
+表语：◊i{She's in the enviable position of being able to choose who she works with}她处在可以挑选一起工作的人这样一种令人羡慕的地位
+状语：◊i{When two of your friends argue it puts you in a very awkward position}当你的两个朋友争论时，你就被置于一个非常尴尬的处境
+}
+
+◊h2{方式}
+
+◊p{approach [n]方式，方法，手段}
+
+◊p{take/adopt a ... approach采取方法}
+
+◊p{[NCE4.48]◊i{you may decide to take an aggressive approach}你可能决定采取积极进取的方式}
+
+◊h2{乐观的}
+
+◊p{sanguine/optimistic [adj]}
+
+◊lst{
+ul
+◊i{She was her usual sanguine self}她曾是那个惯常而乐观的她
+◊i{Josh ◊u{was} less ◊u{sanguine about} the situation in the eastern region of the country}Josh对这个国家东部地区的局势没那么乐观}
+
+◊h2{性格}
+
+◊p{disposition [C, usually sing.]性情，性格}
+
+◊lst{ul
+◊i{to have a cheerful disposition}性格快乐
+◊i{people of a nervous disposition}焦虑性格的人}
+
+◊p{indisposition [n] fml 小病，小恙}
+
+◊h2{经历}
+
+◊p{suffer [v]经历或遭受不愉快之事}
+
+◊p{◊i{suffer ◊u{pain/torture/defeat/losses}遭受痛苦/折磨/失败/亏损}}
 

@@ -2,7 +2,7 @@
 
 ◊h1{生词}
 
-◊;在这里不作过多补充的词以及适用范围有限的词
+◊;在这里不作过多补充的词以及适用范围有限的词或含义
 ◊tbl{
 生词表
 英文@中文
@@ -63,4 +63,5 @@ aesthetics@[n]审美
 portrait@[n]肖像，肖像画
 specialty@[n]专长
 image@[n]影像，肖像
+solid@[adj] financially sound殷实的
 }

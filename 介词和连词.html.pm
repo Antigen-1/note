@@ -68,3 +68,11 @@ She fainted at the news of her father's death她一听到父亲的死讯就昏�
 
 ◊p{[NCE3.26]◊i{A little later, a man came along with a biscuit which occupied the whole boot of his car}过了一会，有一个人和他那占据了他整个车行李箱的饼干一块过来了}
 
+◊h2{over}
+
+◊p{[prep] 因为，关于}
+
+◊lst{ul
+◊i{an argument over money}因钱而生的争执
+◊i{a disagreement over the best way to proceed}关于最佳的继续的方式的分歧}
+
