@@ -57,4 +57,10 @@ trust@[n]信托公司。◊lst{ul
 ◊i{a charitable trust}一个慈善信托
 ◊i{Housing trusts help to provide houses for people who are not well off}住房信托帮助向境况不好的人提供住房}
 split@[n sing]划分，分别，份额
+manufacture@[T]制造，生产
+exhibit@=exhibition [C]（一批）展览品
+aesthetics@[n]审美
+portrait@[n]肖像，肖像画
+specialty@[n]专长
+image@[n]影像，肖像
 }
