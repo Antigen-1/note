@@ -64,4 +64,21 @@ portrait@[n]肖像，肖像画
 specialty@[n]专长
 image@[n]影像，肖像
 solid@[adj] financially sound殷实的
+nutritional@[adj]营养的
+fitness check-up@健康检查
+transition@[n]转变，转型
+welfare@[n]健康，福祉
+implement@[v]执行
+prose@[n]散文
+rhyme@[n]韵脚，韵律
+brake@[n]刹车
+slam@[v]猛力地推，使劲关
+inspire@[T]鼓舞
+frontier@[n]边疆
+discourage@[T]使灰心，使沮丧
+express@[n]快递（公司）
+invoice@[n]发票，发货单
+dimension@[n]尺寸
+bring up@提出
+senator@[n]参议员
 }
