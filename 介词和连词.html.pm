@@ -68,6 +68,18 @@ She fainted at the news of her father's death她一听到父亲的死讯就昏�
 
 ◊p{[NCE3.26]◊i{A little later, a man came along with a biscuit which occupied the whole boot of his car}过了一会，有一个人和他那占据了他整个车行李箱的饼干一块过来了}
 
+◊p{近义词◊i{alongside}}
+
+◊lst{ul
+表“在...旁边”◊lst{ul
+◊i{A police car pulled up alongside us}一辆警车停在我们旁边
+[NCE3.33]◊i{a lorry-driver who was drawing up alongside the car}正在这辆车旁停车的卡车司机
+}
+表“与...在一起，与...同时”。◊lst{ul
+◊i{Tranditional beliefs still flourish alongside a modern urban lifestyle}传统的信仰在一种现代的城镇的生活方式的时代仍然繁盛
+◊i{Charles spent a week working alongside the miners}查理与矿工一起工作了一周}
+}
+
 ◊h2{over}
 
 ◊p{[prep] 因为，关于}
