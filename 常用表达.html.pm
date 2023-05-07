@@ -648,6 +648,12 @@ ul
 ◊i{Discussing all these details will get us nowhere;we must get back to first principles}讨论所有这些细节只会让我们毫无进展；我们必须回到基本原则
 [NCE4.5]◊i{Let us get down to fundamentals and agree that the young are after all human beings--people just like their elders}让我们认真研究基本原则并同意一点：年轻人终究还是人——就像他们的长辈那样的人}
 
+◊p{近义词：固定搭配◊i{golden rule}重要的原则，金科玉律}
+
+◊lst{ul
+[NCE4.48]◊i{The golden rule here is spread your risk}这里动词不定式省略了to，是不规范用法；◊i{spread}[v]分散（风险）。译为“最重要的是要分散风险”
+◊i{The golden rule in playing tennis is to watch the ball closely}打网球最重要的就是盯紧球}
+
 ◊h2{设立自己的目标}
 
 ◊p{establish one's own aims}
@@ -730,5 +736,25 @@ ul
 
 ◊p{suffer [v]经历或遭受不愉快之事}
 
-◊p{◊i{suffer ◊u{pain/torture/defeat/losses}遭受痛苦/折磨/失败/亏损}}
+◊p{◊i{suffer ◊u{pain/torture/defeat/losses}}遭受痛苦/折磨/失败/亏损}
+
+◊h2{考虑之后选择}
+
+◊p{decide on/upon}
+
+◊p{◊i{Have you decided on a date for the wedding}你有考虑后选择结婚日期吗}
+
+◊h2{将自己当作或称为某种人}
+
+◊p{◊i{set oneself up as sb}固定搭配}
+
+◊lst{ul
+◊i{He likes to set himself up as an intellectual}他喜欢将自己当作知识分子
+◊i{politicians who set themselves up as moral authorities}自称为有道德的当权者的政客}
+
+◊h2{受制于...的人}
+
+◊p{a hostage to sth}
+
+◊p{◊i{With the reduction in foreign investments, the government will be even more a hostage to the whims of the international oil price}随着外国投资的减少，政府将会越来越受制于国际油价的波动}
 

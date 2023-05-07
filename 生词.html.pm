@@ -81,4 +81,5 @@ invoice@[n]发票，发货单
 dimension@[n]尺寸
 bring up@提出
 senator@[n]参议员
+put@[v]投资。◊i{~ ... in/into}投资...到。如◊i{put her money in/into the company}将她的钱投进这家公司
 }
