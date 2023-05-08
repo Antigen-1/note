@@ -82,4 +82,11 @@ dimension@[n]尺寸
 bring up@提出
 senator@[n]参议员
 put@[v]投资。◊i{~ ... in/into}投资...到。如◊i{put her money in/into the company}将她的钱投进这家公司
+recruiter@[n]招聘人员
+incentive@[n]激励，刺激
+fleet@[n]机群
+interior@[n]内部
+correspondence@[n]通信
+critic@[n]评论家，批评家
+connectivity@[n]连接，连通性
 }
