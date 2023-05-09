@@ -200,3 +200,15 @@ expedite ex=out [v]使加速
 expedition [n]远征，考察，探险
 impede im=in [v]妨碍，阻碍
 impediment [n]障碍，语言障碍}
+
+◊h2{solid}
+
+◊lst{ul
+solid[adj]结实的，实心的，立体的
+solidarity[n]团结
+consolidate[v]巩固}
+
+◊lst{ul
+◊i{safeguard national and ethnic solidarity}维护国家和民族团结
+◊i{consolidate and strengthen the bilateral relationship}巩固和加强双边关系}
+

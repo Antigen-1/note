@@ -111,3 +111,21 @@ ul
 ◊i{Only high officials have access to the president}只有高级公务员有机会接近总统
 ◊i{The only access to the farmhouse is across the fields}进入农舍的唯一途径是穿过田野}
 
+◊h2{solid}
+
+◊p{[adj]1.结实的}
+
+◊p{◊i{The villa has solid foundations}这栋别墅有着坚固的地基}
+
+◊p{反义词◊i{flimsy}不结实的}
+
+◊p{◊i{a flimsy excuse}站不住脚的借口}
+
+◊p{[adj]2.实心的}
+
+◊p{反义词◊i{hollow}空心的}
+
+◊p{[adj]3.立体的}
+
+◊p{◊i{solid geometry}立体几何}
+
