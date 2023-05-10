@@ -212,3 +212,13 @@ consolidate[v]巩固}
 ◊i{safeguard national and ethnic solidarity}维护国家和民族团结
 ◊i{consolidate and strengthen the bilateral relationship}巩固和加强双边关系}
 
+◊h2{-fold}
+
+◊p{[adj/adv]倍数}
+
+◊p{twofold/fourfold/tenfold}
+
+◊lst{ul
+◊i{a tenfold increase}十倍的增长
+◊i{Business has increased tenfold}生意增长了十倍}
+

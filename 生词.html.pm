@@ -89,4 +89,5 @@ interior@[n]内部
 correspondence@[n]通信
 critic@[n]评论家，批评家
 connectivity@[n]连接，连通性
+blindfold@[adj/adv]被蒙住眼睛的（地）
 }

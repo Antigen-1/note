@@ -758,3 +758,30 @@ ul
 
 ◊p{◊i{With the reduction in foreign investments, the government will be even more a hostage to the whims of the international oil price}随着外国投资的减少，政府将会越来越受制于国际油价的波动}
 
+◊h2{委员会}
+
+◊p{commission[n]专门指用于调查的委员会}
+
+◊p{如◊i{National Development and Reform Commission}国家发改委}
+
+◊p{committee[n]（行使权力）委员会}
+
+◊p{◊i{the Standing Committee of the National People's Congress}全国人民代表大会常务委员会}
+
+◊p{council理事会，委员会}
+
+◊lst{
+ul
+◊i{the State Council}国务院
+◊i{the United Nations Security Council}联合国安理会}
+
+◊h2{...透明的}
+
+◊p{opaque[adj]不透明的}
+
+◊p{◊i{God's reason, if he has any, are opaque to us}神的理由——如果祂有的话——对我们来说也是难以理解的}
+
+◊lst{ul
+transparent[adj]透明的
+translucent[adj]半透明的}
+
