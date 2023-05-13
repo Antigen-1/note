@@ -129,3 +129,13 @@ ul
 
 ◊p{◊i{solid geometry}立体几何}
 
+◊h2{see+through}
+
+◊lst{dl
+see through看穿@◊i{We can all see through your little game}我们都能看穿你的小把戏
+see sb through sth帮助...度过...。@◊i{Her courage and perseverance saw her through the hard times}她的勇气和毅力帮助她度过了困难的时期
+see sth through坚持完成@替换：get sth over with/stick sth out@◊i{The English course is very hard to learn, but I determine to see it through}这个英语课程非常难学但我决心要完成它@◊i{She promised to stand by him, and once you make that commitment you have to see it through}她承诺支持他，而你一旦作了这种承诺你必须坚持完成。在这里stand by◊lst{ul
+不接宾语：袖手旁观
+接宾语：支持}
+}
+

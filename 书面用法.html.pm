@@ -5,23 +5,25 @@
 
 ◊p{状语中一般地点在时间之前，但避免头重脚轻时可颠倒。}
 
-eg.[NCE4.1]◊b{...happened 5000 years in the Near East,where...}
+◊p{eg.[NCE4.1]◊b{...happened 5000 years ago in the Near East,where...}}
 
 ◊p{因为这个原因发生的颠倒需要仔细辨别。}
 
-eg1.◊b{What is an intellectual?I shall define him as an individual who has elected as his primary duty and pleasure in life the activity of thinking in Socratic way about moral problems.}
+◊p{eg1.◊b{What is an intellectual? I shall define him as an individual who has elected as his primary duty and pleasure in life the activity of thinking in Socratic way about moral problems.}}
 
-◊(br)
+◊p{什么是知识分子？我会将其定义为这样一个个体：他选择将以苏格拉底的方式思考道德问题视为生活中首要的责任和乐趣。}
 
-什么是知识分子？我会将其定义为这样一个个体：他选择将以苏格拉底的方式思考道德问题视为生活中首要的责任和乐趣。
+◊p{eg2.◊b{As a logical consequence of this development,separate journals have now appeared aimed mainly towards either professional or amateur readership.}}
 
-◊(br)
+◊p{作为这种发展的一种必然的结果，现在已经出现了主要针对专业或业余读者的分开的刊物。}
 
-eg2.◊b{As a logical consequence of this development,separate journals have now appeared aimed mainly towards either professional or amateur readership.}
+◊p{eg3.◊b{His function is analogous to that of a judge, who must accept the obligation of revealing ◊u{in as obvious a manner as possible} the course of reasoning which led him to his decision}}
 
-◊(br)
+◊p{他和法官作用相似，都必须承担这样一种责任，即以尽可能清晰的方式揭示使得自己做出决定的推理过程}
 
-作为这种发展的一种必然的结果，现在已经出现了主要针对专业或业余读者的分开的刊物。
+◊p{[NCE4.4]出现了定语后置，◊b{Several ◊i{cases} have been reported in Russian recently ◊i{of people who ...}}俄罗斯最近报道了几个关于...的人的案例}
+
+◊p{同位语的后置见于《独立宣言》，◊b{We hold these truth ◊u{to be self-evident}, that ...}}
 
 ◊h2{无灵主语/物称主语}
 

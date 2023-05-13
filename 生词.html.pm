@@ -90,4 +90,7 @@ correspondence@[n]通信
 critic@[n]评论家，批评家
 connectivity@[n]连接，连通性
 blindfold@[adj/adv]被蒙住眼睛的（地）
+safe@[n]保险柜
+discard@[v]抛弃
+disperse@[v]使消散
 }

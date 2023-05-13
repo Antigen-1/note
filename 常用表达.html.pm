@@ -785,3 +785,12 @@ ul
 transparent[adj]透明的
 translucent[adj]半透明的}
 
+◊h2{费力地觉察}
+
+◊p{detect/perceive/discern[v]}
+
+◊lst{
+ul
+◊i{He is too young to be able to discern between right and wrong}他太年轻了以至于无法分辨对错
+◊i{I detected a hint of irony in her words}我在她的言谈间察觉到了讽刺的味道}
+
