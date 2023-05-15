@@ -794,3 +794,28 @@ ul
 ◊i{He is too young to be able to discern between right and wrong}他太年轻了以至于无法分辨对错
 ◊i{I detected a hint of irony in her words}我在她的言谈间察觉到了讽刺的味道}
 
+◊h2{关于}
+
+◊p{◊i{concern/be concerned with}与◊i{face/confront}类似}
+
+◊lst{ul
+◊i{a book concerning music}
+◊i{a book concerned with music}}
+
+◊h2{视力}
+
+◊lst{ul
+◊i{have normal vision}视力正常
+◊i{have good/perfect/20-20 vision}
+◊i{have bad/poor/defective vision}}
+
+◊lst{ul
+◊i{near-sighted/short-sighted}近视
+◊i{far-sighted/long-sighted}远视}
+
+◊p{其他相关词汇}
+
+◊lst{ul
+ophthalmologist眼科医生
+optometrist/optician验光师}
+
