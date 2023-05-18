@@ -819,3 +819,28 @@ ul
 ophthalmologist眼科医生
 optometrist/optician验光师}
 
+◊h2{偶然}
+
+◊lst{ul
+happen to do/chance to do偶然发生
+it happen that/it chance that偶然
+as it happen[习语]偶然}
+
+◊lst{ul
+I happened/chanced to meet an old friend ◊u{in town（在镇上）}
+It happened/chanced that I met an old friend in town
+As it happened, I met an old friend in town}
+
+◊lst{ul
+by accident
+by chance
+accidentally
+as luck would have it[固定搭配]}
+
+◊p{都表示碰巧}
+
+◊lst{
+ul
+I met an old friend in town ◊u{by accident/by chance/accidentally}
+As luck would have it, I met an old friend in town}
+
