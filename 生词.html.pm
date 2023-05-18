@@ -93,4 +93,46 @@ blindfold@[adj/adv]被蒙住眼睛的（地）
 safe@[n]保险柜
 discard@[v]抛弃
 disperse@[v]使消散
+entrepreneur@[n]企业家
+downfall@[n]垮台或衰落的原因
+broke@[adj]破产的
+honorable@[adj]光荣的
+physical punishment@体罚
+discipline@[v]训导，管教
+annoyance@[n]恼怒
+slap@[v]掌击，掴
+previously@[adv]事先，预先
+wrongdoing@[n]坏事，不道德的行为
+resort@[n]采取的应急手段或对策；休闲度假之处
+ranch@[n]大牧场，农场
+despute@[n]争议，争论
+hectare@[n]公顷
+grizzly bear@灰熊
+monument@[n]纪念碑
+river-rafting@漂流，泛舟
+acrobatic@[adj]杂技的
+venue@[n]举办场所
+tightwad@[n]吝啬鬼
+spendthrift@[n]浪费的人
+thrifty@[adj]节俭的
+certificate of deposit@定期存款单
+rejuvenate@[T]使恢复活力
+soothe@[T]缓和，减轻痛苦
+endorphin@[n]内啡肽
+therapist@[n]治疗师，理疗师
+lottery@[n]抓阄，抽彩
+live off campus@住在校外
+give priority to@优先考虑
+melody@[n]旋律
+harmony@[n]和声
+vulgar@[adj]粗俗的，庸俗的
+workmanship@[n]技艺，工艺
+exaggerate@[T]夸张，夸大
+on offer@在售，在削价销售
+appliance@[n]用具，器具
+hasty@[adj]仓促的，匆忙的
+mental ability@心智
+visual arts@视觉艺术
+social mobility@社会流动性
+be intent on doing sth@立志做某事
 }
