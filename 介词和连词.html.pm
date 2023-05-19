@@ -88,3 +88,22 @@ She fainted at the news of her father's death她一听到父亲的死讯就昏�
 ◊i{an argument over money}因钱而生的争执
 ◊i{a disagreement over the best way to proceed}关于最佳的继续的方式的分歧}
 
+◊h2{in+单位}
+
+◊lst{ul
+◊i{Lions often hunt in pairs}狮子总是成双地捕猎
+◊i{People began to arrive in twos and threes}人们开始三三两两地来了}
+
+◊h2{特殊先行词定语从句的连词}
+
+◊p{◊i{the way ◊u{in which/that/省略连词}}}
+
+◊lst{ul
+[NCE3.27]◊i{The conditions of society are such that skills have to be paid for ◊u{in the same way that goods are paid for at a shop}社会环境是这样的：人们需要付费使用技能，就像商店里货物需要付费才能提供那样}
+[NCE4.4]◊i{... and even described ◊u{the way they were done up in bundles}}并且甚至描述了它们成束固定好的样子
+[NCE4.44]◊i{◊u{any way in which he can affect tranditional custom}}他（个人）能对传统习俗产生的任何影响}
+
+◊lst{ul
+◊i{the time ◊u{when/at which/that/省略连词}}
+◊i{the day ◊u{when/on which/that/省略连词}}}
+

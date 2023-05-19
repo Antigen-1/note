@@ -844,3 +844,13 @@ ul
 I met an old friend in town ◊u{by accident/by chance/accidentally}
 As luck would have it, I met an old friend in town}
 
+◊h2{固定好}
+
+◊p{◊i{do ... up=fasten}}
+
+◊p{常可以以基本含义为基础灵活翻译}
+
+◊lst{ul
+◊i{He stopped to do up his shoe lace}他停下来系好鞋带
+◊i{All the packages are done up and ready for the post}所有包裹都打包好并准备好邮寄了}
+

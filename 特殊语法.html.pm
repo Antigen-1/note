@@ -131,3 +131,12 @@ Paul likes poetry, and I know that Peter likes fiction.
 ul
 mentality[n]某种错误的心态或思维方式。◊i{I can't understand the mentality of the people who are behind this kind of violence}我无法理解支持这种暴力的人的心态
 fritter[v]浪费。~ ◊u{away sth}/◊u{sth away} on。◊i{He frittered away a fortune on fast cars and gambling}他在快车和赌博上浪费了一大笔钱}
+
+◊h2{宾补}
+
+◊p{[NCE4.4]◊i{kept so many old newspapers ◊u{locked away there}}}
+
+◊p{◊i{lock sth up/away}把...锁好}
+
+◊p{在这里过去分词作宾语补足语。其与定语的区别在于与宾语有着逻辑上的主谓关系}
+
