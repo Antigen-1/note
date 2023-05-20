@@ -137,4 +137,38 @@ social mobility@社会流动性
 be intent on doing sth@立志做某事
 gather one's wits@镇静一下
 give sb a test@给某人进行一个测试
+occurrence@[n]发生，事件
+age-discriminatory@[adj]年龄歧视的
+reciprocal@[adj]相互的
+heirloom@[n]祖传遗物
+segregation@[n]种族隔离
+analogy@[n]类比
+senile@[adj]衰老的
+make up lost ground@收复失地
+despondent@[adj]沮丧的，失望的
+prosper@[v]繁荣，兴旺发达
+in that regard@关于那件事，在此方面
+saturated@[adj]饱和的
+in vitro@在生物体外，在试管中
+predisposition@[n]倾向
+prostate@[n]前列腺
+pictorial@[adj]图片的
+clumsy@[adj]笨拙的
+flirtatious@[adj]调情的
+embark on@着手做某事
+longitudinal@[adj]纵向的
+intergalactic@[adj]银河间的，星际间的
+stumble upon@偶然发现
+tap into@利用，开发
+mimic@[v]模仿
+staple@[n]主食
+break the mould@打破常规
+ubiquitous@[adj]无处不在的
+greasy spoon@廉价小吃店
+fry-up@[n]煎火腿，煎鸡蛋
+grab and go@取了就走，打包带走
+mainstay@[n]支柱，主要的依靠
+leftovers@[n]剩菜剩饭
+munchies@[n]快餐，小吃
+tuck into@大吃一顿，痛快地吃
 }
