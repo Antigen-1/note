@@ -854,3 +854,25 @@ As luck would have it, I met an old friend in town}
 ◊i{He stopped to do up his shoe lace}他停下来系好鞋带
 ◊i{All the packages are done up and ready for the post}所有包裹都打包好并准备好邮寄了}
 
+◊h2{引起注意}
+
+◊lst{ul
+be brought to (sb's) ◊u{(the)} notice/attention ◊u{(of sb)}
+come to (sb's) ◊u{(the)} notice/attention ◊u{(of sb)}}
+
+◊p{近义词，◊i{come to light/be brought to light}“被了解”}
+
+◊lst{ul
+◊i{Their working conditions were ◊u{only(only+时间状语表“直到”)} brought to public notice/attention last year}他们的工作环境直到去年才进入公众视野
+[NCE3.32]◊i{From this the captain was able to piece together all the information that had come to light}从这开始船长才得以拼凑起了解到的所有信息}
+
+◊h2{一系列}
+
+◊p{◊i{a series/train/chain/string/stream/succession/progression of}}
+
+◊p{◊i{a series of rainy days}一连串的雨天}
+
+◊h2{部门}
+
+◊p{◊i{the Ministry/Department of Health/Education/Commerce/Finance}卫生/教育/商务/财政部}
+

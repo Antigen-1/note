@@ -136,4 +136,5 @@ visual arts@视觉艺术
 social mobility@社会流动性
 be intent on doing sth@立志做某事
 gather one's wits@镇静一下
+give sb a test@给某人进行一个测试
 }
