@@ -171,4 +171,5 @@ mainstay@[n]支柱，主要的依靠
 leftovers@[n]剩菜剩饭
 munchies@[n]快餐，小吃
 tuck into@大吃一顿，痛快地吃
+yacht@[n]游艇
 }

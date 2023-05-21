@@ -794,6 +794,12 @@ ul
 ◊i{He is too young to be able to discern between right and wrong}他太年轻了以至于无法分辨对错
 ◊i{I detected a hint of irony in her words}我在她的言谈间察觉到了讽刺的味道}
 
+◊p{◊i{make out}困难地听到或看到某人/某物}
+
+◊lst{ul
+◊i{I could just make out a figure in the darkness}我只能很困难地在黑暗中看到一个人影
+◊i{I couldn't make out what he was saying}我无法听清他在说什么}
+
 ◊h2{关于}
 
 ◊p{◊i{concern/be concerned with}与◊i{face/confront}类似}
@@ -875,4 +881,29 @@ come to (sb's) ◊u{(the)} notice/attention ◊u{(of sb)}}
 ◊h2{部门}
 
 ◊p{◊i{the Ministry/Department of Health/Education/Commerce/Finance}卫生/教育/商务/财政部}
+
+◊h2{更...的是}
+
+◊p{◊u{stranger/better/worse/harder} still}
+
+◊p{◊i{The medical expenses are a massive drain. Worse still, Greg may lose his job}医疗费用是一个巨大的耗费。更糟的是，Greg可能会失去工作}
+
+◊p{◊i{to make things/matters worse}[习语]更糟的是}
+
+◊p{“更不用说”：}
+
+◊lst{ul
+let alone用于否定句中，前后词性相同（作为连词）
+not to mention用于肯定句，后接名词（作为非谓语动词）}
+
+◊lst{ul
+◊i{I don't suspect him of theft, let alone of robbery}我没怀疑他会去偷窃，更别说去抢劫了
+◊i{The dampness is unpleasant, not to mention the cold}潮湿已经很让人不适了，更别提寒冷了}
+
+◊p{写作积累}
+
+◊lst{ul
+◊i{In short, without better evidence that the survey is statistically reliable the chairperson cannot rely on it to draw any firm conclusion about the overall recycling commitment of West Egg residents--let alone about how quickly the landfill will reach capacity}简单来说，在没有更好的证据证明这个调查在统计学上可靠的情况下，主席不能依赖于它得出任何确切的、关于West Egg地区居民总的再循环投入——更不用说关于填埋场多快会达到容积上限——的结论
+◊i{Moreover, the author has not shown any correlation, let alone a cause-and-effect relationship, between the number of hours a person spends watching television and that industry's profits}而且，作者没有说明一个人看电视的小时数和该行业利润的任何关联，更别提因果关系了
+◊i{In short, without ruling out other possible reasons for the strong sales the vice president cannot convince me that Plainsville residents are exercising regularly, let alone that they would be interested in buying the sorts of food and other products that NW sells}简单来说，在销售额坚挺的其他可能原因未被排除的情况下副主席无法让我相信Plainsville的居民经常锻炼，更不用提他们会有兴趣购买NW会销售的那些食物和其他产品}
 

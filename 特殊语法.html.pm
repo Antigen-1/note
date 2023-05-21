@@ -89,13 +89,15 @@ should not/ought not to have done
 
 ◊h2{并列句省略}
 
-◊p{并列句中重复部分除动词搭配的介词外，只要不引起歧义均可省略。}
+◊p{并列句中重复部分除动词搭配的介词（含动词不定式的to）外，只要不引起歧义均可省略。}
 
 ◊lst{
 ul
 Paul likes poetry, and Peter (likes) fiction.
 Paul likes poetry, and I know that Peter likes fiction.
 }
+
+◊p{另外需注意，分号连接的常为并列句}
 
 ◊h2{the 比较级，the 比较级}
 
