@@ -172,4 +172,34 @@ leftovers@[n]剩菜剩饭
 munchies@[n]快餐，小吃
 tuck into@大吃一顿，痛快地吃
 yacht@[n]游艇
+escapism@[n]逃避现实
+art house@艺术剧院
+auditorium@[n]礼堂，观众席
+slurp@[v]吃或喝（某物）时嘴唇发出很响的声音
+bugbear@[n]使人畏惧或厌恶的事物
+engrossed@[adj]全神贯注的
+multiplex@[n]大型电影院
+etiquette@[n]礼仪
+munch@[v]大口咀嚼（食物）
+code of conduct@行为准则
+cinematography@[n]电影艺术
+freebie@[n]免费品，赠品
+complimentary@[adj]免费赠送的
+trendsetter@[n]引领潮流的人
+dweller@[n]居民，居住者
+behavioural@[adj]行为的
+commute@[n]通勤来往的道路
+upmarket@[adj]高级的，高档的
+endorse@[v]公开支持，赞同
+measure up@符合（标准），达到（期望）
+odds and ends@零碎的杂物
+bank on@寄希望于
+wear out@磨损，用坏，耗尽
+mindset@[n]观念模式，思维倾向
+luxuriate@[v]沉溺
+tyranny@[n]暴虐，专横
+grip@[v]紧握，紧抓
+obsessed@[adj]着迷的
+enforcement@[n]实施，执行
+lottery@[n]抽签，彩票
 }
