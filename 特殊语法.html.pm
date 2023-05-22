@@ -142,3 +142,16 @@ fritter[v]浪费。~ ◊u{away sth}/◊u{sth away} on。◊i{He frittered away a
 
 ◊p{在这里过去分词作宾语补足语。其与定语的区别在于与宾语有着逻辑上的主谓关系}
 
+◊h2{状从省略}
+
+◊p{条件：主从句主语统一且状从谓语含be动词，即可省略状从主语和be动词}
+
+◊lst{
+ul
+[NCE4.4]◊i{..., except when (she was) blindfold she lacked the ability to perceive things with her skin}除非是被遮住双眼，她缺乏用皮肤感知事物的能力
+◊i{Metals expand when (they are) heated and contract when (they are) cooled}金属受热膨胀，遇冷收缩}
+
+◊p{状语从句主语为虚主语it且谓语含be动词也可省略◊u{it be}}
+
+◊p{◊i{We'll resolve the Taiwan issue with peaceful means when (it is) ever possible, with force when (it is) necessary}任何时候只要条件允许我们会通过和平手段解决台湾问题，而必要时我们会使用武力}
+
