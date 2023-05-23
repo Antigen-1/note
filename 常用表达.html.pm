@@ -907,3 +907,29 @@ not to mention用于肯定句，后接名词（作为非谓语动词）}
 ◊i{Moreover, the author has not shown any correlation, let alone a cause-and-effect relationship, between the number of hours a person spends watching television and that industry's profits}而且，作者没有说明一个人看电视的小时数和该行业利润的任何关联，更别提因果关系了
 ◊i{In short, without ruling out other possible reasons for the strong sales the vice president cannot convince me that Plainsville residents are exercising regularly, let alone that they would be interested in buying the sorts of food and other products that NW sells}简单来说，在销售额坚挺的其他可能原因未被排除的情况下副主席无法让我相信Plainsville的居民经常锻炼，更不用提他们会有兴趣购买NW会销售的那些食物和其他产品}
 
+◊h2{停止}
+
+◊lst{ul
+cease to do/cease doing停止做某事
+stop to do停下来去做某事
+stop doing停止做某事}
+
+◊lst{ul
+◊i{There are instances when patriotism ceases to be an empty slogan}在这几个例子中爱国主义不再是空洞的口号
+◊i{Stop to smell the flowers}停下来去闻花朵
+◊i{Please stop smoking. Smoke really bothers me}请停止吸烟。烟雾真的很让我困扰
+}
+
+◊h2{湿的}
+
+◊lst{ul
+wet潮湿的
+moist（中）&damp（贬）潮湿的
+humid湿度大的}
+
+◊lst{ul
+a wet sponge一块湿海棉
+Bring me a moist towel给我拿一块湿毛巾
+a cold, damp collar一条冷而且湿的领子
+humid atmosphere湿度大的空气}
+

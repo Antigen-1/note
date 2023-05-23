@@ -105,5 +105,6 @@ She fainted at the news of her father's death她一听到父亲的死讯就昏�
 
 ◊lst{ul
 ◊i{the time ◊u{when/at which/that/省略连词}}
-◊i{the day ◊u{when/on which/that/省略连词}}}
+◊i{the day ◊u{when/on which/that/省略连词}}
+◊i{the moment ◊u{at which/when/that/省略连词}}}
 
