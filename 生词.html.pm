@@ -202,4 +202,25 @@ grip@[v]紧握，紧抓
 obsessed@[adj]着迷的
 enforcement@[n]实施，执行
 lottery@[n]抽签，彩票
+articulate@[adj]发音清晰的，善于表达的
+spin@[n]（政治）粉饰
+imaginery@[n]形象化描述
+exceptional@[adj]杰出的，卓越的
+alliteration@[n]头韵
+fantasize@[v]幻想，想象
+credible@[adj]可信的，可靠的
+transmitter@[n]传送者，传达者
+work out@了解，懂得
+seafront@[n]海岸区，海滨区
+crave@[v]渴望
+candlelit@[adj]点蜡烛的
+sift through@筛选
+intimidating@[adj]吓人的，令人生畏的
+genuine@[adj]真诚的
+household@[n]家庭
+under the same roof@在同一个屋檐下
+tirelessly@[adv]不知疲倦的
+veggie@[n]蔬菜，素食者
+primal@[adj]主要的，最初的
+crockery@[n]餐用器皿
 }
