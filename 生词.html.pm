@@ -223,4 +223,36 @@ tirelessly@[adv]不知疲倦的
 veggie@[n]蔬菜，素食者
 primal@[adj]主要的，最初的
 crockery@[n]餐用器皿
+irritable@[adj]烦躁的
+grumpy@[adj]易怒的，脾气暴躁的
+persistently@[adv]反复地，一直
+antisocial@[adj]不合群的，不喜社交的
+hot under the collar@恼火的，窘迫的
+badge@[n]徽章
+workaholic@[n]工作狂
+workafrolic@[n]以工作为乐的人
+rejection@[n]抛弃
+key lime@青柠檬
+vanilla@[n]香草
+extract@[n]榨出物，汁，精
+reinforce@[v]加强，强化
+distortion@[n]歪曲，扭曲，失真
+delta@[n]三角洲
+lizard@[n]蜥蜴
+vegetation@[n]植被
+jaguar@[n]美洲豹，美洲虎
+anaconda@[n]森蚺
+wingspan@[n]翼展，翼幅
+canopy@[n]遮篷，（树）冠
+hemisphere@[n]半球
+harpy eagle@美洲角雕
+thaw@[n]融化，解冻
+disclose@[v]公开，揭露
+rant@[n]咆哮
+expertise@[n]专门技术，专门知识
+earful@[n]怨言，数落
+severance@[n]离职补偿金
+prospective@[adj]未来的，可能的
+transitional@[adj]过渡的
+alumni@[n]校友
 }
