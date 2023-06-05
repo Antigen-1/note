@@ -255,4 +255,62 @@ severance@[n]离职补偿金
 prospective@[adj]未来的，可能的
 transitional@[adj]过渡的
 alumni@[n]校友
+terrific@[adj]极好的
+rate@[n]费用
+seminar@[n]研讨班，研讨会
+asset@[n]资产，财产
+fearfulness@[n]恐惧，害怕
+regionalism@[n]地方主义
+identify with@认同
+neutral@[adj]中性的，中立的
+slang@[n]俚语
+stoop@[v]弯腰
+light-hearted@[adj]轻松的
+selfie@[n]自拍照
+snub@[v]冷落
+legion@[n]大批的人，军团
+intersection@[n]十字路口
+prompt@[v]促使
+commission@[v]委任，委托
+trinket@[n]小饰品
+hitch@[n]小问题，小麻烦
+polar opposite@完全相反的一面，对立面
+introvert@[n]内向的人。◊i{introverted}[adj]内向的
+intellectuality@[n]智力，理智性
+crystallization@[n]结晶，具体化
+chaotic@[adj]混乱的
+extroverted@[adj]外向的
+minimalist@[n]简约者
+conscientious@[adj]认真的，尽责的
+self-explanatory@[adj]不言自明的
+memento@[n]纪念品
+associate degree@大专文凭，副学士学位
+insight@[n]深刻的见解，洞察力
+have no clue@毫无头绪的，一无所知的
+reference@[n]推荐信
+mow@[v]割草
+make a fuss@大惊小怪，小题大做
+audit@[v]旁听，审计
+multiethnic@[adj]多民族的
+apartheid@[n]种族隔离
+descent@[n]血统，家世，出身
+pursuit@[n]追求，追寻
+algae@[n]水藻，藻类
+aquatic@[adj]水生的
+consecutive@[adj]连续的，连贯的
+incorporate@[v]包含，吸收，合并
+interject@[v]打断，插嘴，插话
+immersion@[n]沉浸，浸沒
+steward@[n]管家，乘务员
+privileged@[adj]有特权的，荣幸的
+visualize@[v]设想，想象
+slide projector@幻灯片投影仪
+graphic novel series@系列漫画小说
+mutant@[adj]突变的，变异的
+wake@[n]（葬礼前的）守夜，守灵
+validate@[v]证实，确认
+cafetorium@[n]兼作礼堂和自助餐厅的大厅
+nunchucks@[n]双节棍
+mathlete@[n]参加数学竞赛的人
+casket@[n]骨灰盒
 }
