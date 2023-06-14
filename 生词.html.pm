@@ -313,4 +313,32 @@ cafetorium@[n]兼作礼堂和自助餐厅的大厅
 nunchucks@[n]双节棍
 mathlete@[n]参加数学竞赛的人
 casket@[n]骨灰盒
+pass back@发回，发下来，回传
+due@[adj]到期的，预期的
+erosion@[n]侵蚀
+turbidity current@浑浊流
+tremendous@[adj]巨大的
+sediment@[n]沉淀物
+stir up@搅和，搅动
+suspend@[I]悬浮
+contradict@[T]反驳；相矛盾
+gravitational force@重力
+collide@[I]碰撞
+plausible@[adj]似乎正确的
+diameter@[n]直径
+splash@[n]飞溅
+condense@[I]凝聚，浓缩
+originate@[I]起源，产生
+undergo@[T]经历，承受
+overgraze@[T]过度放牧
+desertification@[n]沙漠化
+fertilize@[T]施肥，使肥沃
+lightheartedly@[adv]漫不经心的，无忧无虑的
+prestigious@[adj]受尊敬的，有声望的
+cosmetics@[n]化妆品
+unadorned@[adj]朴素的，未经装饰的
+strut@[v]趾高气扬地走，昂首阔步
+shut-eye@[n]睡眠
+identical twin@同卵双胞胎
+sleep-deprived@[adj]睡眠不足的
 }
