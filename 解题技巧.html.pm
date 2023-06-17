@@ -60,7 +60,7 @@ ul
 
 ◊p{如◊lst{dl
 话题作文@◊i{It is universially acknowledged that ... constitutes an indispensible part of our modern society and life.}@◊i{Recently,an increasing number of people come to join the heated discussion on ...}
-图画作文@“如图所示”◊i{As is vividly depicted/starkly portrayed in the cartoon,...（一般用现在进行时）}@◊i{Simple as the picture is,as a matterr of fact,this picture aims to reveal the fact that ...}
+图画作文@“如图所示”◊i{As is vividly depicted/starkly portrayed in the cartoon,...（一般用现在进行时）}@◊i{Simple as the picture is,as a matter of fact,this picture aims to reveal the fact that ...}
 名人名言“有句老话”@◊i{As an old saying goes,....Plain/Simple as the remark is,its profound meaning/implication turns out to be exceedingly far-reaching and thought-provoking.}
 观点对比@◊i{The issue/topic 同从 has drawn considerable attention nowadays.Some believe that ..., whereas others argue that .... From my perspective, I prefer the former/latter view.}}}
 
