@@ -341,4 +341,42 @@ strut@[v]趾高气扬地走，昂首阔步
 shut-eye@[n]睡眠
 identical twin@同卵双胞胎
 sleep-deprived@[adj]睡眠不足的
+put up with@忍受
+start a family@成家，生第一个孩子
+sergeant@[n]警官
+strike@[T]给...留下印象
+stripe@[n]条纹
+pendant@[n]吊坠
+counter@[n]柜台
+periodical@[adj]周期性的，定期的[n]期刊
+finance@[T]为...提供资金
+electronically@[adv]以电子形式
+straightforward@[adj]明确的，坦率的
+pop up@突然出现
+extended@[adj]扩大化的
+immobile@[adj]无法移动的
+mobility@[n]移动性
+postponement@[n]推迟，延期
+defer@[T]推迟，使延期
+dependent@[n]家眷
+in pursuit of@追求，寻找
+elemental@[adj]基本的
+compromise@[n]妥协，折中方法
+in conflict@有矛盾，不一致
+grit@[n]毅力，坚毅
+inversely@[adv]相反地
+motivational@[adj]动机的，动力的
+stamina@[n]耐力，耐性
+congestion@[n]交通拥堵
+shanty@[n]棚屋
+megacity@[n]大城市
+corrugated@[adj]有瓦楞的，波状的
+infrastructure@[n]基础设施
+ubiquitous@[adj]普遍存在的，无处不在的
+utopian@[adj]乌托邦的，空想的
+manifestation@[n]表示，显示
+a bucket of@一桶
+immense@[adj]极大的，巨大的
+articulate@[v]清楚明白地说
+irrationally@[adv]不合理地，无理性地
 }
