@@ -106,6 +106,7 @@ We have good reasons to expect more studies carried out concerning the topic.}
 ◊lst{ul
 回文定位注意区分事实和观点
 对于例证题，在前后文定位，一般在例子之前
+主旨题定位句在首尾段且一般都在尾段
 看是否回答问题时应注意疑问词◊lst{ul
 what/in what respect
 why/in what sense/for what reason
