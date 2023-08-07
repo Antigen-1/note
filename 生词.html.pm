@@ -379,4 +379,16 @@ a bucket of@一桶
 immense@[adj]极大的，巨大的
 articulate@[v]清楚明白地说
 irrationally@[adv]不合理地，无理性地
+presume@[v]等同于assume，假设，假定
+forgo@[T]放弃，弃绝（想做的事或想得之物）
+equal@[n]同等的人，相等物
+integral@[adj](~ to sth)必需的，不可或缺的；（作定语）作为组成部分的；（作为定语）完整的，完备的
+intertwine@[v]（使）缠结，缠绕在一起；（常用被动）紧密相连
+tabulate@[T]列成表格，列表显示
+deduction@[U/C]演绎，推论，推理；[U/C]扣除，减去
+jargo@[U]（常含贬义）行话，黑话，行业术语
+inset@[n]嵌入物，附加物
+notify@[T](~ sb (of sth)|~ sth to sb)等同于inform，（正式）通报，通知
+decouple@[T](~ sth (from sth))（使两事物）分离，隔断
+elapse@[v]（通常不用于进行时）（时间）消逝，流逝（等同于go by）
 }
