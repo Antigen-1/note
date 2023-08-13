@@ -21,6 +21,17 @@ legend传奇——legendary传说中的
 myth[C]/mythology[U]神话
 }
 
+◊p{近义表达：}
+
+◊lst{ul
+glorious[adj]光辉灿烂的，荣耀的，辉煌的
+glory[n]光荣，荣誉
+}
+
+◊lst{ul
+All the Chinese compatriots should take concerted efforts to create a ◊i{glorious/rosy/brilliant/splendid/magnificent} future of the Chinese nation.所有华夏同胞应当共同努力，开创中华民族的美好未来
+glory days光辉岁月}
+
 ◊h2{辈分}
 
 ◊h3{祖先}
@@ -648,6 +659,18 @@ ul
 ◊i{Discussing all these details will get us nowhere;we must get back to first principles}讨论所有这些细节只会让我们毫无进展；我们必须回到基本原则
 [NCE4.5]◊i{Let us get down to fundamentals and agree that the young are after all human beings--people just like their elders}让我们认真研究基本原则并同意一点：年轻人终究还是人——就像他们的长辈那样的人}
 
+◊p{其形容词“根本的”：}
+
+◊lst{ul
+fundamental
+basic
+essential
+}
+
+◊lst{ul
+the fundamental difference根本性的差异
+the fundamental cause of the problem问题的根本原因}
+
 ◊p{近义词：固定搭配◊i{golden rule}重要的原则，金科玉律}
 
 ◊lst{ul
@@ -933,3 +956,20 @@ Bring me a moist towel给我拿一块湿毛巾
 a cold, damp collar一条冷而且湿的领子
 humid atmosphere湿度大的空气}
 
+◊h2{允许，许可}
+
+◊p{leave[n]允许，许可}
+
+◊lst{ul
+He did it ◊i{without my leave}.
+The senator ◊i{asked leave to} take the floor.参议员请求起立发言
+I ◊i{take leave to do sth}请允许我}
+
+◊p{此外，leave作名词还有假期的意思}
+
+◊p{类似的其他表达还包括：}
+
+◊lst{ul
+◊i{forgive me for doing}原谅我
+◊i{I take the liberty of doing}请允许我
+◊i{I venture to do}冒昧}
