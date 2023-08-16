@@ -139,3 +139,26 @@ see sth through坚持完成@替换：get sth over with/stick sth out@◊i{The En
 接宾语：支持}
 }
 
+◊h2{rub}
+
+◊p{rub[n]困难，难题，困境。“这就是问题所在”：}
+
+◊lst{ul
+Here is the rub.
+That's where the rub is.}
+
+◊p{rub sb the wrong way令某人生气}
+
+◊p{近义表达：get on one's nerves}
+
+◊h2{commitment}
+
+◊p{[n]信奉，信仰，承诺}
+
+◊lst{
+dl
+commitment to sth对...的信仰@have a sincere commitment to religion/communism
+make a commitment to do sth承诺
+honor/fulfill one's commitment兑现承诺@We must honor our commitments to small nations.
+The President of the United States has ◊i{reiterated} the U.S. ◊i{commitment to} the Three Sino-U.S. Joint Communiques.美国总统重申了对中美三个联合公报的承诺。}
+

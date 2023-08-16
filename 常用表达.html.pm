@@ -973,3 +973,18 @@ I ◊i{take leave to do sth}请允许我}
 ◊i{forgive me for doing}原谅我
 ◊i{I take the liberty of doing}请允许我
 ◊i{I venture to do}冒昧}
+
+◊h2{爱}
+
+◊lst{ul
+devotion[n](to sb/sth)热爱（多指奉献的爱）
+◊u{love（爱）/affection（慈爱）} for
+affectionate[adj]充满慈爱的
+infatuation不理智的爱}
+
+◊lst{
+ul
+devotion to the cause of education对教育事业无私的爱
+maternal/paternal affection母爱/父爱
+Their infatuation with each other won't last.他们对彼此不理智的爱不会长久。}
+
