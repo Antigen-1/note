@@ -988,3 +988,40 @@ devotion to the cause of education对教育事业无私的爱
 maternal/paternal affection母爱/父爱
 Their infatuation with each other won't last.他们对彼此不理智的爱不会长久。}
 
+◊h2{cosmic}
+
+◊p{[adj]宇宙的}
+
+◊p{cosmos[n]宇宙}
+
+◊p{其他形近词：}
+
+◊lst{ul
+comic[adj]喜剧的
+comet彗星
+cosmetics化妆品
+}
+
+◊p{cosmetics要与make-up相区分：}
+
+◊lst{
+ul
+She doesn't wear make-up.
+◊del{She doesn't wear cosmetics.}}
+
+◊p{近义词universal[adj]宇宙的，普遍的}
+
+◊p{[NCE3.29]Certain funny situations have a universal appeal.某些有趣的情形有着普遍的吸引力（原文如此但现代牛津词典中appeal表“吸引力”不可数）}
+
+◊h2{表地域}
+
+◊lst{ul
+suburban[adj]郊区的（sub-:下方的，外围的）->见识不广的，偏狭的
+provincial[adj]省的，首都之外的->目光短浅的
+rural农村的
+pastoral田园的
+urban城市的
+metropolitan大城市的，metropolis大城市
+cosmopolitan国际性大都会的，cosmopolis国际性大都会
+}
+

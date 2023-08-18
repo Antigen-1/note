@@ -391,4 +391,5 @@ inset@[n]嵌入物，附加物
 notify@[T](~ sb (of sth)|~ sth to sb)等同于inform，（正式）通报，通知
 decouple@[T](~ sth (from sth))（使两事物）分离，隔断
 elapse@[v]（通常不用于进行时）（时间）消逝，流逝（等同于go by）
+implement@[T]使生效，贯彻，执行，实施=carry out
 }
