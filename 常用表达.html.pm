@@ -1025,3 +1025,19 @@ metropolitan大城市的，metropolis大城市
 cosmopolitan国际性大都会的，cosmopolis国际性大都会
 }
 
+◊h2{老是（贬）}
+
+◊lst{
+ul
+be ◊u{always/forever/constantly/continually} doing sth
+keep (on) doing sth(也可表持续做)
+do sth ◊u{all the time/time and time again/with monotonous regularity/ad nauseam}}
+
+◊lst{ul
+He's always having arguments with people.他老是与人争辩。
+[NCE3.41]He is forever talking about the friendly people, the clean atmosphere, the closeness to nature and gentle pace of living.他总是在谈论友好的人，清洁的空气，与大自然接触以及平和的生活节奏。
+Your behavior reflects on me, and I can't do my job if you are constantly humiliating me.你的行为给我留下了印象，而且如果你老是羞辱我，我就无法做我的工作。
+[NCE3.29]..., he kept on pestering his doctor to tell him when he would be able to go home.他总是纠缠着医生请求告诉他何时可以回家。
+[NCE3.50]The same old favorites recur year in year out with monotonous regularity.相同的过去喜欢的东西总是一年又一年重复出现。
+It just makes me uncomfortable to ask my friends to wait on me all the time.总是让我的朋友为我服务就让我感到不舒服。}
+
