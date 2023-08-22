@@ -317,6 +317,8 @@ without careful thought
 
 ◊p{They are ◊b{enterprising} young people, not content with ◊b{the dull routine of everyday life.}}
 
+◊p{反义词“仅仅”：◊u{just/only/merely/no more than}}
+
 ◊h2{guess}
 
 ◊p{guess what你猜怎么着}
@@ -692,6 +694,12 @@ the fundamental cause of the problem问题的根本原因}
 [NCE4.33]◊i{Education in the wilderness is not a matter of monetary means}未开发地区的教育不是钱的问题
 [NCE4.6]◊i{..., but as soon as the question of prestige arises, ...}但一旦涉及声望问题}
 
+◊p{近义表达：That's where ...这就是...所在}
+
+◊lst{ul
+[NCE4.5]...that is where the rub is.这就是困境所在。
+That's where you and I differ.这就是你我的不同之处。}
+
 ◊h2{（某事）可能（是真的）}
 
 ◊p{may/might/could well}
@@ -1040,4 +1048,25 @@ Your behavior reflects on me, and I can't do my job if you are constantly humili
 [NCE3.29]..., he kept on pestering his doctor to tell him when he would be able to go home.他总是纠缠着医生请求告诉他何时可以回家。
 [NCE3.50]The same old favorites recur year in year out with monotonous regularity.相同的过去喜欢的东西总是一年又一年重复出现。
 It just makes me uncomfortable to ask my friends to wait on me all the time.总是让我的朋友为我服务就让我感到不舒服。}
+
+◊h2{认真严肃}
+
+◊p{get down to sth/doing开始认真严肃做某事}
+
+◊lst{ul
+[NCE4.5]get down to fundamentals
+get down to business
+get down to discussing the details}
+
+◊h2{接受，承认}
+
+◊lst{ul
+agree
+accept
+admit
+acknowledge
+recognize
+concede}
+
+◊p{All these countries ◊u{recognize/concede} that there is only one China.}
 

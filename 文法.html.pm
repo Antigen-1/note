@@ -93,3 +93,25 @@ No one can resist...我们都会被...所吸引
 
 [NCE4.2]
 
+◊h2{强调句的应用}
+
+◊p{It ◊u{is/was} ... ◊u{that/who} ...}
+
+◊p{[NCE4.5]◊i{If} there is one ◊i{-- which I take leave to doubt -- then it is} older people ◊i{who} create it, not the young themselves.}
+
+◊p{if、then和强调句形成逻辑“如果...那也是...”}
+
+◊p{造句：如果真有天堂的话（请允许我对此表示怀疑），那么也是有钱有势的人去的地方，而不是穷人自己可以去的地方。}
+
+◊p{If there is heaven -- which I take leave to doubt -- then it is the rich and powerful who can enter, not the poor themselves.}
+
+◊h2{对比antithesis}
+
+◊p{结构一致，语意相反}
+
+◊lst{ul
+[NCE4.5]...: the young man has a glorious future before him and the old one has a splendid future behind him.年轻人有光辉的前景，而老年人的辉煌已成过去。
+When poverty comes in at the door, love leaps out at the window.贫穷敲开门，而爱跃出窗。
+A mother takes twenty years to make a man of her boy, and another woman takes twenty minutes to make a fool of him.一个母亲花了二十年让她的孩子成长为男子汉，而另一个女人用二十分钟就让他成了一个傻子。
+}
+
