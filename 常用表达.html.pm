@@ -1070,3 +1070,33 @@ concede}
 
 ◊p{All these countries ◊u{recognize/concede} that there is only one China.}
 
+◊h2{青少年}
+
+◊lst{ul
+teenager/teen[n]十几岁的孩子
+adolescent[n/adj]青春期的（孩子）
+adolescence[n]青春期
+juvenile[法律]青少年（的）
+}
+
+◊lst{ul
+in one's teens在某人十几岁时
+my adolescent daughter我的青少年女儿
+juvenile delinquency青少年犯罪
+juvenile delinquent青少年犯人}
+
+◊h2{视为}
+
+◊lst{ul
+regard/see/count A as B
+think of/look on/conceive of A as B
+consider A (to be) B
+deem/reckon A to be B
+be recognized/acknowledged as被公认是}
+
+◊lst{ul
+[NCE4.5]I would have been very pleased if I had been regarded as something so interesting as a problem.如果我被认为和一个问题一样有趣我会很高兴的。
+[NCE3.23]... consider octopus a great delicacy把章鱼视为美味
+Heifetz was recognized/acknowledged as the greatest violinist of the 20th century.海菲茨被公认为20世纪最杰出的小提琴演奏家。
+}
+

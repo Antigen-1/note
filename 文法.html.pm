@@ -115,3 +115,7 @@ When poverty comes in at the door, love leaps out at the window.贫穷敲开门�
 A mother takes twenty years to make a man of her boy, and another woman takes twenty minutes to make a fool of him.一个母亲花了二十年让她的孩子成长为男子汉，而另一个女人用二十分钟就让他成了一个傻子。
 }
 
+◊h2{暗喻}
+
+◊p{[NCE4.5]...I was a new boy in ◊i{a huge school}我是社会这所大学校里的新生}
+

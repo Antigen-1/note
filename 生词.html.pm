@@ -397,4 +397,5 @@ social climber@追求更高社会地位的人，向上爬的人
 conceited@[adj]自高自大的
 presumptuous@[adj]自以为是的，放肆的
 fatuous@[adj]愚蠢的
+Being a problem is better than being a nobody.@成为麻烦总好过默默无闻。
 }
