@@ -262,6 +262,8 @@ distinguish/differentiate/discriminate between A and B/ A from B分辨开}
 
 ◊p{be engaged in (doing) sth}
 
+◊p{[NCE4.2]How many spiders are engaged in this work on your behalf?多少蜘蛛为你从事这项工作？}
+
 ◊h2{为了}
 
 ◊lst{

@@ -119,3 +119,27 @@ A mother takes twenty years to make a man of her boy, and another woman takes tw
 
 ◊p{[NCE4.5]...I was a new boy in ◊i{a huge school}我是社会这所大学校里的新生}
 
+◊h2{逻辑词}
+
+◊lst{ul
+for one thing ... (for another ...)一个原因是...（另一个原因是...）
+on the one hand ... on the other (hand) ...表转折
+◊lst{ul
+不是因为，而是因为
+◊lst{ul
+not that ... but that ...
+It is not that ... but (that) ...}}
+}
+
+◊lst{
+ul
+For one thing, I don't like flying, ◊i{and} for another, I can't afford it.
+On the one hand I'd like a job which pays more, ◊i{but} on the other (hand) I enjoy the work I'm doing at the moment.
+◊lst{
+ul
+Not that I love Caesar less, but that I love Rome more.（莎士比亚《尤里乌斯 凯撒》）
+Not that I love my teacher less, but that I love truth more.吾爱吾师，吾更爱真理。
+[NCE3.57]◊i{It was not that} I actually remembered anything at all. ◊i{But} my father had described over and over again what we should see at every milestone...
+It is not the scales in the one case, and the balance in the other, differ in the principles of their construction or manner of working; but that the latter is a much finer apparatus and of course much more accurate in its measurement than the former.不是因为一个情况下的天平和另一个情况下的天平构建原理和工作方式有不同，而是因为后者是一种好得多的仪器，当然在测量时就比前者精确。}
+}
+
