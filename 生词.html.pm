@@ -398,4 +398,13 @@ conceited@[adj]自高自大的
 presumptuous@[adj]自以为是的，放肆的
 fatuous@[adj]愚蠢的
 Being a problem is better than being a nobody.@成为麻烦总好过默默无闻。
+mitigate@[T]减轻，缓和
+scrap@[T]废弃，取消，抛弃，报废
+treacherous@[adj]有潜在危险的
+stringent@[adj]（法律，规则，规章等）严格的，严厉的
+stipulate@[T/+that]规定，明确要求=specify
+creep in/into sth@开始发生（或影响）
+typify@[T]作为...的典型，是...的典型；成为...的特征
+simultaneous@[adj]同时发生（或进行）；同步的
+anomaly@[n]~ (in sth)异常事务，反常现象
 }
