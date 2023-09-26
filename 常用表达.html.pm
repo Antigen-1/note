@@ -189,6 +189,12 @@ attach importance to
 ul
 I think/deem that我认为
 I cast my preference to the opinion that我更倾向于
+I find我认为
+}
+
+◊lst{
+ul
+[NCE4.5]I find young people exciting.我认为年轻人令人振奋。
 }
 
 ◊h2{归因于}
@@ -358,6 +364,8 @@ broaden one's vision
 
 ◊lst{
 ul
+in some sense ◊i{I think he may be right in some sense.}
+in some measure ◊i{The true value of a human being is determined primarily by the measure and the sense in which he has attained liberation from the self.}一个人真正的价值主要是由他从他自身那里获得了何种程度的解放决定的。
 to some extent ◊i{To some extent, they are a gang of robbers, who should be responsible for their guilt.}某种程度上，他们是一伙强盗，应当对他们的罪行负责
 partly [NCE4.48]◊i{These are partly a matter of personal circumstances, partly a matter of psychology}这某种程度上是个人境遇的问题，某种程度上又是心理学的问题
 in part [NCE3.35]◊i{When we use a phrase like it serves him right, we are, in part, admitting that a certain set of circumstances has enabled justice to act of its own accord}当我们使用像“他罪有应得”这样的短语时，我们某种程度上是在承认一系列特定情形使得正义能够主动（of one's own accord）发挥作用
@@ -1101,4 +1109,25 @@ be recognized/acknowledged as被公认是}
 [NCE3.23]... consider octopus a great delicacy把章鱼视为美味
 Heifetz was recognized/acknowledged as the greatest violinist of the 20th century.海菲茨被公认为20世纪最杰出的小提琴演奏家。
 }
+
+◊h2{存在}
+
+◊lst{
+ul
+human being人类
+intelligent being智慧生物
+alien being外星生物
+Being and Nothingness存在与虚无}
+
+◊h2{与...相对比}
+
+◊lst{
+ul
+in/by contrast to/with
+in/by comparison to/with
+compared to/with}
+
+◊lst{
+ul
+[NCE4.5]It's as if they were, in some sense, cosmic beings in violent and lovely contrast with us suburban creatures.从某种意义上讲，他们是宇宙人，与我们这些凡夫俗子形成了鲜明而激烈的对比。}
 

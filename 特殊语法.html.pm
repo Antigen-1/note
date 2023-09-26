@@ -77,8 +77,6 @@ should not/ought not to have done
 
 ◊h2{虚拟语气}
 
-◊;;TODO
-
 ◊p{对现在虚拟：◊i{If S were/did ..., S would/should/could/might do ...}}
 
 ◊p{例如◊i{Were it not for your support, I would be in big trouble now.}}
@@ -86,6 +84,12 @@ should not/ought not to have done
 ◊p{在此例句中，除虚拟语气外，还出现了其倒装形式。}
 
 ◊p{◊i{if it were not for ...}表示”若没有...的话“，因此可以译为“若没有你的支持，想必我现在已经麻烦大了罢。”}
+
+◊p{此外，◊u{as if}/◊u{as though}◊b{可能}需要用虚拟语气。}
+
+◊lst{
+ul
+Don't act as if you were the only pebble on the beach.不要表现得好像你是沙滩上唯一一块鹅卵石。}
 
 ◊h2{并列句省略}
 

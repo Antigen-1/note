@@ -407,4 +407,5 @@ creep in/into sth@开始发生（或影响）
 typify@[T]作为...的典型，是...的典型；成为...的特征
 simultaneous@[adj]同时发生（或进行）；同步的
 anomaly@[n]~ (in sth)异常事务，反常现象
+air of freedom@无拘无束。[NCE4.5]They have an air of freedom.他们无拘无束。
 }
