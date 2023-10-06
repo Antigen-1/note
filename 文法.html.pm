@@ -143,3 +143,14 @@ Not that I love my teacher less, but that I love truth more.吾爱吾师，吾�
 It is not the scales in the one case, and the balance in the other, differ in the principles of their construction or manner of working; but that the latter is a much finer apparatus and of course much more accurate in its measurement than the former.不是因为一个情况下的天平和另一个情况下的天平构建原理和工作方式有不同，而是因为后者是一种好得多的仪器，当然在测量时就比前者精确。}
 }
 
+◊h2{Claim-Response Pattern}
+
+◊p{[NCE4.5]}
+
+◊lst{ul
+claim
+response
+reasons for response
+relevant example(s)
+reaffirmation重申}
+

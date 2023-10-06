@@ -222,3 +222,15 @@ consolidate[v]巩固}
 ◊i{a tenfold increase}十倍的增长
 ◊i{Business has increased tenfold}生意增长了十倍}
 
+◊h2{ill-:badly}
+
+◊lst{ul
+ill-mannered没礼貌的
+ill-tempered脾气坏的
+ill-advised不明智的
+ill-bred没教养的
+ill-educated未接受良好教育的}
+
+◊lst{ul
+[NCE4.5]He may be conceited, ill-mannered, presumptuous or fatuous.他可能是自高自大的，没礼貌的，自以为是的或愚蠢的。
+[NCE4.28]Nor is it only the ignorant and ill-educated person who was such faith in the bottle of medicine.并不只是那些无知和未接受良好教育的人才迷信药瓶子。}

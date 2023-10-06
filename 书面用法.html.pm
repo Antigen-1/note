@@ -21,9 +21,13 @@
 
 ◊p{他和法官作用相似，都必须承担这样一种责任，即以尽可能清晰的方式揭示使得自己做出决定的推理过程}
 
-◊p{[NCE4.4]出现了定语后置，◊b{Several ◊i{cases} have been reported in Russian recently ◊i{of people who ...}}俄罗斯最近报道了几个关于...的人的案例}
+◊p{eg4.[NCE4.4]◊b{Several ◊i{cases} have been reported in Russian recently ◊i{of people who ...}}俄罗斯最近报道了几个关于...的人的案例}
 
-◊p{同位语的后置见于《独立宣言》，◊b{We hold these truth ◊u{to be self-evident}, that ...}}
+◊p{eg5.[NCE4.46]◊b{The long hours in the office or the factory bring with them as their reward, not only the means of sustenance, but a keen appetite for pleasure even in its simplest and most modest forms.}}
+
+◊p{在办公室或工厂中长时间的工作给他们带来了酬劳，这不仅是谋生的手段，而且还带来了寻找乐趣的强烈欲望，哪怕是最简单的、最低等的乐趣。}
+
+◊p{eg6.《独立宣言》，◊b{We hold these truth ◊u{to be self-evident}, that ...}}
 
 ◊h2{无灵主语/物称主语}
 

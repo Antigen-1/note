@@ -190,11 +190,13 @@ ul
 I think/deem that我认为
 I cast my preference to the opinion that我更倾向于
 I find我认为
+I accept that我认可，我同意
 }
 
 ◊lst{
 ul
 [NCE4.5]I find young people exciting.我认为年轻人令人振奋。
+[NCE4.5]I accept that we are equals, and I will argue with him, as an equal, if I think he is wrong.我认为我们是同等的人，如果我认为他错了我会以平等身份与他辩论。
 }
 
 ◊h2{归因于}
@@ -1131,3 +1133,23 @@ compared to/with}
 ul
 [NCE4.5]It's as if they were, in some sense, cosmic beings in violent and lovely contrast with us suburban creatures.从某种意义上讲，他们是宇宙人，与我们这些凡夫俗子形成了鲜明而激烈的对比。}
 
+◊h2{mind}
+
+◊lst{ul
+be ◊i{in} one's mind记在心中
+be ◊i{on} one's mind牵挂}
+
+◊lst{ul
+[NCE4.5]All that is in my mind when I meet a young person.每当我遇见年轻人我的头脑中就想到这些。
+}
+
+◊h2{寻求}
+
+◊p{turn to ... for ...}
+
+◊p{要注意语序变换}
+
+◊lst{ul
+[NCE4.5]..., but I do not turn for protection to dreary cliches about respect for elders.但我不会向尊重长者这一套陈词滥调寻求保护。
+The child turned to his mother for comfort.孩子向母亲寻求安慰。
+}
