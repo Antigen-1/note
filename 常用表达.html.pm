@@ -1153,3 +1153,52 @@ be ◊i{on} one's mind牵挂}
 [NCE4.5]..., but I do not turn for protection to dreary cliches about respect for elders.但我不会向尊重长者这一套陈词滥调寻求保护。
 The child turned to his mother for comfort.孩子向母亲寻求安慰。
 }
+
+◊h2{善意，友好，友好关系}
+
+◊p{goodwill[n]}
+
+◊lst{ul
+exude goodwill流露出善意
+promote goodwill促进友好关系
+create and strengthen goodwill[外交辞令]
+goodwill games友好运动会
+goodwill visit友好访问=goodwill tour}
+
+◊p{拓展：其他访问}
+
+◊lst{ul
+official visit正式访问
+official goodwill visit
+informal visit非正式访问
+private visit私人访问
+state visit国事访问
+}
+
+◊h2{意愿}
+
+◊p{inclination[n]}
+
+◊p{have an inclination to do sth有意做某事}
+
+◊p{I haven't the slightest inclination to become a journalist.我无意当一名记者。}
+
+◊p{incline[v]倾斜->使倾向于}
+
+◊lst{
+ul
+be inclined to do sth倾向于，往往
+tend to do/have the tendency to do
+be apt/prone to do很容易
+}
+
+◊h2{比赛}
+
+◊lst{dl
+contest[n]（裁判打分的）比赛@a speech/beauty/dance contest
+game/match[n]（对擂的）比赛@a boxing/basketball/football/volleyball match/game
+games[n]运动会@the Olympic games
+race（竞速）比赛@a car/boat/horse/swimming race
+open公开赛
+tournament锦标赛
+championship冠军赛}
