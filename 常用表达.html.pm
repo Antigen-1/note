@@ -1202,3 +1202,43 @@ race（竞速）比赛@a car/boat/horse/swimming race
 open公开赛
 tournament锦标赛
 championship冠军赛}
+
+◊h2{推断}
+
+◊p{[v]deduce A from B:由B推断出A}
+
+◊p{deduction[n]推理（的结论）}
+
+◊p{近义词}
+
+◊lst{ul
+conclude A from B
+conclusion结论，结束}
+
+◊lst{
+ul
+infer A from B:由B推导出A
+inference[n]推导（的结论）}
+
+◊p{例子}
+
+◊lst{ul
+deduce effect from cause由因推果
+What can we infer from the passage?我们可以从文章中推出什么？}
+
+◊h2{使出丑，使丢脸}
+
+◊lst{ul
+disgrace[v]
+shame[v]
+humiliate[v]
+bring shame on
+bring disgrace on
+show sb up让（同行的人）丢人
+}
+
+◊lst{ul
+The dishonest minister was publicly disgraced.这位不守信的大臣被当众羞辱了。
+His behavior disgraced/shamed/humiliated/◊u{brought shame on}/◊u{brought disgrace on} his family.他的表现让他的家庭蒙羞。
+Mary's boyfriend showed her up by falling asleep at the concert.玛丽的男朋友在音乐会上睡着，让她丢脸了。
+}

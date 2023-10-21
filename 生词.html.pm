@@ -409,4 +409,9 @@ simultaneous@[adj]同时发生（或进行）；同步的
 anomaly@[n]~ (in sth)异常事务，反常现象
 air of freedom@无拘无束。[NCE4.5]They have an air of freedom.他们无拘无束。
 age[U]老年。An idle youth, a needy age.少壮不努力，老大徒伤悲。
+cricket@[n]板球
+orgy@[n]无节制，放荡
+savage@[adj]野性的
+combative@[adj]好斗的
+mimic warfare@模拟战争
 }

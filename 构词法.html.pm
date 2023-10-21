@@ -234,3 +234,25 @@ ill-educated未接受良好教育的}
 ◊lst{ul
 [NCE4.5]He may be conceited, ill-mannered, presumptuous or fatuous.他可能是自高自大的，没礼貌的，自以为是的或愚蠢的。
 [NCE4.28]Nor is it only the ignorant and ill-educated person who was such faith in the bottle of medicine.并不只是那些无知和未接受良好教育的人才迷信药瓶子。}
+
+◊h2{patr=pater:father}
+
+◊lst{dl
+patriotism爱国主义
+patriot爱国者
+patriotic爱国的
+compatriot同胞
+patriarchy父权制
+patricide弑父罪
+paternal父亲的@paternal affection父爱
+paternity父亲的身份@He is on paternity leave.他在陪产假。
+}
+
+◊h2{matr=mater:mother}
+
+◊lst{dl
+matriarchy母权制
+matricide弑母罪
+maternal母亲的@maternal affection母爱
+maternity母亲的身份@She is on maternity leave.她在休产假。
+}
