@@ -1242,3 +1242,19 @@ The dishonest minister was publicly disgraced.这位不守信的大臣被当众�
 His behavior disgraced/shamed/humiliated/◊u{brought shame on}/◊u{brought disgrace on} his family.他的表现让他的家庭蒙羞。
 Mary's boyfriend showed her up by falling asleep at the concert.玛丽的男朋友在音乐会上睡着，让她丢脸了。
 }
+
+◊h2{令人惊讶}
+
+◊lst{
+ul
+amaze sb(迷惑不解)
+surprise sb(无场合限制)
+astonish sb(难以置信)
+astound/dumbfound sb(惊呆)
+}
+
+◊lst{ul
+[NCE3.3]When the archaeologists reconstructed the fragments, they were amazed to find that the goddess turned out to be a very modern-looking woman.当考古学家重建了碎片，他们迷惑的发现这位女神结果是一位非常时髦的女性。
+[NCE2.46]He was astonished at what he found. A man was lying in the box on the top of a pile of woolen goods.他难以置信他的发现。一个男人正躺在盒子里一堆毛织品之上。
+[NCE3.19]The police were astounded when Mrs. Ramsay told them what she had done.当Ramsay太太告诉警方她做了什么时他们惊呆了。
+}

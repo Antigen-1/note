@@ -414,4 +414,14 @@ orgy@[n]无节制，放荡
 savage@[adj]野性的
 combative@[adj]好斗的
 mimic warfare@模拟战争
+people[C]人民，国民，民族，种族
+compact[adj]紧凑的
+surrogate[adj]替代的，代用的
+associative[adj]联想的，结合的
+unary[adj]一元的
+troubleshooting[U]处理重大问题，解决难题
+spurious[adj]建立在错误的观念（或思想方法）之上的，谬误的
+dificiency[U/C]缺乏，缺少，不足[C]缺点，缺陷
+unidirectional[adj]单向的
+paradigm[n]典范，范例，样式
 }

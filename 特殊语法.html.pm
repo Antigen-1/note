@@ -91,6 +91,20 @@ should not/ought not to have done
 ul
 Don't act as if you were the only pebble on the beach.不要表现得好像你是沙滩上唯一一块鹅卵石。}
 
+◊p{if only要是（虚拟语气同if）}
+
+◊lst{
+ul
+[NCE4.6]...if only the common peoples of the world could meet one another at football or cricket, they would have no inclination to meet on the battlefield.要是世界上主要的民族能彼此在足球或板球场上相遇，他们就不会想着在战场上相遇了。
+}
+
+◊p{辨析：only if只有...才}
+
+◊lst{
+ul
+部分倒装Only if Peter goes will she go.
+}
+
 ◊h2{并列句省略}
 
 ◊p{并列句中重复部分除动词搭配的介词（含动词不定式的to）外，只要不引起歧义均可省略。}
