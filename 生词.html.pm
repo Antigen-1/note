@@ -424,4 +424,5 @@ spurious[adj]建立在错误的观念（或思想方法）之上的，谬误的
 dificiency[U/C]缺乏，缺少，不足[C]缺点，缺陷
 unidirectional[adj]单向的
 paradigm[n]典范，范例，样式
+one[pron]人们，本人（现在一般用you指一般人，I指自己）
 }

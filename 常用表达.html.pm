@@ -1258,3 +1258,48 @@ astound/dumbfound sb(惊呆)
 [NCE2.46]He was astonished at what he found. A man was lying in the box on the top of a pile of woolen goods.他难以置信他的发现。一个男人正躺在盒子里一堆毛织品之上。
 [NCE3.19]The police were astounded when Mrs. Ramsay told them what she had done.当Ramsay太太告诉警方她做了什么时他们惊呆了。
 }
+
+◊h2{让步}
+
+◊lst{
+ul
+even if即使
+even though尽管
+}
+
+◊lst{ul
+◊u{Even though/if} you dislike ancient monuments, Warwick Castle is worth a visit.◊u{尽管/即使}你不喜欢古代遗迹，华威城堡仍值得一看。
+}
+
+◊h2{具体的}
+
+◊lst{
+ul
+solid
+concrete
+}
+
+◊p{反义词abstract抽象的}
+
+◊lst{
+ul
+solid/concrete examples/conditions具体的例子/情况
+Beauty itself is abstract.美本身是抽象的。
+}
+
+◊h2{放纵}
+
+◊lst{
+dl
+orgies of/an orgy of疯狂的...,过度的...
+binge/spree[n]放纵@搭配go on a+[adj]+binge/spree
+}
+
+◊lst{
+ul
+orgies of hatred过度的仇恨
+an orgy of killing疯狂的杀戮
+an orgy of spending before Christmas圣诞节前疯狂的开销
+He went on a drinking binge over the weekend.他整个周末开怀畅饮。
+The girls went on a shopping spree on Saturday.姑娘们周六纵情消费。
+}
