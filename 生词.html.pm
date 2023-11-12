@@ -425,4 +425,6 @@ dificiency[U/C]缺乏，缺少，不足[C]缺点，缺陷
 unidirectional[adj]单向的
 paradigm[n]典范，范例，样式
 one[pron]人们，本人（现在一般用you指一般人，I指自己）
+just wait until等到...时再说吧
+unit[n]群体，组织
 }

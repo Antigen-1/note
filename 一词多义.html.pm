@@ -162,3 +162,10 @@ make a commitment to do sth承诺
 honor/fulfill one's commitment兑现承诺@We must honor our commitments to small nations.
 The President of the United States has ◊i{reiterated} the U.S. ◊i{commitment to} the Three Sino-U.S. Joint Communiques.美国总统重申了对中美三个联合公报的承诺。}
 
+◊h2{practice}
+
+◊lst{
+ul
+[v]日常从事=practise
+[n]习俗，惯例
+}

@@ -704,7 +704,14 @@ the fundamental cause of the problem问题的根本原因}
 ◊lst{ul
 [NCE4.19]◊i{... it ◊u{looks} very much ◊u{as if} sleeping is not simply a matter of giving body a rest}仿佛睡眠不是简单的身体的休息
 [NCE4.33]◊i{Education in the wilderness is not a matter of monetary means}未开发地区的教育不是钱的问题
-[NCE4.6]◊i{..., but as soon as the question of prestige arises, ...}但一旦涉及声望问题}
+[NCE4.6]◊i{..., but as soon as the question of prestige arises, ...}但一旦涉及声望问题
+[NCE3.46]◊i{It is a question of pride as much as anything else.}这是和其他事情一样重要的面子问题。
+◊i{She is so talented and diligent that her success is only a question of time.}她太有天赋也太勤奋了，以至于其成功只是时间问题。
+◊i{a matter of ◊u{personal taste/preference}}一个个人偏好的问题
+◊i{a matter of interest}一个备受关心的问题
+◊i{a matter of life and death}一个关乎生死的问题
+◊i{a matter of principle}一个原则性的问题
+}
 
 ◊p{近义表达：That's where ...这就是...所在}
 
@@ -1302,4 +1309,43 @@ an orgy of killing疯狂的杀戮
 an orgy of spending before Christmas圣诞节前疯狂的开销
 He went on a drinking binge over the weekend.他整个周末开怀畅饮。
 The girls went on a shopping spree on Saturday.姑娘们周六纵情消费。
+}
+
+◊h2{尽全力}
+
+◊lst{
+ul
+do/try one's utmost to do
+do/try one's best to do
+go to great lengths to do
+endeavor/endeavour to do
+spare no effort to do
+give one's all to do
+go all out to do
+}
+
+◊lst{
+ul
+[NCE3.29]Though the doctor did his best, the patient's recovery was slow.
+[NCE3.28]The man went to great lengths to prove that the diamonds were real.
+}
+
+◊h2{出现}
+
+◊p{arise-arose-arisen[I]（问题）出现}
+
+◊p{arise from从...中产生}
+
+◊lst{
+ul
+The conflict arose from tensions between different ethnic groups.冲突产生自不同宗教群体之间的矛盾。
+}
+
+◊p{辨析arouse激起}
+
+◊lst{
+ul
+arouse interest激起兴趣
+arouse hostility激起敌意
+arouse resentment激起怨恨
 }
