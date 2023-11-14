@@ -462,10 +462,6 @@ underdeveloped只能修饰地区“贫困的”}
 
 ◊p{be indispensable to sb/sth}
 
-◊h2{产生影响}
-
-◊p{exert positive/negative effects on}
-
 ◊h2{做出共同努力}
 
 ◊p{make joint efforts}
@@ -1348,4 +1344,42 @@ ul
 arouse interest激起兴趣
 arouse hostility激起敌意
 arouse resentment激起怨恨
+}
+
+◊h3{产生}
+
+◊p{exert positive/negative effects on产生影响}
+
+◊p{work sb into使产生（情绪）}
+
+◊lst{
+ul
+He worked himself into a rage.他使自己暴怒。
+He worked his audience into enthusiasm.他激起观众的热情。
+[NCE4.6]...the nations who work themselves into furies over these absurd contests, and seriously believe -- at any rate for short periods -- that running, jumping and kicking a ball are tests for national virtue.那些疯狂于这些荒唐比赛，并且煞有介事的相信——至少短期内如此——跑步，跳跃和踢球是对一个民族品格素质的检验的国家。
+}
+
+◊h2{战争}
+
+◊p{warfare[U]强调种类}
+
+◊lst{
+ul
+germ warfare细菌战
+jungle warfare丛林战
+nuclear warfare核战争
+chemical warfare化学战
+guerrilla warfare游击战
+psychological warfare心理战
+[NCE4.6]mimic warfare模拟战争
+}
+
+◊h2{观众}
+
+◊lst{
+ul
+spectator（体育比赛）观众（一个一个数）
+audience（电影等）观众（一群一群数）
+viewer（电视）观众
+onlooker/looker-on旁观者
 }

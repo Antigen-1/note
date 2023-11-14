@@ -97,9 +97,9 @@ No one can resist...我们都会被...所吸引
 
 ◊p{It ◊u{is/was} ... ◊u{that/who} ...}
 
-◊p{[NCE4.5]◊i{If} there is one ◊i{-- which I take leave to doubt -- then it is} older people ◊i{who} create it, not the young themselves.}
+◊p{[NCE4.5]◊i{If} there is one ◊i{-- which I take leave to doubt -- then it is} older people ◊i{who} create it, ◊i{not} the young themselves.}
 
-◊p{if、then和强调句形成逻辑“如果...那也是...”}
+◊p{if、then、强调句和not形成逻辑“如果...那也是...而不是...”}
 
 ◊p{造句：如果真有天堂的话（请允许我对此表示怀疑），那么也是有钱有势的人去的地方，而不是穷人自己可以去的地方。}
 
@@ -124,6 +124,7 @@ A mother takes twenty years to make a man of her boy, and another woman takes tw
 ◊lst{ul
 for one thing ... (for another ...)一个原因是...（另一个原因是...）
 on the one hand ... on the other (hand) ...表转折
+not ... but ...不是...而是...
 ◊lst{ul
 不是因为，而是因为
 ◊lst{ul
@@ -135,6 +136,7 @@ It is not that ... but (that) ...}}
 ul
 For one thing, I don't like flying, ◊i{and} for another, I can't afford it.
 On the one hand I'd like a job which pays more, ◊i{but} on the other (hand) I enjoy the work I'm doing at the moment.
+[NCE4.6]But the significant thing is not the behaviour of the players but the attitude of the spectators...但重要的不是运动员的表现，而是观众的态度。
 ◊lst{
 ul
 Not that I love Caesar less, but that I love Rome more.（莎士比亚《尤里乌斯 凯撒》）

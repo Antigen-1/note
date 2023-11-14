@@ -169,3 +169,11 @@ ul
 [v]日常从事=practise
 [n]习俗，惯例
 }
+
+◊h2{at any rate}
+
+◊lst{
+dl
+无论如何@=in any ◊u{case/event}=come what may@~, we must go on Tuesday.
+至少@=at least@They felt, or ~ Dan felt, both relieved and frightened.他们感到，或至少Dan感到，既宽慰又害怕。
+}
