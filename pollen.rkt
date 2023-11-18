@@ -8,9 +8,8 @@
   (lnk tag-function/c)))
 
 ;;Contracts
-(define fragments/c
-  (recursive-contract (or/c string? (cons/c symbol? (listof fragments/c)) (listof fragments/c))))
-(define tag-function/c (-> fragments/c txexpr?))
+(define fragment/c (recursive-contract (or/c string? (cons/c symbol? (listof fragment/c)))))
+(define tag-function/c (->* () #:rest (listof fragment/c) txexpr?))
 
 ;;Utilities
 (define fragment-list->non-empty-lines
