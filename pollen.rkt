@@ -9,7 +9,7 @@
 
 ;;Contracts
 (define fragments/c
-  (recursive-contract (listof (or/c string? (cons/c symbol? fragments/c)))))
+  (recursive-contract (or/c string? (cons/c symbol? (listof fragments/c)) (listof fragments/c))))
 (define tag-function/c (-> fragments/c txexpr?))
 
 ;;Utilities
