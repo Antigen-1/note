@@ -36,7 +36,7 @@ jobs:
           version: stable
           variant: CS
       - name: Install packages
-        run: raco pkg install --deps search-auto pollen sugar rackunit
+        run: raco pkg install --skip-installed --deps search-auto pollen sugar rackunit base
       - name: Build
         run: |
           mkdir source
