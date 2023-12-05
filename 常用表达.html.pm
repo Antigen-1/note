@@ -1232,7 +1232,7 @@ What can we infer from the passage?我们可以从文章中推出什么？}
 ◊h2{使出丑，使丢脸}
 
 ◊lst{ul
-disgrace[v]
+disgrace[v/n]
 shame[v]
 humiliate[v]
 bring shame on
@@ -1244,6 +1244,22 @@ show sb up让（同行的人）丢人
 The dishonest minister was publicly disgraced.这位不守信的大臣被当众羞辱了。
 His behavior disgraced/shamed/humiliated/◊u{brought shame on}/◊u{brought disgrace on} his family.他的表现让他的家庭蒙羞。
 Mary's boyfriend showed her up by falling asleep at the concert.玛丽的男朋友在音乐会上睡着，让她丢脸了。
+}
+
+◊p{反义词grace[v]}
+
+◊lst{
+dl
+使荣耀@The queen graced us with her presence.女王的光临让我们感到荣幸。
+装饰，装点@Her face graced the covers of magazines across the world.她的面容装点了全世界的杂志封面。
+}
+
+◊p{[adj]}
+
+◊lst{
+ul
+graceful优美的
+disgraceful可耻的
 }
 
 ◊h2{令人惊讶}
@@ -1383,3 +1399,37 @@ audience（电影等）观众（一群一群数）
 viewer（电视）观众
 onlooker/looker-on旁观者
 }
+
+◊h2{适合的}
+
+◊p{fit[adj]适合的}
+
+◊lst{
+dl
+be fit for@The food is not fit for human consumption.这种食物不适合人类食用。
+be fit to do@He is not fit to govern the country.他不适合统治这个国家。
+}
+
+◊p{suitable[adj]搭调的}
+
+◊lst{
+ul
+I haven't any suitable clothes for the wedding.我没有适合婚礼的衣服。
+The present isn't suitable for an old man.这个礼物不适合送给一个老人。
+}
+
+◊p{appropriate[adj]非常协调的}
+
+◊lst{
+ul
+Your dress is appropriate for a formal party.正式的聚会上穿你的这条裙子很合适。
+}
+
+◊p{felicitous[adj]分寸把握得好的}
+
+◊lst{
+ul
+felicitous remarks有分寸的评论
+}
+
+◊p{proper[adj]泛指合适的}

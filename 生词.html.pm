@@ -427,4 +427,15 @@ paradigm[n]典范，范例，样式
 one[pron]人们，本人（现在一般用you指一般人，I指自己）
 just wait until等到...时再说吧
 unit[n]群体，组织
+regime[n]政权；管理体制
+canonical[adj]（数学表达式）最简洁的
+consistency[U]一致性，连贯性
+proposition[n](fml)见解，主张，观点
+premise[n](fml)前提，假定
+legitimate[adj]正当合理的；合法的
+empower[v]◊u{(fml)授权=authorize}；增加某人自主权
+interchange[C/U]（思想、信息等的）交换，互换
+explicable[adj](fml)（不作定语）可解释，可说明，可理解
+namely[adv]即，也就是
+intent[U]~ (to do sth)意图，意向，目的=intention
 }
