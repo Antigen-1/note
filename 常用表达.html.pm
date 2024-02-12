@@ -1433,3 +1433,50 @@ felicitous remarks有分寸的评论
 }
 
 ◊p{proper[adj]泛指合适的}
+
+◊h2{标准}
+
+◊p{standard [n]标准，水准，水平}
+
+◊lst{
+ul
+◊u{safety/moral/living} standards安全/道德/生活水准
+a ◊u{high/low} standard of living高/低的生活标准
+International Standards Organization(ISO)
+}
+
+◊p{在第二个例子里◊i{of}是用于一个名词修饰另一个名词。}
+
+◊lst{
+ul
+Where's that idiot of a boy?
+Where's the boy that you think is stupid?
+}
+
+◊p{事实上就是引导同位语。}
+
+◊p{criterion/criteria机构标准}
+
+◊p{如“录取标准”：}
+
+◊lst{
+ul
+admission criterion
+the criteria we use to select candidates
+}
+
+◊p{yardstick/benchmark [fml]标准}
+
+◊lst{
+ul
+The ◊u{yardstick/benchmark} of truth is practice.真理的标准是实践。
+◊p{Some people believe that a society has to place its overall success before the well-being of its members to achieve prosperity,
+whereas others believe that the only ◊b{benchmark} of the well-being of a society is the general welfare of all its people.
+Admittedly, a society should pursue its overall success, but from my perspective this goal will never be attained ◊u{unless and until} the well-being of all its individual citizens
+ is properly respected.一些人认为一个社会应将其整体的成功置于其成员的幸福之前「before[prep]（次序或排列）在前面」来实现繁荣，而另一些人认为一个社会中所有人民总体的福祉才是其幸福的唯一标准。
+诚然，一个社会应该追求整体的成功，但在我看来除非它的全体个体公民的幸福得到了恰当的尊重这个目标将永远无法达到。}
+◊p{To sum up, I concede that the overall success of a society is important indeed. However, without sufficient emphasis on personal welfare, not only would the motivations
+ of a society's citizens be weakened, but the philosophical underpinnings of democracy would also be undermined. Therefore, the only ◊b{yardstick} of the well-being of any society, I believe,
+ is not its overall success, but the general welfare of all its people.总的来说，我承认整体的成功确实重要。然而，不充分强调个人福祉，不仅会减弱社会中公民的动力，而且会逐渐削弱民主的哲学基础。因此，我认为任何社会唯一一个
+幸福标准不是其整体的成功，而是其全体人民总体的福祉。}
+}
