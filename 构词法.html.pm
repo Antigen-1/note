@@ -256,3 +256,11 @@ matricide弑母罪
 maternal母亲的@maternal affection母爱
 maternity母亲的身份@She is on maternity leave.她在休产假。
 }
+
+◊h2{radi=root}
+
+◊lst{
+ul
+eradicate[T]根除
+radish[n]萝卜
+}

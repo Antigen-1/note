@@ -1480,3 +1480,86 @@ Admittedly, a society should pursue its overall success, but from my perspective
  is not its overall success, but the general welfare of all its people.总的来说，我承认整体的成功确实重要。然而，不充分强调个人福祉，不仅会减弱社会中公民的动力，而且会逐渐削弱民主的哲学基础。因此，我认为任何社会唯一一个
 幸福标准不是其整体的成功，而是其全体人民总体的福祉。}
 }
+
+◊h2{死刑}
+
+◊p{electrocute[v]电死，以电刑处死}
+
+◊p{execute[v]处死；执行=carry out}
+
+◊lst{
+ul
+execute one's ◊u{command/will}执行某人的命令/意愿
+He was executed for treason.他因为叛国罪被处死。
+}
+
+◊p{persecute[v]迫害}
+
+◊lst{
+ul
+Jews were persecuted by Nazis.犹太人被纳粹迫害。
+}
+
+◊p{辨析：prosecute[v]控告}
+
+◊lst{
+ul
+Trespassers will be prosecuted.不法进入者将会被起诉。
+}
+
+◊h2{清除}
+
+◊p{eliminate[v]彻底清除}
+
+◊lst{
+ul
+Many infectious diseases have been virtually eliminated.许多传染性疾病几乎已被彻底消灭了。
+The credit card ◊b{eliminates the need for} cash or checks.信用卡彻底消灭了现金和支票的需求。
+}
+
+◊p{近义词}
+
+◊lst{
+ul
+remove
+get rid of
+root out
+eradicate
+}
+
+◊lst{
+ul
+eradicate crime/poverty根除犯罪/贫穷
+}
+
+◊lst{
+ul
+abolish废除
+}
+
+◊lst{
+ul
+abolish slavery废除奴隶制
+abolish ◊u{capital punishment/death penalty}废除死刑
+}
+
+◊h2{协议}
+
+◊lst{
+ul
+accord/treaty（国际）
+pact/compact（各种）
+contract（合同）
+deal（商业）
+agreement（各种）
+}
+
+◊p{相关搭配}
+
+◊lst{
+ul
+hammer sth out/hammer out sth敲定了
+reach/come to达到
+keep/honor履行
+break/violate违背
+}
