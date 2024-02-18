@@ -38,18 +38,13 @@ jobs:
       - name: Install packages
         run: raco pkg install --deps search-auto pollen sugar
       - name: Build
-        run: |
-          mkdir source
-          mv -t source *.p *.pp *.pm *.ptree pollen.rkt pollen-images
-          raco pollen render -p source
-          mkdir product
-          raco pollen publish source product
+        run: make -f pollen/Makefile
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          path: 'product'
+          path: 'pollen/build'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
