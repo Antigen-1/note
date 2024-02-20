@@ -3,7 +3,6 @@
          web-server/formlets web-server/servlet web-server/servlet-env
          racket/runtime-path racket/case
          (for-syntax racket racket/syntax))
-(provide main)
 
 (define-runtime-path xexpr "xexpr")
 
