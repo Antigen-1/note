@@ -414,28 +414,28 @@ orgy@[n]无节制，放荡
 savage@[adj]野性的
 combative@[adj]好斗的
 mimic warfare@模拟战争
-people[C]人民，国民，民族，种族
-compact[adj]紧凑的
-surrogate[adj]替代的，代用的
-associative[adj]联想的，结合的
-unary[adj]一元的
-troubleshooting[U]处理重大问题，解决难题
-spurious[adj]建立在错误的观念（或思想方法）之上的，谬误的
-dificiency[U/C]缺乏，缺少，不足[C]缺点，缺陷
-unidirectional[adj]单向的
-paradigm[n]典范，范例，样式
-one[pron]人们，本人（现在一般用you指一般人，I指自己）
-just wait until等到...时再说吧
-unit[n]群体，组织
-regime[n]政权；管理体制
-canonical[adj]（数学表达式）最简洁的
-consistency[U]一致性，连贯性
-proposition[n](fml)见解，主张，观点
-premise[n](fml)前提，假定
-legitimate[adj]正当合理的；合法的
-empower[v]◊u{(fml)授权=authorize}；增加某人自主权
-interchange[C/U]（思想、信息等的）交换，互换
-explicable[adj](fml)（不作定语）可解释，可说明，可理解
-namely[adv]即，也就是
-intent[U]~ (to do sth)意图，意向，目的=intention
+people@[C]人民，国民，民族，种族
+compact@[adj]紧凑的
+surrogate@[adj]替代的，代用的
+associative@[adj]联想的，结合的
+unary@[adj]一元的
+troubleshooting@[U]处理重大问题，解决难题
+spurious@[adj]建立在错误的观念（或思想方法）之上的，谬误的
+dificiency@[U/C]缺乏，缺少，不足[C]缺点，缺陷
+unidirectional@[adj]单向的
+paradigm@[n]典范，范例，样式
+one@[pron]人们，本人（现在一般用you指一般人，I指自己）
+just wait until@等到...时再说吧
+unit@[n]群体，组织
+regime@[n]政权；管理体制
+canonical@[adj]（数学表达式）最简洁的
+consistency@[U]一致性，连贯性
+proposition@[n](fml)见解，主张，观点
+premise@[n](fml)前提，假定
+legitimate@[adj]正当合理的；合法的
+empower@[v]◊u{(fml)授权=authorize}；增加某人自主权
+interchange@[C/U]（思想、信息等的）交换，互换
+explicable@[adj](fml)（不作定语）可解释，可说明，可理解
+namely@[adv]即，也就是
+intent@[U]~ (to do sth)意图，意向，目的=intention
 }
