@@ -53,8 +53,6 @@
 
 ;; Handlers and renders
 (define (start req)
-  (main-renderer req))
-(define (main-renderer req)
   (define (response-generator embed/url)
     (render-page
      `((h1 "Hi, there!")
