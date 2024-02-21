@@ -25,30 +25,21 @@
   (lambda/curry/match
    ((pattern content)
     (and (regexp-match pattern content) content))))
+;; (-> pregexp? xexpr? (listof string?))
 (define xexpr-include?
   (lambda/curry/match
    ((pattern content)
     (match content
-      ((? string? str) (include? pattern str))
-      (`(,(? symbol? _) ((,_ ,_) ...) ,@elements) (ormap (lambda (e) (xexpr-include? pattern e)) elements))
-      (`(,(? symbol? _) ,@elements) (ormap (lambda (e) (xexpr-include? pattern e)) elements))
-      (_ #f)))))
+      ((? string? str) (cond ((include? pattern str) => list) (else null)))
+      (`(,(? symbol? _) ((,_ ,_) ...) ,@elements)
+       (bindM elements (xexpr-include? pattern)))
+      (`(,(? symbol? _) ,@elements)
+       (bindM elements (xexpr-include? pattern)))
+      (_ null)))))
 
 ;; Paths
 (define (get-html filename)
   (path-replace-extension filename #""))
-
-;; Patterns
-(define (pregexp/handler exp cc)
-  (pregexp exp
-           (cc
-            .
-            (lambda (s)
-              (render-page
-               `((h1 "Illegal Regular Expression")
-                 (p ,s)
-                 (a ((href "https://docs.racket-lang.org/reference/regexp.html"))
-                    "Racket Reference")))))))
 
 ;; Formlets
 (define text-info-form
@@ -67,6 +58,7 @@
   (define (response-generator embed/url)
     (render-page
      `((h1 "Hi, there!")
+       (h2 "Please input a type and a pattern.")
        ,(make-form search-handler embed/url))))
 
   ;; (-> path-string? (-> request? any))
@@ -74,8 +66,8 @@
     (send/suspend/dispatch
      (lambda (embed/url)
        (render-page
-        `(,(make-form search-handler embed/url)
-          ,(file->value (build-path xexpr name)))))))
+        `(,(file->value (build-path xexpr name))
+          ,(make-form search-handler embed/url))))))
   ;; (-> any path? string? any)
   (define (make-search-result embed/url name content)
     (make-html-link-content-pair
@@ -83,44 +75,57 @@
      (path->string (get-html name))
      content))
 
+  ;; Patterns
+  (define (pregexp/handler exp cc embed/url)
+    (pregexp exp
+             (cc
+              .
+              (lambda (s)
+                (render-page
+                 `((h1 "Illegal Regular Expression")
+                   (p ,s)
+                   (a ((href "https://docs.racket-lang.org/reference/regexp.html"))
+                      "Racket Reference")
+                   ,(make-form search-handler embed/url)))))))
   (define (search-handler req)
     (send/suspend/dispatch
      (lambda (embed/url)
        (let/cc cc
          (match-define (list type pattern) (formlet-process text-info-form req))
-         (let ((cpattern (pregexp/handler pattern cc)))
+         (let ((cpattern (pregexp/handler pattern cc embed/url)))
            (case/eq
             type
             ((content CONTENT)
              (render-page
               `((h1 "Search Results")
-                ,(make-form search-handler embed/url)
                 ,(make-html-list
                   (filter-map
                    (lambda (p)
                      (let ((result
                             (xexpr-include? cpattern (file->value (build-path xexpr p)))))
-                       (if result
-                           (make-search-result embed/url p result)
+                       (if (not (null? result))
+                           (make-search-result embed/url p (make-html-list result))
                            #f)))
-                   pages)))))
+                   pages))
+                ,(make-form search-handler embed/url))))
             ((name NAME)
              (render-page
               `((h1 "Search Results")
-                ,(make-form search-handler embed/url)
                 ,(make-html-list
                   (filter-map
                    (lambda (p)
                      (let ((result (include? cpattern p)))
                        (if result
-                           (make-search-result embed/url p (path->string result))
+                           `(a ((href ,(embed/url (make-display-doc-handler p))))
+                               ,(path->string (get-html p)))
                            #f)))
-                   pages)))))
+                   pages))
+                ,(make-form search-handler embed/url))))
             (else (render-page
                    `((h1 "Illegal Searching Type")
-                     ,(make-form search-handler embed/url)
                      (p ,(format "~a is provided" type))
-                     (p "Only content, CONTENT, name or NAME is allowed!"))))))))))
+                     (p "Only content, CONTENT, name or NAME is allowed!")
+                     ,(make-form search-handler embed/url))))))))))
 
   (send/suspend/dispatch response-generator))
 
