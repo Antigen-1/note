@@ -1441,7 +1441,7 @@ felicitous remarks有分寸的评论
 ◊lst{
 ul
 ◊u{safety/moral/living} standards安全/道德/生活水准
-a ◊u{high/low} standard of living高/低的生活标准
+a ◊u{high/low} standard of living高/低水平的生活
 International Standards Organization(ISO)
 }
 
@@ -1452,8 +1452,6 @@ ul
 Where's that idiot of a boy?
 Where's the boy that you think is stupid?
 }
-
-◊p{事实上就是引导同位语。}
 
 ◊p{criterion/criteria机构标准}
 
