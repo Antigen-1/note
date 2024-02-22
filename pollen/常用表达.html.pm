@@ -1563,3 +1563,49 @@ reach/come to达到
 keep/honor履行
 break/violate违背
 }
+
+◊h2{political correctness}
+
+◊tbl{
+政治正确
+原始@修改后
+unemployed@between jobs
+She is pregnant.@She is knitting a tiny garment.（她在织一件小衣服）
+dustman@garbologist
+butcher@meat technologist
+housewife@domestic engineer
+the disabled/handicapped@the physically challenged
+}
+
+◊lst{
+ul
+the mentally challenged
+the vertically challenged侏儒
+the horizontally challenged胖子
+}
+
+◊h2{官员}
+
+◊p{official[adj/n]官员（的）}
+
+◊lst{
+ul
+official corruption官员腐败
+official attitude官员作派
+}
+
+◊lst{
+ul
+bureaucrat官僚
+bureaucracy[U]官僚制度/作风}
+
+◊p{civil servant公务员}
+
+◊h2{家禽，家畜}
+
+◊lst{
+ul
+fowl[C单复同型与+s均可/U]家禽
+poultry家禽（泛指）
+livestock/stock家畜（泛指）
+}

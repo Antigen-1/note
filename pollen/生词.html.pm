@@ -438,4 +438,7 @@ interchange@[C/U]（思想、信息等的）交换，互换
 explicable@[adj](fml)（不作定语）可解释，可说明，可理解
 namely@[adv]即，也就是
 intent@[U]~ (to do sth)意图，意向，目的=intention
+trading@[adj]贸易的，商业的
+headquarters@[n](单复同型/U)总部
+the North Atlantic Treaty Organization(NATO)@北约
 }
