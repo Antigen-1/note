@@ -112,7 +112,7 @@
                 ,(make-html-list
                   (filter-map
                    (lambda (p)
-                     (let ((result (include? cpattern p)))
+                     (let ((result (include? cpattern (get-html p))))
                        (if result
                            `(a ((href ,(embed/url (make-display-doc-handler p))))
                                ,(path->string (get-html p)))
@@ -173,7 +173,6 @@
           (map cdr sorted)
           start
           null)))))
-
 (parse-command-line-arguments
  connection-close?
  launch-browser?
