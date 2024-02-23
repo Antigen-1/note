@@ -155,17 +155,3 @@ response
 reasons for response
 relevant example(s)
 reaffirmation重申}
-
-◊h2{新闻英语写法}
-
-◊p{[NCE4.8]Chickens slaughtered in the United States, ◊u{claim officials in Brussels}, are not fit to grace European tables.布鲁塞尔的官员称，美国屠宰的鸡不适合用来装点欧洲的餐桌。}
-
-◊p{这个例子引用了布鲁塞尔官员的话，却未使用引号，称为自由直接引语，常见于新闻，对读者的直接影响更大。}
-
-◊p{此外，说的话（或一部分）前置，主语不是代词时可倒装，从而突出说话内容。}
-
-◊lst{
-ul
-[NCE3.2]'You certainly did give me a surprise!' ◊u{said the vicar}. 'You've probably woken up everyone in the village as well. Still, I'm glad the bell is working again.'
-[NCE3.7]'So long as there's something to identify, we will give people their money back', ◊u{said a spokeswoman for the bank}. 'Last year, we paid $1.5m on 21000 claims.'银行发言人说：“只要有东西可供鉴定，我们会把钱还给大家。去年，我们对21000起索赔支付了$1.5m。”「on[prep]根据，由于」
-}
