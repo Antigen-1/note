@@ -5,9 +5,9 @@
          "database.rkt"
          (for-syntax racket racket/syntax))
 
-(define-runtime-path root (current-directory))
+(define-runtime-path root ".")
 
-(define database (build-path root "xexpr/db.rktd"))
+(define database (build-path root "xexpr" "db.rktd"))
 (define htdocs (build-path root "htdocs"))
 
 (define data (read-database database))
