@@ -133,7 +133,10 @@
   (vector/c exact-nonnegative-integer? any/c)
   (vector 6789 "The server listens on port."))
 (define ssl? (vector #f "Enable SSL."))
-(define server-root-path (vector (collection-path "web-server" "default-web-root") "The server locates the certificates and private keys in this directory."))
+(define ssl-cert (vector (build-path (collection-path "web-server" "default-web-root") "server-cert.pem")
+                         "The server uses this certificate."))
+(define ssl-key (vector (build-path (collection-path "web-server" "default-web-root") "private-key.pem")
+                        "The server uses this private key."))
 (define-syntax (parse-command-line-arguments stx)
   (define (maybe-strip sym)
     (if (switch? sym)
@@ -180,7 +183,8 @@
  listen-ip
  port
  ssl?
- server-root-path
+ ssl-cert
+ ssl-key
  )
 (serve
  start
@@ -192,5 +196,6 @@
  listen-ip
  port
  ssl?
- server-root-path
+ ssl-cert
+ ssl-key
  )
