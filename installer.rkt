@@ -1,10 +1,11 @@
 #lang hasket
-(require racket/file racket/path pollen/core)
+(require racket/file racket/path pollen/core "database.rkt")
 (provide installer)
 
 (define (installer _ root)
   (define source (build-path root "pollen"))
   (define xexpr (build-path root "xexpr"))
+  (define database (build-path xexpr "db.rktd"))
 
   (define indexes (list "index.html.pm"
                         "影响学.html.pm"
@@ -16,9 +17,13 @@
                         "药理学.html.pm"))
 
   (define (page? p)
-    (and (path-has-extension? p #".html.pm")
+    (and (or (path-has-extension? p #".html.pm") (path-has-extension? p #".html.pmd"))
          (not (findf (lambda (i) (string=? i (path->string p))) indexes))))
 
   (make-directory* xexpr)
-  (for ((src (in-list (filter page? (directory-list source)))))
-    (write-to-file (get-doc (build-path source src)) (build-path xexpr (path-replace-extension src #".xexpr")))))
+  (make-database-file database)
+  (call/database/update
+   database
+   (lambda (db)
+     (for/fold ((db db)) ((src (in-list (filter page? (directory-list source)))))
+       (database-set db (path->string src) (get-doc (build-path source src)))))))

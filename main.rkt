@@ -2,11 +2,12 @@
 (require hasket
          web-server/formlets web-server/servlet web-server/servlet-env
          racket/runtime-path racket/case
+         "database.rkt"
          (for-syntax racket racket/syntax))
 
-(define-runtime-path xexpr "xexpr")
+(define-runtime-path database "xexpr/db.rktd")
 
-(define pages (directory-list xexpr))
+(define data (read-database database))
 
 ;; Response
 (define (render-page bodies)
@@ -37,10 +38,6 @@
        (bindM elements (xexpr-include? pattern)))
       (_ null)))))
 
-;; Paths
-(define (get-html filename)
-  (path-replace-extension filename #""))
-
 ;; Formlets
 (define text-info-form
   (formlet (#%# (p ,(input-symbol . => . type))
@@ -59,21 +56,20 @@
        (h2 "Please input a type and a pattern.")
        ,(make-form search-handler embed/url))))
 
-  ;; (-> path-string? (-> request? any))
+  ;; (-> string? (-> request? any))
   (define ((make-display-doc-handler name) _)
     (send/suspend/dispatch
      (lambda (embed/url)
        (render-page
-        `(,(file->value (build-path xexpr name))
+        `(,(database-ref data name)
           ,(make-form search-handler embed/url))))))
-  ;; (-> any path? string? any)
+  ;; (-> any/c string? string? any)
   (define (make-search-result embed/url name content)
     (make-html-link-content-pair
      (embed/url (make-display-doc-handler name))
-     (path->string (get-html name))
+     name
      content))
 
-  ;; Patterns
   (define (pregexp/handler exp cc embed/url)
     (pregexp exp
              (cc
@@ -100,11 +96,11 @@
                   (filter-map
                    (lambda (p)
                      (let ((result
-                            (xexpr-include? cpattern (file->value (build-path xexpr p)))))
+                            (xexpr-include? cpattern (database-ref data p))))
                        (if (not (null? result))
                            (make-search-result embed/url p (make-html-list result))
                            #f)))
-                   pages))
+                   (database-names data)))
                 ,(make-form search-handler embed/url))))
             ((name NAME)
              (render-page
@@ -112,16 +108,16 @@
                 ,(make-html-list
                   (filter-map
                    (lambda (p)
-                     (let ((result (include? cpattern (get-html p))))
+                     (let ((result (include? cpattern p)))
                        (if result
                            `(a ((href ,(embed/url (make-display-doc-handler p))))
-                               ,(path->string (get-html p)))
+                               ,p)
                            #f)))
-                   pages))
+                   (database-names data)))
                 ,(make-form search-handler embed/url))))
             (else (render-page
                    `((h1 "Illegal Searching Type")
-                     (p ,(format "~a is provided" type))
+                     (p ,(format "~a is provided." type))
                      (p "Only content, CONTENT, name or NAME is allowed!")
                      ,(make-form search-handler embed/url))))))))))
 
@@ -137,6 +133,7 @@
   (vector/c exact-nonnegative-integer? any/c)
   (vector 6789 "The server listens on port."))
 (define ssl? (vector #f "Enable SSL."))
+(define server-root-path (vector (collection-path "web-server" "default-web-root") "The server locates the certificates and private keys in this directory."))
 (define-syntax (parse-command-line-arguments stx)
   (define (maybe-strip sym)
     (if (switch? sym)
@@ -145,9 +142,10 @@
   (define (switch? sym)
     (string-suffix? (symbol->string sym) "?"))
   (syntax-case stx ()
-    ((_ box-name ...)
+    ((_ (raw ...) box-name ...)
      #`(command-line
         #:once-each
+        raw ...
         #,@(map
             (lambda (n b)
               (define vars (if (switch? n) null (list (generate-temporary n))))
@@ -174,6 +172,7 @@
           start
           null)))))
 (parse-command-line-arguments
+ ()
  connection-close?
  launch-browser?
  quit?
@@ -181,14 +180,17 @@
  listen-ip
  port
  ssl?
+ server-root-path
  )
-(serve start
-       ()
-       connection-close?
-       launch-browser?
-       quit?
-       banner?
-       listen-ip
-       port
-       ssl?
-       )
+(serve
+ start
+ ()
+ connection-close?
+ launch-browser?
+ quit?
+ banner?
+ listen-ip
+ port
+ ssl?
+ server-root-path
+ )
