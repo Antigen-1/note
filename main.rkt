@@ -8,6 +8,7 @@
 (define-runtime-path database "xexpr/db.rktd")
 
 (define data (read-database database))
+(define names (database-names data))
 
 ;; Response
 (define (render-page bodies)
@@ -100,7 +101,7 @@
                        (if (not (null? result))
                            (make-search-result embed/url p (make-html-list result))
                            #f)))
-                   (database-names data)))
+                   names))
                 ,(make-form search-handler embed/url))))
             ((name NAME)
              (render-page
@@ -113,7 +114,7 @@
                            `(a ((href ,(embed/url (make-display-doc-handler p))))
                                ,p)
                            #f)))
-                   (database-names data)))
+                   names))
                 ,(make-form search-handler embed/url))))
             (else (render-page
                    `((h1 "Illegal Searching Type")

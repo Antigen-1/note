@@ -1,5 +1,5 @@
-#lang hasket
-(require racket/file racket/path pollen/core "database.rkt")
+#lang racket
+(require pollen/core "database.rkt")
 (provide installer)
 
 (define (installer _ root)
@@ -19,6 +19,7 @@
   (define (page? p)
     (and (or (path-has-extension? p #".html.pm") (path-has-extension? p #".html.pmd"))
          (not (findf (lambda (i) (string=? i (path->string p))) indexes))))
+  (define (get-html p) (path-replace-extension p #""))
 
   (make-directory* xexpr)
   (make-database-file database)
@@ -26,4 +27,4 @@
    database
    (lambda (db)
      (for/fold ((db db)) ((src (in-list (filter page? (directory-list source)))))
-       (database-set db (path->string src) (get-doc (build-path source src)))))))
+       (database-set db (path->string (get-html src)) (get-doc (build-path source src)))))))
