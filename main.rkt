@@ -5,16 +5,22 @@
          "database.rkt"
          (for-syntax racket racket/syntax))
 
-(define-runtime-path database "xexpr/db.rktd")
+(define-runtime-path root (current-directory))
+
+(define database (build-path root "xexpr/db.rktd"))
+(define htdocs (build-path root "htdocs"))
 
 (define data (read-database database))
 (define names (database-names data))
+
+(define servlet-path "/servlets/note")
 
 ;; Response
 (define (render-page bodies)
   (response/xexpr
    #:preamble #"<!DOCTYPE html>"
-   `(html (head (meta ((charset "UTF-8"))))
+   `(html (head (meta ((charset "UTF-8")))
+                (link ((href "../style.css") (rel "stylesheet") (type "text/css"))))
           (body ,@bodies))))
 (define (make-html-list ls) `(ul ,@(map (lambda (e) `(li ,e)) ls)))
 (define (make-html-link-content-pair link name content)
@@ -40,21 +46,31 @@
       (_ null)))))
 
 ;; Formlets
-(define text-info-form
-  (formlet (#%# (p ,(input-symbol . => . type))
-                (p ,(input-string . => . pattern)))
+(define type-info-form
+  (formlet (div
+            (label ((for "Type")) "Enter the type: ")
+            ,(input-symbol . => . type))
+           type))
+(define pattern-info-form
+  (formlet (div
+            (label ((for "Pattern")) "Enter the pregexp pattern: ")
+            ,(input-string . => . pattern))
+           pattern))
+(define all-info-form
+  (formlet (#%# ,(type-info-form . => . type)
+                ,(pattern-info-form . => . pattern))
            (list type pattern)))
 (define (make-form handler embed/url)
   `(form ((action ,(embed/url handler)))
-         ,@(formlet-display text-info-form)
-         (input ((type "submit")))))
+         ,@(formlet-display all-info-form)
+         (input ((type "submit") (value "submit")))))
 
 ;; Handlers and renders
 (define (start req)
   (define (response-generator embed/url)
     (render-page
      `((h1 "Hi, there!")
-       (h2 "Please input a type and a pattern.")
+       (h2 "Please input a type and a pregexp pattern.")
        ,(make-form search-handler embed/url))))
 
   ;; (-> string? (-> request? any))
@@ -77,7 +93,7 @@
               .
               (lambda (s)
                 (render-page
-                 `((h1 "Illegal Regular Expression")
+                 `((h1 "Illegal Perl-style Regular Expression")
                    (p ,s)
                    (a ((href "https://docs.racket-lang.org/reference/regexp.html"))
                       "Racket Reference")
@@ -86,7 +102,7 @@
     (send/suspend/dispatch
      (lambda (embed/url)
        (let/cc cc
-         (match-define (list type pattern) (formlet-process text-info-form req))
+         (match-define (list type pattern) (formlet-process all-info-form req))
          (let ((cpattern (pregexp/handler pattern cc embed/url)))
            (case/eq
             type
@@ -187,7 +203,8 @@
  )
 (serve
  start
- ()
+ ((#:extra-files-paths (list htdocs))
+  (#:servlet-path servlet-path))
  connection-close?
  launch-browser?
  quit?
