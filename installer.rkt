@@ -8,7 +8,7 @@
   (define database (build-path xexpr "db.rktd"))
 
   (define indexes (list "index.html.pm"
-                        "影响学.html.pm"
+                        "影像学.html.pm"
                         "英语.html.pm"
                         "外科学.html.pm"
                         "诊断学.html.pm"
