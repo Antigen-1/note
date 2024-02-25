@@ -203,7 +203,7 @@
  )
 (serve
  start
- ((#:extra-files-paths (list htdocs))
+ ((#:extra-files-paths (list htdocs root))
   (#:servlet-path servlet-path))
  connection-close?
  launch-browser?
