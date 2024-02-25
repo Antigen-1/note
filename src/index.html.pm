@@ -3,7 +3,7 @@
 
 ◊(require racket/path)
 ◊(define (make-html-list . items) `(ul ,@(map (lambda (i) `(li ,i)) items)))
-◊(define (make-page-link rel) `(link ((href ,rel)) ,(path->string (file-name-from-path rel))))
+◊(define (make-page-link rel) `(a ((href ,rel)) ,(path->string (file-name-from-path rel))))
 
 ◊make-html-list{
 ◊make-page-link{pollen/影像学.html}
