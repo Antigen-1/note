@@ -9,6 +9,7 @@
 
 (define database (build-path root "xexpr" "db.rktd"))
 (define htdocs (build-path root "htdocs"))
+(define source (build-path root "src"))
 
 (define data (read-database database))
 (define names (database-names data))
@@ -203,7 +204,7 @@
  )
 (serve
  start
- ((#:extra-files-paths (list htdocs root))
+ ((#:extra-files-paths (list htdocs source))
   (#:servlet-path servlet-path))
  connection-close?
  launch-browser?
