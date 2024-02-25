@@ -177,3 +177,33 @@ dl
 无论如何@=in any ◊u{case/event}=come what may@~, we must go on Tuesday.
 至少@=at least@They felt, or ~ Dan felt, both relieved and frightened.他们感到，或至少Dan感到，既宽慰又害怕。
 }
+
+◊h2{more than}
+
+◊p{+ n.：超过，不仅仅}
+
+◊p{例如[NCE4.2]◊b{It is impossible to make more than the wildest guess at how many they kill, but they are hungry creatures, (being) not content with only three meals a day.}我们几乎无法猜测它们究竟杀了多少，但是它们是饥饿的生物，对一天只有三餐饭并不满足。}
+
+◊p{造句：他们是有事业心的年轻人，不会满足于平淡的日常生活。}
+
+◊p{They are ◊b{enterprising} young people, not content with ◊b{the dull routine of everyday life.}}
+
+◊p{反义词“仅仅”：◊u{just/only/merely/no more than}}
+
+◊p{+ adj./adv. ：极其，非常}
+
+◊lst{
+ul
+◊b{He is more than selfish.}他非常自私。
+◊b{I'll be more than happy to buy you a new one.}我非常愿意买一个新的给你。
+}
+
+◊p{+ A can/could ：是...无法...的}
+
+◊lst{
+ul
+[NCE2.78]◊b{When my old friend Brian urged me to accept a cigarette, it is more than I could bear.}当我的旧友布莱恩力劝我吸一支烟时，我再也忍不住了。
+[NCE3.43]◊b{Dancing proved to be more than the dish could bear, for during the party it capsized and sank in seven feet of water.}事实证明这只碟子承受不了跳舞，因为在这场聚会期间它倾覆并沉入了7英尺的水中。
+◊b{The beauty of the West Lake is more than words can describe.}西湖的美女无法用言语形容。
+◊b{Such a complicated situation is far more than we could anticipate and deal with.}这样一种复杂的情况远非我们可以预料和处理的。
+}

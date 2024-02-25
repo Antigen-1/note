@@ -317,18 +317,6 @@ without careful thought
 
 ◊p{例如，◊b{a wild dream/imagination/speculation}白日梦/胡思乱想/瞎猜}
 
-◊h2{more than + n.}
-
-◊p{超过，不仅仅}
-
-◊p{例如[NCE4.2]◊b{It is impossible to make more than the wildest guess at how many they kill, but they are hungry creatures, (being) not content with only three meals a day.}我们几乎无法猜测它们究竟杀了多少，但是它们是饥饿的生物，对一天只有三餐饭并不满足。}
-
-◊p{造句：他们是有事业心的年轻人，不会满足于平淡的日常生活。}
-
-◊p{They are ◊b{enterprising} young people, not content with ◊b{the dull routine of everyday life.}}
-
-◊p{反义词“仅仅”：◊u{just/only/merely/no more than}}
-
 ◊h2{guess}
 
 ◊p{guess what你猜怎么着}
@@ -1606,4 +1594,47 @@ ul
 fowl[C单复同型与+s均可/U]家禽
 poultry家禽（泛指）
 livestock/stock家畜（泛指）
+}
+
+◊h2{当今}
+
+◊lst{
+ul
+these days
+today
+nowadays
+}
+
+◊lst{
+ul
+[NCE4.8]These days, it is differences in national regulations, far more than tariffs, that put sand in the wheels of trade between rich countries.如今，是国家法规之间的差异——而远不仅仅是关税——在妨碍富裕国家之间的贸易。
+}
+
+◊p{造句：现如今，是风俗习惯的差异，而远不仅仅是语言问题，阻碍了跨国婚姻（transnational marriage）。}
+
+◊p{These days, it is differences in habits and customs, far more than languages, that put sand in the wheels of transnational marriage.}
+
+◊p{对比：in those days当初}
+
+◊lst{
+ul
+[NCE4.9]In those days, wandering minstrels were welcome everywhere.当初，流浪艺人到处都受到欢迎。
+[NCE3.21]In those days, boxers fought with bare fists for prize money.当初，拳击手们赤手空拳搏斗来赢取奖金。
+}
+
+◊h2{妨碍}
+
+◊lst{
+ul
+put sand in the wheels of
+put obstacles in the way of
+stand in the way of
+hinder
+impede
+hamper
+}
+
+◊lst{
+ul
+There is none of the hurry which, in our society, often hampers the full development of a growing personality.那里没有我们今天社会中的匆忙生活，这种匆忙生活常常阻碍个性的全面发展。
 }
