@@ -3,12 +3,11 @@
 (provide installer)
 
 (define (installer _ root)
-  (define source (build-path root "pollen"))
+  (define source (build-path root "src" "pollen"))
   (define xexpr (build-path root "xexpr"))
   (define database (build-path xexpr "db.rktd"))
 
-  (define indexes (list "index.html.pm"
-                        "影像学.html.pm"
+  (define indexes (list "影像学.html.pm"
                         "英语.html.pm"
                         "外科学.html.pm"
                         "诊断学.html.pm"
