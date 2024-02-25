@@ -38,13 +38,16 @@ jobs:
       - name: Install packages
         run: raco pkg install --deps search-auto pollen sugar
       - name: Build
-        run: make -C pollen
+        run: |
+          make -C pollen
+          mkdir ALL
+          mv pollen-build pollen-images -t ALL
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          path: 'pollen-build'
+          path: 'ALL'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
