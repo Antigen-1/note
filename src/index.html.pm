@@ -2,7 +2,7 @@
 ◊h1{索引}
 
 ◊(require racket/path)
-◊(define (make-html-list . items) `(ul ,@(map (lambda (i) `(li ,i)) items)))
+◊(define (make-html-list . items) `(ul ,@(map (lambda (i) `(li ,i)) (filter (lambda (i) (not (and (string? i) (string=? "" i)))) items))))
 ◊(define (make-page-link rel) `(a ((href ,rel)) ,(path->string (file-name-from-path rel))))
 
 ◊make-html-list{
