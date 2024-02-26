@@ -1636,5 +1636,5 @@ hamper
 
 ◊lst{
 ul
-There is none of the hurry which, in our society, often hampers the full development of a growing personality.那里没有我们今天社会中的匆忙生活，这种匆忙生活常常阻碍个性的全面发展。
+[NCE4.33]There is none of the hurry which, in our society, often hampers the full development of a growing personality.那里没有我们今天社会中的匆忙生活，这种匆忙生活常常阻碍个性的全面发展。
 }

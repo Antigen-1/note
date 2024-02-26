@@ -1,4 +1,4 @@
-#lang racket/base
+#lang hasket
 (require txexpr racket/string racket/function racket/match racket/list racket/contract sugar/list)
 (provide
  (contract-out
@@ -18,7 +18,7 @@
   (lambda (line)
     (define (@-string? s) (and (string? s) (string-contains? s "@")))
     (let loop ((l line) (c null) (r null))
-      (cond ((null? l) (reverse (if (null? c) r (cons c r))))
+      (cond ((null? l) (reverse (if (null? c) r (cons (reverse c) r))))
             ((@-string? (car l))
              (match (string-split (car l) #rx"@" #:trim? #f)
                ((list first other ... last)
@@ -49,13 +49,13 @@
     (define type (string->symbol (caar lines)))
     (txexpr type
             null
-            (map
+            (bindM
+             (cdr lines)
              (case type
-               ((ol ul) (curry cons 'li))
+               ((ol ul) (curry (list . cons) 'li))
                ((dl) (lambda (line)
                        (define e (split-line line))
-                       (cons '@ (cons (cons 'dt (car e)) (map (curry cons 'dd) (cdr e)))))))
-             (cdr lines)))))
+                       (cons (cons 'dt (car e)) (map (curry cons 'dd) (cdr e))))))))))
 (define img
   (lambda elements
     (txexpr 'img (list (list 'src (path->string (build-path 'up "pollen-images" (car elements))))
