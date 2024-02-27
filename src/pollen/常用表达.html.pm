@@ -1441,6 +1441,8 @@ Where's that idiot of a boy?
 Where's the boy that you think is stupid?
 }
 
+◊p{相关搭配：◊u{meet/reach/pass/live up to/satisfy/fulfill} standards符合标准}
+
 ◊p{criterion/criteria机构标准}
 
 ◊p{如“录取标准”：}
@@ -1638,3 +1640,25 @@ hamper
 ul
 [NCE4.33]There is none of the hurry which, in our society, often hampers the full development of a growing personality.那里没有我们今天社会中的匆忙生活，这种匆忙生活常常阻碍个性的全面发展。
 }
+
+◊h2{（不）同意}
+
+◊p{approve[T]正式同意；approve of同意}
+
+◊lst{
+ul
+The budget has been approved by the legislature.预算已得到立法机关正式批准。
+Catherine's parents now approve of her marriage.卡瑟琳的父母现在同意她的婚姻了。
+}
+
+◊p{reject[T]拒收，不录用，拒绝接纳；拒绝接收，不予考虑}
+
+◊lst{
+ul
+His application has been rejected.他的申请被拒收了。
+to reject ◊u{an argument/a claim/a decision/an offer/a suggestion}拒绝接受一个论点/一项要求/一个决定/一项提议/一个建议
+}
+
+◊p{disapprove of/frown on不同意}
+
+◊p{agreement/permission/approval[U]同意}

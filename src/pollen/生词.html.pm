@@ -441,4 +441,5 @@ intent@[U]~ (to do sth)意图，意向，目的=intention
 trading@[adj]贸易的，商业的
 headquarters@[n](单复同型/U)总部
 the North Atlantic Treaty Organization(NATO)@北约
+hit@[v]=arrive at=reach@[NCE4.8]... before it hits the market in Europe. ...才能到达欧洲市场。
 }

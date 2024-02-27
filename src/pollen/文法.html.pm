@@ -105,7 +105,9 @@ No one can resist...我们都会被...所吸引
 
 ◊p{If there is heaven -- which I take leave to doubt -- then it is the rich and powerful who can enter, not the poor themselves.}
 
-◊h2{对比antithesis}
+◊h2{对比和对照}
+
+◊p{对比antithesis}
 
 ◊p{结构一致，语意相反}
 
@@ -113,6 +115,13 @@ No one can resist...我们都会被...所吸引
 [NCE4.5]...: the young man has a glorious future before him and the old one has a splendid future behind him.年轻人有光辉的前景，而老年人的辉煌已成过去。
 When poverty comes in at the door, love leaps out at the window.贫穷敲开门，而爱跃出窗。
 A mother takes twenty years to make a man of her boy, and another woman takes twenty minutes to make a fool of him.一个母亲花了二十年让她的孩子成长为男子汉，而另一个女人用二十分钟就让他成了一个傻子。
+}
+
+◊p{对照contrast}
+
+◊lst{
+ul
+[NCE4.8]An electric razor that meets the European Union's safety standards must be approved by American testers before it can be sold in the United States, and an American-made dialysis machine needs the EU's okay before it hits the market in Europe.符合欧盟安全标准的电动剃须刀必须经过美国测试者的同意才能在美国销售，而美国产的透析设备也需要欧盟的批准才能进入欧洲市场。
 }
 
 ◊h2{暗喻}

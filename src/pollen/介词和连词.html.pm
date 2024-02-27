@@ -108,3 +108,24 @@ She fainted at the news of her father's death她一听到父亲的死讯就昏�
 ◊i{the day ◊u{when/on which/that/省略连词}}
 ◊i{the moment ◊u{at which/when/that/省略连词}}}
 
+◊h2{before}
+
+◊lst{
+ul
+[prep/conj/abv]在（某事件、日期或时间）之前
+在...前面，在...面前
+[prep]面对（法院或其他官方机构）并受审
+（宁愿...）也不愿，优先于
+}
+
+◊p{既可以表示时间，也可以表示空间，还可以引申为抽象的“面对”和“优先于”。}
+
+◊p{具体的翻译也有讲究。}
+
+◊lst{
+ul
+Put that away before it gets broken.把它收好，◊b{免得}砸碎了。
+I'd die before I apologized!我◊b{宁愿}死也◊b{不}道歉！（对现在虚拟）
+It wasn't long before I had my first bite.没一会儿我◊b{就}第一次等到了鱼来咬饵。
+[NCE4.8]An electric razor that meets the European Union's safety standards must be approved by American testers before it can be sold in the United States, ... .符合欧盟安全标准的电动剃须刀必须经过美国测试者批准◊b{才}能在美国销售，...。
+}
