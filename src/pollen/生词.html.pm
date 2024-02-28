@@ -442,4 +442,5 @@ trading@[adj]贸易的，商业的
 headquarters@[n](单复同型/U)总部
 the North Atlantic Treaty Organization(NATO)@北约
 hit@[v]=arrive at=reach@[NCE4.8]... before it hits the market in Europe. ...才能到达欧洲市场。
+trifle@[n]a trifle[sing.]稍微，一点点=slightly；[C]小事，琐事，不值钱的东西
 }

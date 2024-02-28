@@ -863,13 +863,22 @@ optometrist/optician验光师}
 
 ◊lst{ul
 happen to do/chance to do偶然发生
-it happen that/it chance that偶然
-as it happen[习语]偶然}
+it happens that/it chances that偶然
+as it happens[习语]偶然（有时态变化）
+as luck would have it碰巧
+}
 
-◊lst{ul
-I happened/chanced to meet an old friend ◊u{in town（在镇上）}
-It happened/chanced that I met an old friend in town
-As it happened, I met an old friend in town}
+◊lst{
+ul
+I happened/chanced to meet an old friend ◊u{in town（在镇上）}.
+It happened/chanced that I met an old friend in town.
+As it happened, I met an old friend in town.
+}
+
+◊lst{
+ul
+[NCE4.8]As it happens, a razor that is safe in Europe is unlikely to electrocute Americans.
+}
 
 ◊lst{ul
 by accident
@@ -1662,3 +1671,21 @@ to reject ◊u{an argument/a claim/a decision/an offer/a suggestion}拒绝接受
 ◊p{disapprove of/frown on不同意}
 
 ◊p{agreement/permission/approval[U]同意}
+
+◊h2{也就是说，确切来说}
+
+◊lst{
+ul
+◊i{or more exactly}
+◊i{that is (to say)}
+}
+
+◊p{例如，◊b{I loved him-that is, I thought I did.}我爱过他——确切来说，我那时认为我爱他。}
+
+◊p{又如，◊b{The fare is reduced for children, that is anyone under 15 years old.}儿童——确切来说是所有不满十五岁的人——交通费可以减免。}
+
+◊h2{表事物种类}
+
+◊p{of a ... nature}
+
+◊p{例如◊b{treaties of a political nature}政治协议}

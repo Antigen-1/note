@@ -39,36 +39,6 @@ the first people similar to ...
 
 例如◊b{He is seldom, if ever, absent from work.他——即使有也很少——旷工。}
 
-◊h2{语气}
-
-表推测：
-
-◊lst{
-ul
-may/might have done
-must have done
-cannot/could not have done
-would do/have done
-}
-
-◊lst{ul
-◊i{It's no use talking to Henry--he wouldn't understand}跟亨利说没用——他不会理解的
-[NCE4.48]◊i{... none of the five advisors would have suggested sinking all (or perhaps any) of your money into Periwigs}五位顾问中不会有人建议你把所有（或一部分）资金投入（sink sth in/into sth花大笔钱）Periwigs公司}
-
-表批评（虚拟）：
-
-◊lst{
-ul
-should/ought to have done
-should not/ought not to have done
-}
-
-◊p{此外，might还可表建议，译为“不妨”}
-
-◊p{例如[NCE4.48]◊i{If you recognize yourself in this description, you might include a couple of heady growth stocks in your portfolio, ...}如果你觉得你的情况是这样，那不妨在你的投资组合中囊括几个增长迅猛的股票}
-
-◊p{在这里◊i{a couple of}表示“几个，两三个”；◊i{heady}[adj]表示“迅猛的”，如◊i{a heady current}迅猛的流体}
-
 ◊h2{不定式作主语}
 
 ◊b{sth be ◊i{adj} to do=to do sth be ◊i{adj}}
