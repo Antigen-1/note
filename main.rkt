@@ -1,7 +1,7 @@
 #lang racket
 (require hasket
          web-server/formlets web-server/servlet web-server/servlet-env
-         racket/runtime-path racket/case
+         racket/runtime-path
          "database.rkt"
          (for-syntax racket racket/syntax))
 
@@ -53,7 +53,7 @@
 (define type-info-form
   (formlet (div
             (label ((for "Type")) "Enter the type: ")
-            ,(input-symbol . => . type))
+            ,(input-string . => . type))
            type))
 (define pattern-info-form
   (formlet (div
@@ -127,9 +127,8 @@
        (let/cc cc
          (match-define (list type pattern) (formlet-process all-info-form req))
          (let ((cpattern (pregexp/handler pattern cc embed/url)))
-           (case/eq
-            type
-            ((content CONTENT)
+           (cond
+            ((string-ci=? type "content")
              (render-page
               `((h1 "Search Results")
                 ;; List all files that match
@@ -155,7 +154,7 @@
                            #f)))
                    names))
                 ,(make-form search-handler embed/url))))
-            ((name NAME)
+            ((string-ci=? type "name")
              (render-page
               `((h1 "Search Results")
                 ,(make-html-list

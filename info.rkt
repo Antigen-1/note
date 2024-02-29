@@ -3,7 +3,7 @@
 (define racket-launcher-names (list "display-note"))
 (define racket-launcher-libraries (list "main.rkt"))
 (define install-collection "installer.rkt")
-(define deps (list (list "base" '#:version "8.12")
+(define deps (list "base"
                    "web-server-lib"
                    "pollen"
                    "git://github.com/Antigen-1/hasket.git"))
