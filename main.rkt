@@ -25,8 +25,10 @@
                 )
           (body ,@bodies))))
 (define (make-html-list ls) `(ul ,@(map (lambda (e) `(li ,e)) ls)))
+(define (make-html-link link name)
+  `(a ((href ,link)) ,name))
 (define (make-html-link-content-pair link name content)
-  `(div (a ((href ,link)) ,name)
+  `(div ,(make-html-link link name)
         ,content))
 
 ;; Predicates
@@ -72,7 +74,9 @@
   (define (response-generator embed/url)
     (render-page
      `((h1 "Hi, there!")
-       (h2 "Please input a type and a pregexp pattern.")
+       (h2 "All pages are listed as follows.")
+       ,(make-html-list (map (lambda (nm) (make-html-link (embed/url (make-display-doc-handler nm)) nm)) names))
+       (h2 "You can input a type and a pregexp pattern here.")
        ,(make-form search-handler embed/url))))
 
   ;; Create links to display pages
