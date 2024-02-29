@@ -703,12 +703,21 @@ the fundamental cause of the problem问题的根本原因}
 [NCE4.5]...that is where the rub is.这就是困境所在。
 That's where you and I differ.这就是你我的不同之处。}
 
-◊h2{（某事）可能（是真的）}
+◊h2{（不）可能}
 
-◊p{may/might/could well}
+◊p{may/might/could well（某事）可能（是真的）}
 
-◊p{[NCE3.59]◊i{Over the years, one may well become an authority on one's hobby and will very probably be asked to give informal talks to little gatherings and then, if successful, to larger audiences}
-过了这么多年，一个人可能成为其爱好的权威并很可能会被要求在小型集会上作非正式的报告，而如果成功的话就将面对更广的听众}
+◊lst{
+ul
+[NCE3.59]◊i{Over the years, one may well become an authority on one's hobby and will very probably be asked to give informal talks to little gatherings and then, if successful, to larger audiences.}过了这么多年，一个人可能成为其爱好的权威并很可能会被要求在小型集会上作非正式的报告，而如果成功的话就将面对更广的听众。
+}
+
+◊p{be hard-pressed to do sth不大可能}
+
+◊lst{
+ul
+◊i{Owing to shortage of staff, the emergency services were hard-pressed to deal with the accident.}由于缺少职员，应急服务系统不大可能处理这次事故了。
+}
 
 ◊h2{想要}
 
@@ -749,12 +758,35 @@ That's where you and I differ.这就是你我的不同之处。}
 
 ◊h2{乐观的}
 
-◊p{sanguine/optimistic [adj]}
+◊p{sanguine/optimistic [adj](about sth)}
 
 ◊lst{
 ul
-◊i{She was her usual sanguine self}她曾是那个惯常而乐观的她
-◊i{Josh ◊u{was} less ◊u{sanguine about} the situation in the eastern region of the country}Josh对这个国家东部地区的局势没那么乐观}
+◊i{She was her usual sanguine self.}她曾是那个惯常而乐观的她。
+◊i{Josh ◊b{was} less ◊b{sanguine about} the situation in the eastern region of the country.}Josh对这个国家东部地区的局势没那么乐观。
+◊i{Bankers ◊b{are} cautiously ◊b{optimistic about} the country's economic future.}银行家对这个国家的经济前景持谨慎乐观的态度。
+}
+
+◊lst{
+ul
+optimism[U]乐观，乐观主义
+optimist[n]乐天派
+}
+
+◊p{反义词}
+
+◊lst{
+ul
+pessimistic
+be pessimistic about
+pessimism
+pessimist
+}
+
+◊lst{
+ul
+He remains deeply ◊b{pessimistic about} the peace process.
+}
 
 ◊h2{性格}
 
@@ -1672,6 +1704,32 @@ to reject ◊u{an argument/a claim/a decision/an offer/a suggestion}拒绝接受
 
 ◊p{agreement/permission/approval[U]同意}
 
+◊h3{agree用法总结}
+
+◊lst{
+ul
+agree (◊u{to sth/(that)+从句/to do sth})应允，答应，同意（按某人想法去做或允许某事发生）
+agree ◊u{◊u{(with sb) (about/on sth)/(with sth)}/(that)+从句/直接引语}同意（观点）
+be agreed (on/about sth)/be agreed (that ...)（对...）取得一致意见，一致同意
+agree ◊u{sth/on sth/to do sth/wh-}商定，约定
+agree[T]批准，认可=approve
+agree (with sth)（与...）相符，一致=tally；（在数、性或人称上与...）一致（用于表述语法）
+}
+
+◊lst{
+ul
+The government has ◊b{agreed} in principle ◊b{to} a referendum.政府原则上同意了要进行一次全民公决。
+I ◊b{agree with} her analysis of the situation.我赞成她对形势的分析。
+He ◊b{agreed with} them ◊b{about} the need for change.他同意他们需要变革的意见。
+◊b{Are} we all ◊b{agreed on} this?我们在这个问题上是不是全体意见一致？
+◊b{It was agreed (that)} we should hold another meeting.大家一致同意我们应该再开一次会。
+They left at ten, ◊b{as agreed}.他们按照约定好的时间在十点钟离去。
+Can we ◊b{agree on} a date?我们能否约定一个日期？
+We ◊b{agreed to} meet on Thursday.我们约定星期四见面。
+We couldn't ◊b{agree wh}at to do.关于应该怎么办我们各执己见。
+Your account of the accident does not ◊b{agree with} hers.你对事故的叙述与她的不一致。
+}
+
 ◊h2{也就是说，确切来说}
 
 ◊lst{
@@ -1689,3 +1747,18 @@ ul
 ◊p{of a ... nature}
 
 ◊p{例如◊b{treaties of a political nature}政治协议}
+
+◊h2{太...以至于}
+
+◊lst{
+ul
+be ... enough to do
+be so ... as to do
+be ... enough that ...
+be so ... that ...
+}
+
+◊lst{
+ul
+They are ◊u{rash enough/so rash as} to cross the pass on foot.他们太鲁莽了以至于徒步穿过关口。
+}
