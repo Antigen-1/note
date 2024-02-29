@@ -1,6 +1,7 @@
 #lang racket
 (provide call/database/update read-database make-database-file
-         database-set database-ref database-names database-xexprs database-pairs)
+         database-set database-ref database-names database-xexprs database-pairs
+         (struct-out record))
 
 (define (read-database f)
   (file->value f))
@@ -23,3 +24,5 @@
   (hash-values d))
 (define (database-pairs d)
   (hash->list d))
+
+(struct record (doc pieces) #:constructor-name make-record #:prefab)

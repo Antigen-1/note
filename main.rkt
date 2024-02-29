@@ -75,18 +75,35 @@
        (h2 "Please input a type and a pregexp pattern.")
        ,(make-form search-handler embed/url))))
 
+  ;; Create links to display pages
   ;; (-> string? (-> request? any))
   (define ((make-display-doc-handler name) _)
     (send/suspend/dispatch
      (lambda (embed/url)
        (render-page
-        `(,(database-ref data name)
+        `(,(record-doc (database-ref data name)) ;; This returns a single node
           ,(make-form search-handler embed/url))))))
-  ;; (-> any/c string? string? any)
+  ;; (-> any/c string? xexpr? any)
   (define (make-search-result embed/url name content)
     (make-html-link-content-pair
      (embed/url (make-display-doc-handler name))
      name
+     content))
+
+  ;; Create links to display pieces of those pages
+  ;; Pages are splitted in installer.rkt, with page-xexpr->list in content.rkt
+  ;; (-> string? exact-nonnegative-integer? (-> request? any))
+  (define ((make-display-piece-handler name index) _)
+    (send/suspend/dispatch
+     (lambda (embed/url)
+       (render-page
+        `(,@(list-ref (record-pieces (database-ref data name)) index) ;; This returns a list of nodes
+          ,(make-form search-handler embed/url))))))
+  ;; (-> any/c string? exact-nonnegative-integer? xexpr? any)
+  (define (make-search-result/pieces embed/url name index content)
+    (make-html-link-content-pair
+     (embed/url (make-display-piece-handler name index))
+     (format "~a" (add1 index))
      content))
 
   (define (pregexp/handler exp cc embed/url)
@@ -111,13 +128,26 @@
             ((content CONTENT)
              (render-page
               `((h1 "Search Results")
+                ;; List all files that match
                 ,(make-html-list
                   (filter-map
                    (lambda (p)
-                     (let ((result
-                            (xexpr-include? cpattern (database-ref data p))))
-                       (if (not (null? result))
-                           (make-search-result embed/url p (make-html-list result))
+                     (let* ((pieces (record-pieces (database-ref data p)))
+                            (results
+                             (filter-map
+                              (lambda (i pc)
+                                (define rs (bindM pc (xexpr-include? cpattern)))
+                                (cond ((null? rs) #f) (else (cons i rs))))
+                              (range 0 (length pieces))
+                              pieces)))
+                       (if (not (null? results))
+                           (make-search-result
+                            embed/url
+                            p
+                            ;; List all pieces that match in a file
+                            (make-html-list
+                             ;; List all strings that match in one piece
+                             (map (lambda/curry/match ((`(,i . ,c)) (make-search-result/pieces embed/url p i (make-html-list c)))) results)))
                            #f)))
                    names))
                 ,(make-form search-handler embed/url))))
