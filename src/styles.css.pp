@@ -51,3 +51,17 @@ code {
 #next {
     right: ◊|edge|em;
 }
+
+span {
+    line-height: 20px;
+    background: linear-gradient(0deg, green 1px, white 1px, transparent 1px);
+    background-position: 0 100%;
+}
+.two {
+    line-height: 24px;
+    padding-bottom: 4px;
+}
+.three {
+    line-height: 28px;
+    padding-bottom: 8px;
+}

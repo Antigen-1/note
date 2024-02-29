@@ -1709,7 +1709,7 @@ to reject ◊u{an argument/a claim/a decision/an offer/a suggestion}拒绝接受
 ◊lst{
 ul
 agree (◊u{to sth/(that)+从句/to do sth})应允，答应，同意（按某人想法去做或允许某事发生）
-agree ◊u{◊u{(with sb) (about/on sth)/(with sth)}/(that)+从句/直接引语}同意（观点）
+agree ◊span['((class "one"))]{◊span['((class "two"))]{(with sb) (about/on sth)/(with sth)}/(that)+从句/直接引语}同意（观点）
 be agreed (on/about sth)/be agreed (that ...)（对...）取得一致意见，一致同意
 agree ◊u{sth/on sth/to do sth/wh-}商定，约定
 agree[T]批准，认可=approve

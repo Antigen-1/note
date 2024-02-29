@@ -8,7 +8,6 @@
 (define-runtime-path root ".")
 
 (define database (build-path root "xexpr" "db.rktd"))
-(define htdocs (build-path root "htdocs"))
 (define source (build-path root "src"))
 
 (define data (read-database database))
@@ -21,7 +20,9 @@
   (response/xexpr
    #:preamble #"<!DOCTYPE html>"
    `(html (head (meta ((charset "UTF-8")))
-                (link ((href "../style.css") (rel "stylesheet") (type "text/css"))))
+                (link ((href "../pollen-build/styles.css") (rel "stylesheet") (type "text/css")))
+                (link ((href "../htdocs/styles.css") (rel "stylesheet") (type "text/css")))
+                )
           (body ,@bodies))))
 (define (make-html-list ls) `(ul ,@(map (lambda (e) `(li ,e)) ls)))
 (define (make-html-link-content-pair link name content)
@@ -204,7 +205,7 @@
  )
 (serve
  start
- ((#:extra-files-paths (list htdocs source))
+ ((#:extra-files-paths (list root source))
   (#:servlet-path servlet-path))
  connection-close?
  launch-browser?
