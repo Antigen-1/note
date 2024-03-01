@@ -74,9 +74,8 @@
   (define (response-generator embed/url)
     (render-page
      `((h1 "Hi, there!")
-       (h2 "All pages are listed as follows.")
+       (h2 "Index")
        ,(make-html-list (map (lambda (nm) (make-html-link (embed/url (make-display-doc-handler nm)) nm)) names))
-       (h2 "You can input a type and a pregexp pattern here.")
        ,(make-form search-handler embed/url))))
 
   ;; Create links to display pages
@@ -169,8 +168,9 @@
                 ,(make-form search-handler embed/url))))
             (else (render-page
                    `((h1 "Illegal Searching Type")
-                     (p ,(format "~a is provided." type))
-                     (p "Only content, CONTENT, name or NAME is allowed!")
+                     (p ,(format "~s is provided." type))
+                     (p "Only \"content\" or \"name\" is allowed!")
+                     (p "The matching is case insensitive.")
                      ,(make-form search-handler embed/url))))))))))
 
   (send/suspend/dispatch response-generator))
