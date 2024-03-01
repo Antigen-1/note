@@ -76,6 +76,7 @@
      `((h1 "Hi, there!")
        (h2 "Index")
        ,(make-html-list (map (lambda (nm) (make-html-link (embed/url (make-display-doc-handler nm)) nm)) names))
+       ;; The return-to-index link is unnecessary here
        ,(make-form search-handler embed/url))))
 
   ;; Create links to display pages
@@ -83,9 +84,11 @@
   (define ((make-display-doc-handler name) _)
     (send/suspend/dispatch
      (lambda (embed/url)
-       (render-page
-        `(,(record-doc (database-ref data name)) ;; This returns a single node
-          ,(make-form search-handler embed/url))))))
+       (render-page/suffix
+        embed/url
+        (list
+         (record-doc (database-ref data name)) ;; This returns a single node
+         )))))
   ;; (-> any/c string? xexpr? any)
   (define (make-search-result embed/url name content)
     (make-html-link-content-pair
@@ -99,9 +102,10 @@
   (define ((make-display-piece-handler name index) _)
     (send/suspend/dispatch
      (lambda (embed/url)
-       (render-page
-        `(,@(list-ref (record-pieces (database-ref data name)) index) ;; This returns a list of nodes
-          ,(make-form search-handler embed/url))))))
+       (render-page/suffix
+        embed/url
+        (list-ref (record-pieces (database-ref data name)) index) ;; This returns a list of nodes
+        ))))
   ;; (-> any/c string? exact-nonnegative-integer? xexpr? any)
   (define (make-search-result/pieces embed/url name index content)
     (make-html-link-content-pair
@@ -114,12 +118,13 @@
              (cc
               .
               (lambda (s)
-                (render-page
+                (render-page/suffix
+                 embed/url
                  `((h1 "Illegal Perl-style Regular Expression")
                    (p ,s)
                    (a ((href "https://docs.racket-lang.org/reference/regexp.html"))
                       "Racket Reference")
-                   ,(make-form search-handler embed/url)))))))
+                   ))))))
   (define (search-handler req)
     (send/suspend/dispatch
      (lambda (embed/url)
@@ -128,7 +133,8 @@
          (let ((cpattern (pregexp/handler pattern cc embed/url)))
            (cond
             ((string-ci=? type "content")
-             (render-page
+             (render-page/suffix
+              embed/url
               `((h1 "Search Results")
                 ;; List all files that match
                 ,(make-html-list
@@ -152,9 +158,10 @@
                              (map (lambda/curry/match ((`(,i . ,c)) (make-search-result/pieces embed/url p i (make-html-list c)))) results)))
                            #f)))
                    names))
-                ,(make-form search-handler embed/url))))
+                )))
             ((string-ci=? type "name")
-             (render-page
+             (render-page/suffix
+              embed/url
               `((h1 "Search Results")
                 ,(make-html-list
                   (filter-map
@@ -165,13 +172,24 @@
                                ,p)
                            #f)))
                    names))
-                ,(make-form search-handler embed/url))))
-            (else (render-page
+                )))
+            (else (render-page/suffix
+                   embed/url
                    `((h1 "Illegal Searching Type")
                      (p ,(format "~s is provided." type))
                      (p "Only \"content\" or \"name\" is allowed!")
                      (p "The matching is case insensitive.")
-                     ,(make-form search-handler embed/url))))))))))
+                     )))))))))
+
+  (define (return-to-index-handler embed/url)
+    (start (redirect/get)))
+
+  (define (add-common-suffix embed/url nodes)
+    `(,@nodes
+      ,(make-form search-handler embed/url)
+      ,(make-html-link (embed/url return-to-index-handler) "Return to index")))
+  (define render-page/suffix
+    (render-page . add-common-suffix))
 
   (send/suspend/dispatch response-generator))
 
