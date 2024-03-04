@@ -4,9 +4,14 @@
 
 (define (installer _ root)
   (define source (build-path root "src"))
-  (define pollen (build-path source "pollen"))
+  (define htdocs (build-path root "htdocs"))
   (define xexpr (build-path root "xexpr"))
+  (define build (build-path root "build"))
+  (define pollen-build (build-path root "pollen-build"))
+
+  (define pollen (build-path source "pollen"))
   (define database (build-path xexpr "db.rktd"))
+  (define images (build-path source "pollen-images"))
   (define MAKE (find-executable-path "make"))
 
   (cond (MAKE) (else (raise (make-exn:fail:user "Cannot find GNU make." (current-continuation-marks)))))
@@ -23,6 +28,8 @@
     (and (or (path-has-extension? p #".html.pm") (path-has-extension? p #".html.pmd"))
          (not (findf (lambda (i) (string=? i (path->string p))) indexes))))
   (define (get-html p) (path-replace-extension p #""))
+  (define (last-name p)
+    (call-with-values (lambda () (split-path p)) (lambda l (last (filter values l)))))
 
   (system* MAKE "-C" source)
 
@@ -34,4 +41,9 @@
      (for/fold ((db db)) ((src (in-list (filter page? (directory-list pollen)))))
        (database-set db
                      (path->string (get-html src))
-                     (page-xexpr->list (get-doc (build-path pollen src))))))))
+                     (page-xexpr->list (get-doc (build-path pollen src)))))))
+
+  (make-directory* build)
+  (map (lambda (f/d) (copy-directory/files f/d (build-path build (last-name f/d)))) (list xexpr images htdocs pollen-build))
+
+  (void))
