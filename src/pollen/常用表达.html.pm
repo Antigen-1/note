@@ -1738,8 +1738,7 @@ Your account of the accident does not ◊b{agree with} hers.你对事故的叙�
 
 ◊lst{
 ul
-◊lst{
-ul
+◊div{
 [C](with sb)/(between A and B)协定，协议，契约
 }
 ◊div{
