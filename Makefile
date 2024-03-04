@@ -8,7 +8,7 @@ RACKET = racket
 EXF =
 
 FIND_MAIN = $(RACKET) -e "(display (if (eq? (system-type 'os) 'windows) \"main.exe\" \"main\"))"
-MAIN = $(shell $(FIND_MAIN))
+MAIN = "$(shell $(FIND_MAIN))"
 
 all: dist
 
