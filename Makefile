@@ -7,7 +7,8 @@ RACKET_FOR_BUILD = racket
 RACKET = racket
 EXF =
 
-MAIN = $(RACKET) -e "(if (eq? (system-type 'os) 'windows)) \"main.exe\" \"main\")"
+FIND_MAIN = $(RACKET) -e "(display (if (eq? (system-type 'os) 'windows) \"main.exe\" \"main\"))"
+MAIN = $(shell $(FIND_MAIN))
 
 all: dist
 
@@ -17,7 +18,7 @@ dist: $(MAIN) build
 build:
 	$(RACKET_FOR_BUILD) -e "(parameterize ((current-directory \"$(currentdir)\")) (local-require \"installer.rkt\") (installer #f \".\"))"
 
-main: main.rkt
+$(MAIN): main.rkt
 	$(RACO) pkg install --deps search-auto --skip-installed pollen "git://github.com/Antigen-1/hasket.git"
 	$(RACO) exe $(EXF) -o $(MAIN) main.rkt
 
