@@ -1,10 +1,12 @@
-.PHONY: clean
+.PHONY: clean all
 
 RACO = raco
 RACKET_FOR_BUILD = racket
 RACKET = racket
 RFLAGS =
-MAIN = $(shell ${RACKET} -e "(display (if (eq? (system-type 'os) 'windows) \"main.exe\" \"main\"))")
+MAIN = $$($$RACKET -e "(display (if (eq? (system-type 'os) 'windows) \"main.exe\" \"main\"))")
+
+all: display-note.zip
 
 display-note.zip: $(MAIN)
 	$(RACKET_FOR_BUILD) -e "(begin (require \"installer.rkt\") (installer #f \".\"))"
