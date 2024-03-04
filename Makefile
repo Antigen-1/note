@@ -4,6 +4,7 @@ currentdir = $(realpath .)
 
 RACO = raco
 RACKET_FOR_BUILD = racket
+EXF =
 
 all: dist
 
@@ -15,7 +16,7 @@ build:
 
 main: main.rkt
 	$(RACO) pkg install --deps search-auto --skip-installed pollen "git://github.com/Antigen-1/hasket.git"
-	$(RACO) exe -o main main.rkt
+	$(RACO) exe $(EXF) -o main main.rkt
 
 clean:
 	-rm -rf display-note main build
