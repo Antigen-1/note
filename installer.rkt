@@ -34,5 +34,4 @@
      (for/fold ((db db)) ((src (in-list (filter page? (directory-list pollen)))))
        (database-set db
                      (path->string (get-html src))
-                     (let ((doc (get-doc (build-path pollen src))))
-                       (make-record doc (page-xexpr->list doc))))))))
+                     (page-xexpr->list (get-doc (build-path pollen src))))))))

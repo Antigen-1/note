@@ -75,41 +75,61 @@
     (render-page
      `((h1 "Hi, there!")
        (h2 "Index")
-       ,(make-html-list (map (lambda (nm) (make-html-link (embed/url (make-display-doc-handler nm)) nm)) names))
+       ,(make-html-list (map (lambda (nm) (make-html-link (embed/url (make-display-doc-handler (database-ref data nm))) nm)) names))
        ;; The return-to-index link is unnecessary here
        ,(make-form search-handler embed/url))))
 
   ;; Create links to display pages
-  ;; (-> string? (-> request? any))
-  (define ((make-display-doc-handler name) _)
+  (define (make-doc pieces embed/url)
+    (if (null? pieces)
+        '((h1 "There's no content in this file."))
+        (let loop ((last #f) (current (car pieces)) (rest (cdr pieces)))
+          (define (make prefix rest)
+            (define (do)
+              `(,@prefix
+                (p
+                 ,(make-html-link
+                   (embed/url
+                    ;; Delayed
+                    (lambda (req)
+                      ((make-display-piece-handler (loop (do) (car rest) (cdr rest))) req)))
+                   "Next"))))
+            (do))
+          (cond ((and (not last) (null? rest)) current)
+                ((not last)
+                 (make current rest))
+                ((null? rest)
+                 `((p ,(make-html-link (embed/url (make-display-piece-handler last)) "Last"))
+                   ,@current))
+                (else
+                 (make `((p ,(make-html-link (embed/url (make-display-piece-handler last)) "Last"))
+                         ,@current)
+                       rest))))))
+  ;; (-> (listof (listof xexpr?)) (-> request? any))
+  (define ((make-display-doc-handler pieces) _)
     (send/suspend/dispatch
      (lambda (embed/url)
        (render-page/suffix
         embed/url
-        (list
-         (record-doc (database-ref data name)) ;; This returns a single node
-         )))))
+        (make-doc pieces embed/url)))))
   ;; (-> any/c string? xexpr? any)
   (define (make-search-result embed/url name content)
     (make-html-link-content-pair
-     (embed/url (make-display-doc-handler name))
+     (embed/url (make-display-doc-handler (database-ref data name)))
      name
      content))
 
   ;; Create links to display pieces of those pages
   ;; Pages are splitted in installer.rkt, with page-xexpr->list in content.rkt
-  ;; (-> string? exact-nonnegative-integer? (-> request? any))
-  (define ((make-display-piece-handler name index) _)
+  ;; (-> (listof xexpr?) (-> request? any))
+  (define ((make-display-piece-handler piece) _)
     (send/suspend/dispatch
      (lambda (embed/url)
-       (render-page/suffix
-        embed/url
-        (list-ref (record-pieces (database-ref data name)) index) ;; This returns a list of nodes
-        ))))
+       (render-page/suffix embed/url piece))))
   ;; (-> any/c string? exact-nonnegative-integer? xexpr? any)
   (define (make-search-result/pieces embed/url name index content)
     (make-html-link-content-pair
-     (embed/url (make-display-piece-handler name index))
+     (embed/url (make-display-piece-handler (list-ref (database-ref data name) index)))
      (format "~a" (add1 index))
      content))
 
@@ -140,7 +160,7 @@
                 ,(make-html-list
                   (filter-map
                    (lambda (p)
-                     (let* ((pieces (record-pieces (database-ref data p)))
+                     (let* ((pieces (database-ref data p))
                             (results
                              (filter-map
                               (lambda (i pc)
@@ -168,7 +188,7 @@
                    (lambda (p)
                      (let ((result (include? cpattern p)))
                        (if result
-                           `(a ((href ,(embed/url (make-display-doc-handler p))))
+                           `(a ((href ,(embed/url (make-display-doc-handler (database-ref data p)))))
                                ,p)
                            #f)))
                    names))
