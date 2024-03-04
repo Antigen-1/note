@@ -16,6 +16,7 @@ build:
 	cp -r $(currentdir)/htdocs $(currentdir)/pollen-build $(currentdir)/xexpr $(currentdir)/src/pollen-images $(currentdir)/build
 
 main: main.rkt
+	$(RACO) pkg install --deps search-auto web-server-lib pollen "git://github.com/Antigen-1/hasket.git"
 	$(RACO) exe -o main main.rkt
 
 clean:
