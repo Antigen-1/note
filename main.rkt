@@ -5,10 +5,9 @@
          "database.rkt"
          (for-syntax racket racket/syntax))
 
-(define-runtime-path root ".")
+(define-runtime-path build (build-path 'same "build"))
 
-(define database (build-path root "xexpr" "db.rktd"))
-(define source (build-path root "src"))
+(define database (build-path build "xexpr" "db.rktd"))
 
 (define data (read-database database))
 (define names (database-names data))
@@ -276,7 +275,7 @@
  )
 (serve
  start
- ((#:extra-files-paths (list root source))
+ ((#:extra-files-paths (list build))
   (#:servlet-path servlet-path))
  connection-close?
  launch-browser?
