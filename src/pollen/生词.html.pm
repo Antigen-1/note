@@ -2,6 +2,8 @@
 
 ◊h1{生词}
 
+◊h2{中英对照}
+
 ◊;在这里不作过多补充的词以及适用范围有限的词或含义
 ◊tbl{
 生词表
@@ -443,4 +445,7 @@ headquarters@[n](单复同型/U)总部
 the North Atlantic Treaty Organization(NATO)@北约
 hit@[v]=arrive at=reach@[NCE4.8]... before it hits the market in Europe. ...才能到达欧洲市场。
 trifle@[n]a trifle[sing.]稍微，一点点=slightly；[C]小事，琐事，不值钱的东西
+slaughter@[v]屠宰
+tariff@[n]关税
+dialysis@[n]分离，分解，透析，渗析
 }

@@ -636,9 +636,13 @@ be in the habit of sth/doing}
 
 ◊p{construct [v]构成，构建，形成}
 
-◊lst{ul
+◊lst{
+ul
 ◊i{You must learn how to construct a logical argument}你必须学会如何构建一个合逻辑的论证过程
-[NCE4.48]◊i{construct a portfolio with some shares(but not high risk ones)}制定一份包含某些（风险不是很大的）股份的投资组合}
+[NCE4.48]◊i{construct a portfolio with some shares(but not high risk ones)}制定一份包含某些（风险不是很大的）股份的投资组合
+◊i{construct a sentence}造句
+◊i{construct an agreement}起草协议
+}
 
 ◊h2{基础知识，基本原则，基本原理}
 
@@ -1730,6 +1734,30 @@ We couldn't ◊b{agree wh}at to do.关于应该怎么办我们各执己见。
 Your account of the accident does not ◊b{agree with} hers.你对事故的叙述与她的不一致。
 }
 
+◊p{agreement[n]}
+
+◊lst{
+ul
+◊lst{
+ul
+[C](with sb)/(between A and B)协定，协议，契约
+}
+◊div{
+◊p{抽象名词不可数}
+◊lst{
+ul
+（意见或看法）一致
+应允，同意
+（在数、性或人称方面的）一致
+}
+}
+}
+
+◊lst{
+ul
+[NCE4.8]... wants agreement on general principles ... . ...希望在普遍原则上达成一致...。
+}
+
 ◊h2{也就是说，确切来说}
 
 ◊lst{
@@ -1761,4 +1789,61 @@ be so ... that ...
 ◊lst{
 ul
 They are ◊u{rash enough/so rash as} to cross the pass on foot.他们太鲁莽了以至于徒步穿过关口。
+}
+
+◊h2{包含}
+
+◊lst{
+ul
+cover[T]包括，包含，涉及，处理
+embrace[T]包括，包含
+encompass[T]包括，包含，涉及（大量事物）
+}
+
+◊lst{
+ul
+The course covers all aspects of business and law.这门课程涉及了商业和法律的方方面面。
+◊u{Do the rules cover/Do the rules apply to} a case like this?这些规则涉及这样一种情况吗？
+The talks embraced a wide range of issues.这些谈话涉及的问题非常广泛。
+The job encompasses a wide range of responsibilities.这项工作涉及的职责范围很广。
+}
+
+◊p{积累}
+
+◊lst{
+ul
+In the American economy, the concept of private property embraces not only the ownership of productive resources but also certain rights, including the right to determine the price of a product or to make a free contract with another private individual.在美国的经济体制里，私有财产的概念不仅包括生产资料所有权，还包括某些权利，包括产品定价权以及与另一个私立个体签订自由协议的权利。
+"Anthropology" derives from the Greek words ◊i{anthropos} "human" and ◊i{logos} "the study of". By its very name, anthropology encompasses the study of all humankind.“人类学”起源于希腊语单词“人类”和“研究”。仅仅「very[adj]（加强名词的语气）仅仅的，唯独的，甚至于」按照「by[prep]从...看，依，按照」它的名字，人类学包括了对全体人类的研究。
+}
+
+◊h2{例如}
+
+◊p{say/let's say假定，比方说}
+
+◊lst{
+ul
+[NCE4.8]... hammer out different pacts covering, say, electronic goods and drug manufacturing. ...敲定不同的、涵盖，比方说，电子商品和药物生产的协议。
+}
+
+◊h2{英语中的地理传统}
+
+◊lst{
+dl
+continental大陆的@a continental climate大陆性气候
+Continental欧洲大陆的
+the continent/Continent欧洲大陆
+the channel/Channel英吉利海峡
+}
+
+◊h2{延伸到}
+
+◊lst{
+ul
+extend to
+spread to
+}
+
+◊lst{
+ul
+[NCE4.8]... could be applied to many types of products and perhaps extended to other countries. ...可以应用到许多类型的产品并且可能延伸到其他国家。
 }

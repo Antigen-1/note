@@ -207,3 +207,37 @@ ul
 ◊b{The beauty of the West Lake is more than words can describe.}西湖的美女无法用言语形容。
 ◊b{Such a complicated situation is far more than we could anticipate and deal with.}这样一种复杂的情况远非我们可以预料和处理的。
 }
+
+◊h2{follow}
+
+◊;;TODO
+
+◊lst{
+ul
+[T]接受...为指导（或领导、榜样），追随，拥护，仿效
+[T]接受，遵循，听从（忠告、指示等）
+}
+
+◊lst{
+dl
+[NCE4.8]following fine continental traditions遵循优良的大陆传统
+follow the ◊u{crowd/herd}随大流
+follow one's ◊u{example/lead}步后尘@I don't want you to follow my ◊u{example/lead} and rush into marriage.我不希望你走我的老路，匆忙结婚。
+}
+
+◊h2{apply}
+
+◊;;TODO
+
+◊lst{
+ul
+[T]sth (to sth)使用，应用
+[T/I](to sb/sth)有关，涉及（不用于进行时）
+}
+
+◊lst{
+ul
+The new technology was applied to farming.这项新技术已应用于农业。
+The word 'unexciting' could never be applied to her novels.“乏味”这个词绝对与她的小说沾不上边。
+What I am saying applies only to some of you.我所说的只涉及你们中的一些人。
+}
