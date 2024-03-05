@@ -1846,3 +1846,42 @@ spread to
 ul
 [NCE4.8]... could be applied to many types of products and perhaps extended to other countries. ...可以应用到许多类型的产品并且可能延伸到其他国家。
 }
+
+◊h2{走}
+
+◊lst{
+ul
+wandering[adj]浪迹天涯的，居无定所的
+wander/roam漫无目的地走
+}
+
+◊lst{
+ul
+a band of wandering musicians
+[NCE2.70]During a bullfight, a drunk suddenly wandered into the middle of the ring.在斗牛期间，一个醉汉突然漫无目的的走进了场地中央。
+}
+
+◊p{◊u{have/take/go for} a ◊u{walk/stroll}散步}
+
+◊lst{
+ul
+[NCE3.19]He usually takes a short walk in the evenings and is always home by seven o'clock.他常常在傍晚散会步并且总是不晚于「by[prep]不迟于，在...之前」七点到家。
+[NCE3.23]The idea never appealed to me very much, but one day, after a heavy shower, I happened to be walking in my garden when I noticed a huge number of snails taking a stroll on some of my prize plants.这个主意从未引起我特别的兴趣，但有一天在一场强阵雨之后，碰巧我在我的花园里走着的时候注意到大量蜗牛在我一些长得很好的「prize[adj]（尤指动物、花或蔬菜）好得足以获奖的，应获奖的」植物上散步。
+}
+
+◊p{walk the dog遛狗}
+
+◊p{stretch one's legs出去走走}
+
+◊lst{
+ul
+[NCE3.44]You can stretch your legs on the spacious decks, play games, meet interesting people and enjoy good food ... .你可以在宽敞的甲板上走走，玩玩游戏，见一些有趣的人，还可以享用美味的食物...。
+}
+
+◊p{stray迷路的}
+
+◊lst{
+ul
+stray sheep迷途的羔羊
+[NCE3.33]Only two stray dogs benefited from all this confusion, for they greedily devoured what was left of the cake. It was just one of those days!只有两只迷路的狗从这场混乱中受益——它们贪婪的狼吞虎咽仅剩的蛋糕「leave见一词多义相关词条」。这就是事事不顺心的那么一天！
+}

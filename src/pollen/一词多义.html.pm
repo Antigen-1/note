@@ -241,3 +241,42 @@ The new technology was applied to farming.这项新技术已应用于农业。
 The word 'unexciting' could never be applied to her novels.“乏味”这个词绝对与她的小说沾不上边。
 What I am saying applies only to some of you.我所说的只涉及你们中的一些人。
 }
+
+◊h2{leave}
+
+◊;;TODO
+
+◊h3{处于某种状态，在某地方}
+
+◊p{[T]使保留，让...处于（某种状态、某地等）。这种状态或地点作为宾补。}
+
+◊lst{
+dl
+[T-adj]@可视为省略了being。@Leave the door open, please.请把门开着吧。
+[T-ing]@Don't leave her waiting outside in the rain.别让她在外边雨里等着。
+[T-to do]@Leave the rice to cook for 20 minutes.把大米煮20分钟。
+}
+
+◊p{使发生，造成，使留下为（某种结果）。}
+
+◊lst{
+dl
+[T]@Red wine leaves a stain.红葡萄酒会留下污渍。
+[T]双宾语@I'm afraid you leave me no choice.恐怕你没有给我留下选择的余地。
+}
+
+◊p{be left[T]留下备用（或销售等）。}
+
+◊lst{
+dl
+Is there any coffee left?还有咖啡剩下吗？
+◊i{figurative}@[NCE3.33]... what was left of the cake. ...仅剩的那些蛋糕。@The only course of action left to me was to notify her employer.我可能采取的唯一措施「course/course of action行动方式，处理方法」就是通知她的雇主。
+}
+
+◊p{[T]◊u{sth/sb} (behind)忘了带，丢下}
+
+◊lst{
+ul
+I've left my beg on the bus.我把包丢在公交车上了。
+He wasn't well, so we had to leave him behind.他身体不舒服，因此我们只好把他留下。
+}
