@@ -262,13 +262,12 @@
           start
           null)))))
 (parse-command-line-arguments
- ()
+ (("--port" p ((vector-ref port 1)) (vector-set! port 0 (string->number p))))
  connection-close?
  launch-browser?
  quit?
  banner?
  listen-ip
- port
  ssl?
  ssl-cert
  ssl-key
