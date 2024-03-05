@@ -54,6 +54,8 @@ the French/Chinese authorities}
 
 ◊p{[NCE4.3]◊i{... eating seven-course dinners ...}一顿饭七道菜}
 
+◊p{course/course of action行动方式，处理方法}
+
 ◊h2{portfolio}
 
 ◊p{[n]公文包，文件夹；投资组合}
@@ -270,7 +272,7 @@ dl
 ◊lst{
 dl
 Is there any coffee left?还有咖啡剩下吗？
-◊i{figurative}@[NCE3.33]... what was left of the cake. ...仅剩的那些蛋糕。@The only course of action left to me was to notify her employer.我可能采取的唯一措施「course/course of action行动方式，处理方法」就是通知她的雇主。
+◊i{figurative}@[NCE3.33]... what was left of the cake. ...仅剩的那些蛋糕。@The only course of action left to me was to notify her employer.我可能采取的唯一措施就是通知她的雇主。
 }
 
 ◊p{[T]◊u{sth/sb} (behind)忘了带，丢下}
