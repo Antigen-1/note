@@ -18,5 +18,5 @@ $(MAIN): main.rkt
 	$(RACO) exe $(RFLAGS) -o $(MAIN) main.rkt
 
 clean:
-	-rm -rf display-note* $(MAIN) build
+	-rm -rf display-note* $(MAIN) build xexpr
 	$(MAKE) -C src clean
