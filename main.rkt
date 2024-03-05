@@ -217,10 +217,10 @@
 (define launch-browser? (vector #f "A web browser is opened to \"http://localhost:<port><servlet-path>\"."))
 (define quit? (vector #f "The URL \"/quit\" ends the server."))
 (define banner? (vector #f "An informative banner is printed."))
-(define listen-ip (vector #f "The server listens on listen-ip."))
+(define listen-ip (vector #f "The server listens on this ip."))
 (define/contract port
-  (vector/c exact-nonnegative-integer? any/c)
-  (vector 6789 "The server listens on port."))
+  (vector/c listen-port-number? any/c)
+  (vector 6789 "The server listens on this port."))
 (define ssl? (vector #f "Enable SSL."))
 (define ssl-cert (vector #f "The server uses this certificate."))
 (define ssl-key (vector #f "The server uses this private key."))
