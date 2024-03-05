@@ -4,7 +4,7 @@ RACO = raco
 RACKET_FOR_BUILD = racket
 RACKET = racket
 RFLAGS =
-MAIN = $$($$RACKET -e "(begin (require setup/cross-system) (display (if (eq? (cross-system-type 'os) 'windows) \"main.exe\" \"main\")))")
+MAIN = $$(${RACKET} -e "(begin (require setup/cross-system) (display (if (eq? (cross-system-type 'os) 'windows) \"main.exe\" \"main\")))")
 
 all: display-note.zip
 
