@@ -84,7 +84,8 @@
     (if (null? pieces)
         '((h1 "There's no content in this file."))
         (let loop ((last #f) (current (car pieces)) (rest (cdr pieces)))
-          (define prev
+          ;; Every time a page is linked a new url is created
+          (define (make-prev)
             (if last
                 (list
                  `(i ((id "prev"))
@@ -92,7 +93,7 @@
                 null))
           (define (make)
             `((p
-               ,@prev
+               ,@(make-prev)
                ,@(if (null? rest)
                      null
                      (list
