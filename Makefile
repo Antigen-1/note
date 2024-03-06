@@ -14,7 +14,7 @@ display-note.zip: $(MAIN)
 	zip -r display-note.zip display-note
 
 $(MAIN): main.rkt
-	$(RACO) pkg install --deps search-auto --skip-installed pollen "git://github.com/Antigen-1/hasket.git"
+	$(RACO) pkg install --deps search-auto --skip-installed pollen sugar "git://github.com/Antigen-1/hasket.git"
 	$(RACO) exe $(RFLAGS) -o $(MAIN) main.rkt
 
 clean:

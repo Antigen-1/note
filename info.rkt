@@ -6,4 +6,5 @@
 (define deps (list "base"
                    "web-server-lib"
                    "pollen"
+                   "sugar"
                    "git://github.com/Antigen-1/hasket.git"))
