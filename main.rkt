@@ -212,6 +212,15 @@
 
   (send/suspend/dispatch response-generator))
 
+;; Formatter
+(define (format-statistics total pages)
+  (define (format-record name len) (format "~a: ~a" name len))
+  (string-join
+   `(,@(map (lambda/curry/match ((`(,name . ,len)) (format-record name len))) (sort pages > #:key cdr))
+     ,(format-record "Total" total))
+   "\n"
+   #:after-last "\n"))
+
 ;; Main
 (define connection-close? (vector #f "Every connection is closed after one request."))
 (define launch-browser? (vector #f "A web browser is opened to \"http://localhost:<port><servlet-path>\"."))
@@ -224,6 +233,7 @@
 (define ssl? (vector #f "Enable SSL."))
 (define ssl-cert (vector #f "The server uses this certificate."))
 (define ssl-key (vector #f "The server uses this private key."))
+(define stats? (vector #f "Display statistics and exit."))
 (define-syntax (parse-command-line-arguments stx)
   (define (maybe-strip sym)
     (if (switch? sym)
@@ -262,7 +272,16 @@
           start
           null)))))
 (parse-command-line-arguments
- (("--port" p ((vector-ref port 1)) (vector-set! port 0 (string->number p))))
+ (("--port" p ((vector-ref port 1)) (vector-set! port 0 (string->number p)))
+  ("--stats" ((vector-ref stats? 1))
+             (call-with-values
+              (lambda ()
+                (for/fold ((total 0) (pages null)) ((pair (in-list (database-pairs data))))
+                  (define len (length (cdr pair)))
+                  (values (+ total len)
+                          (cons (cons (car pair) len) pages))))
+              (display . format-statistics))
+             (exit)))
  connection-close?
  launch-browser?
  quit?
