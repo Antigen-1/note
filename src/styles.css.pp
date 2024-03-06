@@ -4,6 +4,12 @@
 ◊(define multiplier 1.3)
 ◊(define color "firebrick")
 
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
 table, th, td {
         border: 1px solid black;
         border-collapse: collapse;
