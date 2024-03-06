@@ -7,7 +7,7 @@ all: render
 	$(RACO_FOR_BUILD) pollen publish . ../pollen-build
 
 render:	
-	$(RACO_FOR_BUILD) pollen render -p ./*.pp ./*.pm
+	$(RACO_FOR_BUILD) pollen render ./*.pp ./*.pm
 	$(MAKE) -C pollen
 
 clean:
