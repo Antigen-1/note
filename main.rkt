@@ -79,31 +79,33 @@
        ,(make-form search-handler embed/url))))
 
   ;; Create links to display pages
+  ;; (-> (listof (listof xexpr?)) any/c (listof xexpr?))
   (define (make-doc pieces embed/url)
     (if (null? pieces)
         '((h1 "There's no content in this file."))
         (let loop ((last #f) (current (car pieces)) (rest (cdr pieces)))
-          (define (make prefix rest)
-            (define (do)
-              `(,@prefix
-                (p
-                 ,(make-html-link
-                   (embed/url
-                    ;; Delayed
-                    (lambda (req)
-                      ((make-display-piece-handler (loop (do) (car rest) (cdr rest))) req)))
-                   "Next"))))
-            (do))
-          (cond ((and (not last) (null? rest)) current)
-                ((not last)
-                 (make current rest))
-                ((null? rest)
-                 `((p ,(make-html-link (embed/url (make-display-piece-handler last)) "Last"))
-                   ,@current))
-                (else
-                 (make `((p ,(make-html-link (embed/url (make-display-piece-handler last)) "Last"))
-                         ,@current)
-                       rest))))))
+          (define prev
+            (if last
+                (list
+                 `(i ((id "prev"))
+                     ,(make-html-link (embed/url (make-display-piece-handler last)) "Prev")))
+                null))
+          (define (make)
+            `((p
+               ,@prev
+               ,@(if (null? rest)
+                     null
+                     (list
+                      `(i
+                        ((id "next"))
+                        ,(make-html-link
+                          (embed/url
+                           ;; Delayed
+                           (lambda (req)
+                             ((make-display-piece-handler (loop (make) (car rest) (cdr rest))) req)))
+                          "Next")))))
+              ,@current))
+          (make))))
   ;; (-> (listof (listof xexpr?)) (-> request? any))
   (define ((make-display-doc-handler pieces) _)
     (send/suspend/dispatch
