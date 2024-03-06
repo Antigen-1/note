@@ -6,7 +6,7 @@ all: render
 	$(RACO_FOR_BUILD) pollen publish . ../pollen-build
 
 render:	
-	$(RACO_FOR_BUILD) pollen render -p ./*.p ./*.pp ./*.pm ./*.ptree ./pollen/*.pm 
+	$(RACO_FOR_BUILD) pollen render -p ./*.pp ./*.pm ./pollen/*.ptree ./pollen/*.pm ./pollen/*.p 
 
 clean:
 	-rm -rf ./*.html ./*.css ./pollen/*.html ../pollen-build
