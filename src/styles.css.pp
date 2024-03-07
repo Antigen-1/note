@@ -24,7 +24,7 @@ table {
   border-collapse: collapse;
   border: 2px solid rgb(140 140 140);
   font-family: sans-serif;
-  font-size: 0.8rem;
+  font-size: 1em;
   letter-spacing: 1px;
 }
 
