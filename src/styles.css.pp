@@ -21,12 +21,7 @@ body{
 
 div {
   border-radius: 5px;
-  background-color: #333;
   padding: 20px;
-}
-
-div > label {
-    color: white;
 }
 
 /*-------------*/
