@@ -15,7 +15,43 @@ eg.[NCE4.1]◊b{We can read of things that happened 5000 years ago in the Near E
 
 The past few years witnessed the great ◊i{influx} of migrant workers from the countryside to big cities,where they could ◊i{secure decent jobs} and ◊i{support} their families.
 
-◊h2{不定式作表语}
+◊h2{非谓语动词，动名词和独立主格结构}
+
+◊lst{
+ul
+汉语为平行语，常见连动句，无轻重之别。
+英语为层次语，突出中心动词，次要动词◊b{状语化}。
+}
+
+◊p{状语化的结果：}
+
+◊lst{
+ul
+主语统一：一般非谓语动词。
+主语不统一：独立主格结构。
+}
+
+◊h3{非谓语动词}
+
+◊lst{
+ul
+不定式：◊b{一般来说}表示要做。
+分词：表示正在或已做。◊lst{
+ul
+doing:主动
+done:被动
+}
+}
+
+◊lst{
+ul
+Trying to explain the situation, she said 'It's only me'.=She tried to explain the situation and said 'It's only me'.但前者更具侧重点。
+[NCE3.1]The hunt for the puma began in a small village where a woman ◊b{picking blackberries} saw 'a large cat' only five yards away from her.
+}
+
+◊p{当然非谓语动词不仅可以作状语，也可以充当定语、补语、表语等多种成分。以下是几个例子。}
+
+◊h4{不定式作表语}
 
 ◊p{不定式作表语若前面出现了实义动词“do”，则常去掉“to”，例如：}
 
@@ -23,6 +59,81 @@ The past few years witnessed the great ◊i{influx} of migrant workers from the 
 ul
 All I have to ◊b{do} is ◊b{dream}.
 The best thing you can ◊b{do} now is ◊b{write} her an apology.
+}
+
+◊h4{补足语}
+
+◊p{补足语是一类补足主语或宾语意义的句子成分。虽然在语法上不属于主宾，但在逻辑上构成主宾。}
+
+◊h5{不定式作主语补足语}
+
+◊p{sth be ◊i{adj} to do=to do sth be ◊i{adj}}
+
+◊p{主动表被动。但是并不普适。}
+
+◊p{The government not only has to do something, it must be seen to be doing something.政府不仅必须采取措施，而且必须让人们知道它在采取措施。}
+
+◊h5{非谓语动词作宾补}
+
+◊p{过去分词作宾语补足语。}
+
+◊p{[NCE4.4]kept so many old newspapers ◊u{locked away there}}
+
+◊p{lock sth up/away把...锁好}
+
+◊p{不定式作宾语补足语。}
+
+◊p{I see you ◊b{put} the key in your pocket.我看见你把钥匙放进口袋里。}
+
+◊h3{动名词}
+
+◊p{动名词和现在分词的区别在于分词不充当名词成分。基于这种区别，动名词也有其独特的用法。}
+
+◊tbl{
+动名词的时态和语态
+时态/语态@主动@被动
+一般时@doing@being done
+完成时@having done@having been done
+}
+
+◊lst{
+ul
+一般时◊b{不强调}先后顺序，因而一般可通用。
+完成时强调该动作先发生。
+}
+
+◊lst{
+ul
+After gazing at the display for several minutes, Mr.Taylor went back to his shop.在盯着陈列看了几分钟后，泰勒先生回到了他的店铺。
+Ashamed of having acted so rashly, Dimitri apologized to Aleko for having accused him. Dimitri羞愧于自己的鲁莽行为，为自己刚刚谴责Aleko向他道歉。
+}
+
+◊h3{独立主格结构}
+
+◊p{(with)+n.+非谓语(doing/done/to do)}
+
+◊lst{
+ul
+动词不定式要用主动表被动。
+being常省略。
+}
+
+◊p{例如[NCE4.48]leave the Las Vegas mentality to those with money to fritter把拉斯维加斯式的心态留给那些有钱可供挥霍的人}
+
+◊p{在这里}
+
+◊lst{
+ul
+mentality[n]某种错误的心态或思维方式。I can't understand the mentality of the people who are behind this kind of violence.我无法理解支持这种暴力的人的心态。
+fritter[v]浪费。~ ◊u{away sth/sth away} on。He frittered away a fortune on fast cars and gambling.他在快车和赌博上浪费了一大笔钱。
+}
+
+◊p{下面两个句子又有着不同的侧重点。}
+
+◊lst{
+ul
+◊u{He/With him} stopping running sweat streamed down his face.
+He stopped running (with) sweat streaming down his face.
 }
 
 ◊h2{定语从句省略}
@@ -38,12 +149,6 @@ the first people similar to ...
 ◊h2{(even) if引导让步状从}
 
 例如◊b{He is seldom, if ever, absent from work.他——即使有也很少——旷工。}
-
-◊h2{不定式作主语}
-
-◊b{sth be ◊i{adj} to do=to do sth be ◊i{adj}}
-
-◊p{此处do为及物动词}
 
 ◊h2{虚拟语气}
 
@@ -108,27 +213,6 @@ Paul likes poetry, and I know that Peter likes fiction.
 ◊p{如[NCE4.3]◊i{Invariably the background was the same: dirt and poverty, and very uncomfortable}}
 
 ◊p{invariably相当于always；这句话翻译为“无论住在哪情况都一样：肮脏、贫穷、极度不舒适”}
-
-◊h2{独立主格语态}
-
-◊p{动词不定式要用主动表被动}
-
-◊p{例如[NCE4.48]◊i{leave the Las Vegas mentality to those with money to fritter}把拉斯维加斯式的心态留给那些有钱可供挥霍的人}
-
-◊p{在这里}
-
-◊lst{
-ul
-mentality[n]某种错误的心态或思维方式。◊i{I can't understand the mentality of the people who are behind this kind of violence}我无法理解支持这种暴力的人的心态
-fritter[v]浪费。~ ◊u{away sth}/◊u{sth away} on。◊i{He frittered away a fortune on fast cars and gambling}他在快车和赌博上浪费了一大笔钱}
-
-◊h2{宾补}
-
-◊p{[NCE4.4]◊i{kept so many old newspapers ◊u{locked away there}}}
-
-◊p{◊i{lock sth up/away}把...锁好}
-
-◊p{在这里过去分词作宾语补足语。其与定语的区别在于与宾语有着逻辑上的主谓关系}
 
 ◊h2{状从省略}
 
