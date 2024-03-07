@@ -101,6 +101,19 @@ ul {list-style-type: circle;}
 
 ol {list-style-type: upper-roman;}
 
+dt {
+  font-weight: bold;
+}
+
+dl,
+dd {
+  font-size: 0.9em;
+}
+
+dd {
+  margin-bottom: 1em;
+}
+
 /*-------------*/
 
 code {
