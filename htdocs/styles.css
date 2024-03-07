@@ -3,7 +3,7 @@ input[type=text], select {
   padding: 12px 20px;
   margin: 8px 0;
   display: inline-block;
-  border: 1px solid #fffaf0;
+  color: #fffaf0;
   border-radius: 4px;
   box-sizing: border-box;
 }
