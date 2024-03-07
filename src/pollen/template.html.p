@@ -10,5 +10,6 @@
 ◊when/splice[(next here)]{<i id="next"><a href="◊|(next here)|">◊|(next here)|</a></i>}
 </p>
 ◊(->html doc)
+<p><i id="prev"><a href="../index.html">Return to index</a></i></p>
 </body>
 </html>

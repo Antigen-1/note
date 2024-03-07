@@ -29,6 +29,8 @@
 (define (make-html-link-content-pair link name content)
   `(div ,(make-html-link link name)
         ,content))
+(define (make-html-transfer-link link name #:id id)
+  `(i ((id ,id)) ,(make-html-link link name)))
 
 ;; Predicates
 ;; (-> pregexp? string? (or/c #f string?))
@@ -88,8 +90,10 @@
           (define (make-prev)
             (if last
                 (list
-                 `(i ((id "prev"))
-                     ,(make-html-link (embed/url (make-display-piece-handler last)) "Prev")))
+                 (make-html-transfer-link
+                  (embed/url (make-display-piece-handler last))
+                  "Prev"
+                  #:id "prev"))
                 null))
           (define (make)
             `((p
@@ -97,14 +101,13 @@
                ,@(if (null? rest)
                      null
                      (list
-                      `(i
-                        ((id "next"))
-                        ,(make-html-link
-                          (embed/url
-                           ;; Delayed
-                           (lambda (req)
-                             ((make-display-piece-handler (loop (make) (car rest) (cdr rest))) req)))
-                          "Next")))))
+                      (make-html-transfer-link
+                       (embed/url
+                        ;; Delayed
+                        (lambda (req)
+                          ((make-display-piece-handler (loop (make) (car rest) (cdr rest))) req)))
+                       "Next"
+                       #:id "next"))))
               ,@current))
           (make))))
   ;; (-> (listof (listof xexpr?)) (-> request? any))
@@ -209,7 +212,7 @@
   (define (add-common-suffix embed/url nodes)
     `(,@nodes
       ,(make-form search-handler embed/url)
-      ,(make-html-link (embed/url return-to-index-handler) "Return to index")))
+      ,(make-html-transfer-link (embed/url return-to-index-handler) "Return to index" #:id "prev")))
   (define render-page/suffix
     (render-page . add-common-suffix))
 
