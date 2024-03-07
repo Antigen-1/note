@@ -17,12 +17,3 @@ input[type=submit] {
   border-radius: 4px;
   cursor: pointer;
 }
-
-div {
-  border-radius: 5px;
-  background-color: #696969;
-  padding: 20px;
-}
-div > label {
-    color: #fffaf0;
-}
