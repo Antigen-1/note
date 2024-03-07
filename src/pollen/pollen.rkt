@@ -37,12 +37,13 @@
     (txexpr 'table
             null
             `(,(txexpr 'caption null (car lines))
-              ,(txexpr 'tr null (map (curry cons 'th) (split-line (cadr lines))))
-              ,@(map (lambda (line)
-                       (txexpr
-                        'tr null
-                        (map (curry cons 'td) (split-line line))))
-                     (cddr lines))))))
+              (thead ,(txexpr 'tr null (map (curry cons 'th) (split-line (cadr lines)))))
+              (tbody
+               ,@(map (lambda (line)
+                        (txexpr
+                         'tr null
+                         (map (curry cons 'td) (split-line line))))
+                      (cddr lines)))))))
 (define lst
   (lambda elements
     (define lines (fragment-list->non-empty-lines elements))
