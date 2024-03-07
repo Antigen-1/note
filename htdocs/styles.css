@@ -3,15 +3,14 @@ input[type=text], select {
   padding: 12px 20px;
   margin: 8px 0;
   display: inline-block;
-  border: 1px solid #ccc;
+  border: 1px solid #fffaf0;
   border-radius: 4px;
   box-sizing: border-box;
 }
-
 input[type=submit] {
   width: 100%;
-  background-color: #4CAF50;
-  color: white;
+  background-color: #fffaf0;
+  color: #696969;
   padding: 14px 20px;
   margin: 8px 0;
   border: none;
@@ -19,12 +18,11 @@ input[type=submit] {
   cursor: pointer;
 }
 
-input[type=submit]:hover {
-  background-color: #45a049;
-}
-
 div {
   border-radius: 5px;
-  background-color: #f2f2f2;
+  background-color: #696969;
   padding: 20px;
+}
+div > label {
+    color: #fffaf0;
 }

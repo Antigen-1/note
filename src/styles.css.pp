@@ -1,14 +1,57 @@
 #lang pollen
 ◊(define inner 2)
 ◊(define edge (* inner 2))
-◊(define multiplier 1.3)
-◊(define color "firebrick")
+◊(define multiplier 2)
+
+/*-------------*/
+
+body{
+  font-family: "Montserrat", sans-serif;
+  color: white;
+  background-color: #333;
+  text-align:left;
+  margin: ◊|edge|em;
+  padding: ◊|inner|em;
+  border: 5px solid #321414;
+  font-size: ◊|multiplier|em;
+  line-height: ◊|multiplier|;
+}
+
+/*-------------*/
+
+a:link {
+  color: #fffaf0;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #77dd77;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #b22222;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #e6e8fa;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+/*-------------*/
 
 img {
   max-width: 100%;
   height: auto;
   border-radius: 8px;
 }
+
+/*-------------*/
 
 thead,
 tfoot {
@@ -18,12 +61,12 @@ tfoot {
 
 tbody {
   background-color: #e4f0f5;
+  color: #100c08;
 }
 
 table {
   border-collapse: collapse;
   border: 2px solid rgb(140 140 140);
-  font-family: sans-serif;
   font-size: 1em;
   letter-spacing: 1px;
 }
@@ -43,23 +86,21 @@ td {
   text-align: center;
 }
 
+/*-------------*/
+
 li {align-items: left;}
 
 ul {list-style-type: circle;}
-                     
+
 ol {list-style-type: upper-roman;}
-                     
-body {
-    margin: ◊|edge|em;
-    padding: ◊|inner|em;
-    border: 5px solid ◊|color|;
-    font-size: ◊|multiplier|em;
-    line-height: ◊|multiplier|;
-}
+
+/*-------------*/
 
 code {
     background-color: #a9a9a9;
 }
+
+/*-------------*/
 
 #prev-top, #next-top, #prev-bottom, #next-bottom {
     position: fixed;
@@ -72,18 +113,20 @@ code {
 #prev-bottom, #next-bottom {
     bottom: ◊|(/ edge 2)|em;
 }
- 
+
 #prev-top, #prev-bottom {
     left: ◊|edge|em;
 }
- 
+
 #next-top, #next-bottom {
     right: ◊|edge|em;
 }
 
+/*-------------*/
+
 span {
     line-height: 20px;
-    background: linear-gradient(0deg, green 1px, white 1px, transparent 1px);
+    background: linear-gradient(0deg, black 1px, white 1px, transparent 1px);
     background-position: 0 100%;
 }
 .two {
@@ -94,3 +137,5 @@ span {
     line-height: 28px;
     padding-bottom: 8px;
 }
+
+/*-------------*/
