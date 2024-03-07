@@ -93,7 +93,7 @@
                  (make-html-transfer-link
                   (embed/url (make-display-piece-handler last))
                   "Prev"
-                  #:id "prev"))
+                  #:id "prev-top"))
                 null))
           (define (make)
             `((p
@@ -107,7 +107,7 @@
                         (lambda (req)
                           ((make-display-piece-handler (loop (make) (car rest) (cdr rest))) req)))
                        "Next"
-                       #:id "next"))))
+                       #:id "next-top"))))
               ,@current))
           (make))))
   ;; (-> (listof (listof xexpr?)) (-> request? any))
@@ -212,7 +212,7 @@
   (define (add-common-suffix embed/url nodes)
     `(,@nodes
       ,(make-form search-handler embed/url)
-      ,(make-html-transfer-link (embed/url return-to-index-handler) "Return to index" #:id "prev")))
+      ,(make-html-transfer-link (embed/url return-to-index-handler) "Return to index" #:id "prev-bottom")))
   (define render-page/suffix
     (render-page . add-common-suffix))
 

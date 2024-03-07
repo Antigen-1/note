@@ -6,10 +6,10 @@
 </head>
 <body>
 <p>
-◊when/splice[(previous here)]{<i id="prev"><a href="◊|(previous here)|">◊|(previous here)|</a></i>}
-◊when/splice[(next here)]{<i id="next"><a href="◊|(next here)|">◊|(next here)|</a></i>}
+◊when/splice[(previous here)]{<i id="prev-top"><a href="◊|(previous here)|">◊|(previous here)|</a></i>}
+◊when/splice[(next here)]{<i id="next-top"><a href="◊|(next here)|">◊|(next here)|</a></i>}
 </p>
 ◊(->html doc)
-<p><i id="prev"><a href="../index.html">Return to index</a></i></p>
+<p><i id="prev-bottom"><a href="../index.html">Return to index</a></i></p>
 </body>
 </html>

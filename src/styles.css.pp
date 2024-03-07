@@ -45,16 +45,23 @@ code {
     background-color: #a9a9a9;
 }
 
-#prev, #next {
+#prev-top, #next-top, #prev-bottom, #next-bottom {
     position: fixed;
+}
+
+#prev-top, #next-top {
     top: ◊|(/ edge 2)|em;
 }
+
+#prev-bottom, #next-bottom {
+    bottom: ◊|(/ edge 2)|em;
+}
  
-#prev {
+#prev-top, #prev-bottom {
     left: ◊|edge|em;
 }
  
-#next {
+#next-top, #next-bottom {
     right: ◊|edge|em;
 }
 
