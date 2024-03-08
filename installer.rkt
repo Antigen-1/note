@@ -43,6 +43,7 @@
                      (path->string (get-html src))
                      (page-xexpr->list (get-doc (build-path pollen src)))))))
 
+  (delete-directory/files build #:must-exist? #f)
   (make-directory* build)
   (map (lambda (f/d) (copy-directory/files f/d (build-path build (last-name f/d)))) (list xexpr images htdocs pollen-build))
 
