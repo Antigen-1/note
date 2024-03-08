@@ -7,12 +7,12 @@ RFLAGS =
 MAIN = $(shell ${RACKET} -e "(begin (require setup/cross-system) (display (if (eq? (cross-system-type 'os) 'windows) \"main.exe\" \"main\")))")
 ARCHIVE = display-note.zip
 
-all: deps $(ARCHIVE)
+all: deps build $(ARCHIVE)
 
 run: $(MAIN)
 	$(abspath $<) --launch-browser --banner
 
-$(ARCHIVE): $(MAIN) build
+$(ARCHIVE): $(MAIN)
 	$(RACO) dist display-note $<
 	zip -r $@ display-note
 
