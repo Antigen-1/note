@@ -31,7 +31,28 @@
 
 ◊h2{无灵主语/物称主语}
 
-there be句型常用于无灵主语。例如
+◊p{inaminate subject}
+
+◊lst{
+ul
+[NCE3.1]When reports came into London Zoo that a wild puma had been spotted forty-five miles south of London, they were not taken seriously.伦敦动物园收到报告说在伦敦以南45英里发现了野生美洲狮的时候，这些报告并未受到重视。
+The past few years witnessed the great influx of foreigners to China, for travelling, studies or business.过去几年大量外国人为了旅游、学业「studies[pl.](formal)功课，课业，学业」和生意涌入中国。
+}
+
+◊tbl{
+句子改写
+一般写法@使用无灵主语
+He lost his confidence.@Confidence deserted him.
+I couldn't sleep that night.@That night sleep eluded me.「elude躲避」
+We only travelled half the distance at sunset.@Sunset met us halfway.
+}
+
+◊p{there be句型常用于无灵主语。}
+
+◊lst{
+ul
+[NCE3.32]The sea bed was scoured with powerful nets and ◊b{there was tremendous excitement} on board when a chest was raised from the bottom.他们用结实的网把海床搜寻了一遍，当一只箱子从海底被打捞上来时甲板上的人们激动不已。
+}
 
 ◊lst{
 ul
