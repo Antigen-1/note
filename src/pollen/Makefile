@@ -3,7 +3,7 @@ HTML=$(basename ${HTML_OBJECTS})
 
 .PHONY: all clean index
 
-all: $(HTML) index
+all: index $(HTML)
 
 $(HTML): %.html: %.html.pm
 	$(RACO_FOR_BUILD) pollen render $^
