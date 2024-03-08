@@ -10,7 +10,7 @@ ARCHIVE = display-note.zip
 all: $(ARCHIVE)
 
 run: $(MAIN)
-	$< --launch-browser --banner
+	$(abspath $<) --launch-browser --banner
 
 $(ARCHIVE): $(MAIN) installer.rkt
 	$(RACKET_FOR_BUILD) -e "(begin (require \"installer.rkt\") (installer #f \".\"))"
