@@ -146,7 +146,7 @@ code {
 
 span {
     line-height: 20px;
-    background: linear-gradient(0deg, black 1px, white 1px, transparent 1px);
+    background: linear-gradient(0deg, white 1px, black 1px, transparent 1px);
     background-position: 0 100%;
 }
 .two {
