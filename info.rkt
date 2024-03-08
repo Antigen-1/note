@@ -7,5 +7,4 @@
                    "web-server-lib"
                    "pollen"
                    "sugar"
-                   "raco-invoke"
                    "git://github.com/Antigen-1/hasket.git"))

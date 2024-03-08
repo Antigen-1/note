@@ -1,5 +1,5 @@
 #lang racket
-(require pollen/core raco/invoke "database.rkt" "content.rkt")
+(require pollen/core "database.rkt" "content.rkt")
 (provide installer)
 
 (define (installer _ root)
@@ -31,6 +31,7 @@
   (delete-directory/files build #:must-exist? #f)
   (make-directory* xexpr)
   (make-parent-directory* pollen-build)
+  (make-directory* pollen-build)
 
   (make-database-file database)
   (call/database/update
@@ -41,8 +42,10 @@
                      (path->string (get-html src))
                      (page-xexpr->list (get-doc (build-path pollen src)))))))
 
-  (for ((css-pp (in-list (directory-list #:build? #t source))) #:when (regexp-match #rx"\\.css\\.p.*$" css-pp))
-    (raco "pollen" "render" "-o" (path->string (build-path pollen-build (path-replace-extension css-pp #""))) (path->string css-pp)))
+  (for ((css-p (in-list (directory-list #:build? #f source))) #:when (regexp-match #rx"\\.css\\.p.*$" css-p))
+    (call-with-output-file (build-path pollen-build (path-replace-extension css-p #""))
+      #:exists 'truncate/replace
+      (lambda (out) (display (get-doc (build-path source css-p)) out))))
 
   (map (lambda (f/d) (copy-directory/files f/d (build-path build (last-name f/d)))) (list xexpr images htdocs))
 
