@@ -37,6 +37,7 @@
 ul
 [NCE3.1]When reports came into London Zoo that a wild puma had been spotted forty-five miles south of London, they were not taken seriously.伦敦动物园收到报告说在伦敦以南45英里发现了野生美洲狮的时候，这些报告并未受到重视。
 The past few years witnessed the great influx of foreigners to China, for travelling, studies or business.过去几年大量外国人为了旅游、学业「studies[pl.](formal)功课，课业，学业」和生意涌入中国。
+A warm and sunny Sunday found my whole family going for an outing at the beach.一个温暖晴朗的周日我们全家出动去沙滩远足。
 }
 
 ◊tbl{
@@ -45,6 +46,8 @@ The past few years witnessed the great influx of foreigners to China, for travel
 He lost his confidence.@Confidence deserted him.
 I couldn't sleep that night.@That night sleep eluded me.「elude躲避」
 We only travelled half the distance at sunset.@Sunset met us halfway.
+I thought of a good idea.@A good idea ◊u{came/flashed} into my mind.
+He went to the town on busiess.@Business took him to the town.
 }
 
 ◊p{there be句型常用于无灵主语。}

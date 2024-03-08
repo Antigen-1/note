@@ -49,6 +49,10 @@ Trying to explain the situation, she said 'It's only me'.=She tried to explain t
 [NCE3.1]The hunt for the puma began in a small village where a woman ◊b{picking blackberries} saw 'a large cat' only five yards away from her.
 }
 
+◊p{固定搭配必须使用to do，但又想强调先后顺序，则使用to have done。}
+
+◊p{例如claim to have done表示该事件先于claim发生。}
+
 ◊p{当然非谓语动词不仅可以作状语，也可以充当定语、补语、表语等多种成分。以下是几个例子。}
 
 ◊h4{不定式作表语}

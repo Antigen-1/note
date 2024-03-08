@@ -1885,3 +1885,19 @@ ul
 stray sheep迷途的羔羊
 [NCE3.33]Only two stray dogs benefited from all this confusion, for they greedily devoured what was left of the cake. It was just one of those days!只有两只迷路的狗从这场混乱中受益——它们贪婪的狼吞虎咽仅剩的蛋糕「leave见一词多义相关词条」。这就是事事不顺心的那么一天！
 }
+
+◊h2{方位}
+
+◊lst{
+ul
+in the south of（在内部）南部
+on the south of（在外部，相接）南方
+(to) the south of（在外部，不相接）南方
+}
+
+◊lst{
+ul
+Shanghai is in the south of China.
+Vietnam is on the south of China.
+1000 km south of Xi'an西安以南1000公里
+}
