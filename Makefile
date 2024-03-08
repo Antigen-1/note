@@ -27,4 +27,3 @@ deps:
 
 clean:
 	-rm -rf display-note* $(MAIN) build xexpr
-	$(MAKE) -C src clean

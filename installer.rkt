@@ -1,5 +1,5 @@
 #lang racket
-(require pollen/core "database.rkt" "content.rkt")
+(require pollen/core raco/invoke "database.rkt" "content.rkt")
 (provide installer)
 
 (define (installer _ root)
@@ -7,14 +7,11 @@
   (define htdocs (build-path root "htdocs"))
   (define xexpr (build-path root "xexpr"))
   (define build (build-path root "build"))
-  (define pollen-build (build-path root "pollen-build"))
 
+  (define pollen-build (build-path build "pollen-build"))
   (define pollen (build-path source "pollen"))
   (define database (build-path xexpr "db.rktd"))
   (define images (build-path source "pollen-images"))
-  (define MAKE (find-executable-path "make"))
-
-  (cond (MAKE) (else (raise (make-exn:fail:user "Cannot find GNU make." (current-continuation-marks)))))
 
   (define indexes (list "影像学.html.pm"
                         "英语.html.pm"
@@ -31,9 +28,10 @@
   (define (last-name p)
     (call-with-values (lambda () (split-path p)) (lambda l (last (filter values l)))))
 
-  (system* MAKE "-C" source)
-
+  (delete-directory/files build #:must-exist? #f)
   (make-directory* xexpr)
+  (make-parent-directory* pollen-build)
+
   (make-database-file database)
   (call/database/update
    database
@@ -43,8 +41,9 @@
                      (path->string (get-html src))
                      (page-xexpr->list (get-doc (build-path pollen src)))))))
 
-  (delete-directory/files build #:must-exist? #f)
-  (make-directory* build)
-  (map (lambda (f/d) (copy-directory/files f/d (build-path build (last-name f/d)))) (list xexpr images htdocs pollen-build))
+  (for ((css-pp (in-list (directory-list #:build? #t source))) #:when (regexp-match #rx"\\.css\\.p.*$" css-pp))
+    (raco "pollen" "render" "-o" (path->string (build-path pollen-build (path-replace-extension css-pp #""))) (path->string css-pp)))
+
+  (map (lambda (f/d) (copy-directory/files f/d (build-path build (last-name f/d)))) (list xexpr images htdocs))
 
   (void))
