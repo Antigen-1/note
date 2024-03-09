@@ -5,7 +5,7 @@
          "database.rkt"
          (for-syntax racket racket/syntax))
 
-(define-runtime-path build (build-path 'same "build"))
+(define-runtime-path build "build")
 
 (define database (build-path build "xexpr" "db.rktd"))
 
