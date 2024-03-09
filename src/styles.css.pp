@@ -98,11 +98,13 @@ td {
 ul {
    font-size: 0.9em;
    list-style-type: disc;
+   text-align: left;
 }
 
 ol {
    font-size: 0.9em;
    list-style-type: decimal;
+   text-align: left;
 }
 
 li {
@@ -114,6 +116,7 @@ dt {
 }
 
 dl {
+  text-align: left;
   font-size: 0.9em;
 }
 
