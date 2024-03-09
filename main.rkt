@@ -31,6 +31,8 @@
         ,content))
 (define (make-html-transfer-link link name #:id id)
   `(i ((id ,id)) ,(make-html-link link name)))
+(define (make-html-id (orig 'id))
+  (symbol->string (gensym orig)))
 
 ;; Predicates
 ;; (-> pregexp? string? (or/c #f string?))
@@ -51,24 +53,35 @@
       (_ null)))))
 
 ;; Formlets
-(define type-info-form
+(define (make-type-info-form form-id)
+  (define select-id (make-html-id 'type))
+  (formlet
+   (div
+    (label ((for ,select-id)) "Select a type: ")
+    ,((select-input (list "name" "content") #:attributes (list (list 'form form-id) (list 'id select-id))) . => . type))
+   (string->symbol type)))
+(define (make-pattern-info-form)
+  (define id (make-html-id 'pattern))
   (formlet (div
-            (label ((for "Type")) "Enter the type: ")
-            ,(input-string . => . type))
-           type))
-(define pattern-info-form
-  (formlet (div
-            (label ((for "Pattern")) "Enter the pregexp pattern: ")
-            ,(input-string . => . pattern))
+            (label ((for ,id)) "Enter the pregexp pattern: ")
+            ,((to-string (required (text-input #:attributes (list (list 'id id))))) . => . pattern))
            pattern))
-(define all-info-form
-  (formlet (#%# ,(type-info-form . => . type)
-                ,(pattern-info-form . => . pattern))
-           (list type pattern)))
-(define (make-form handler embed/url)
-  `(form ((action ,(embed/url handler)))
-         ,@(formlet-display all-info-form)
-         (input ((type "submit") (value "submit")))))
+(define (make-all-info-form)
+  (define form-id (make-html-id 'form))
+  (values
+   form-id
+   (formlet (#%# ,((make-type-info-form form-id) . => . type)
+                 ,((make-pattern-info-form) . => . pattern)
+                 ,((submit "Run") . => . submit))
+            (list type pattern))))
+(define make-form
+  (lambda/curry/match
+   ((form-id form make-handler embed/url)
+    `(fieldset
+      (legend "Search")
+      (form ((action ,(embed/url (make-handler form)))
+             (id ,form-id))
+            ,@(formlet-display form))))))
 
 ;; Handlers and renders
 (define (start req)
@@ -78,7 +91,7 @@
        (h2 "Index")
        ,(make-html-list (map (lambda (nm) (make-html-link (embed/url (make-display-doc-handler (database-ref data nm))) nm)) names))
        ;; The return-to-index link is unnecessary here
-       ,(make-form search-handler embed/url))))
+       ,((call-with-values make-all-info-form make-form) make-search-handler embed/url))))
 
   ;; Create links to display pages
   ;; (-> (listof (listof xexpr?)) any/c (listof xexpr?))
@@ -150,14 +163,14 @@
                    (a ((href "https://docs.racket-lang.org/reference/regexp.html"))
                       "Racket Reference")
                    ))))))
-  (define (search-handler req)
+  (define ((make-search-handler all-info-form) req)
     (send/suspend/dispatch
      (lambda (embed/url)
        (let/cc cc
          (match-define (list type pattern) (formlet-process all-info-form req))
          (let ((cpattern (pregexp/handler pattern cc embed/url)))
            (cond
-            ((string-ci=? type "content")
+            ((eq? type 'content)
              (render-page/suffix
               embed/url
               `((h1 "Search Results")
@@ -184,7 +197,7 @@
                            #f)))
                    names))
                 )))
-            ((string-ci=? type "name")
+            ((eq? type 'name)
              (render-page/suffix
               embed/url
               `((h1 "Search Results")
@@ -197,21 +210,14 @@
                                ,p)
                            #f)))
                    names))
-                )))
-            (else (render-page/suffix
-                   embed/url
-                   `((h1 "Illegal Searching Type")
-                     (p ,(format "~s is provided." type))
-                     (p "Only \"content\" or \"name\" is allowed!")
-                     (p "The matching is case insensitive.")
-                     )))))))))
+                )))))))))
 
   (define (return-to-index-handler embed/url)
     (start (redirect/get)))
 
   (define (add-common-suffix embed/url nodes)
     `(,@nodes
-      ,(make-form search-handler embed/url)
+      ,((call-with-values make-all-info-form make-form) make-search-handler embed/url)
       ,(make-html-transfer-link (embed/url return-to-index-handler) "Return to index" #:id "prev-bottom")))
   (define render-page/suffix
     (render-page . add-common-suffix))

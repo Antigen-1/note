@@ -26,3 +26,6 @@ input[type=submit]:visited{
 input[type=submit]:active{
     background-color: #e6e8fa;
 }
+legend {
+    padding: 3px 6px;
+}
