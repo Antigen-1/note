@@ -74,12 +74,12 @@ tbody {
 table {
   border-collapse: collapse;
   border: 2px solid rgb(140 140 140);
-  font-size: 1em;
+  font-size: 0.9em;
   letter-spacing: 1px;
 }
 
 caption {
-  caption-side: bottom;
+  caption-side: top;
   padding: 10px;
 }
 
@@ -106,7 +106,7 @@ ol {
 }
 
 li {
-   margin-bottom: 1em;
+   margin-bottom: 0.8em;
 }
 
 dt {
@@ -118,7 +118,7 @@ dl {
 }
 
 dd {
-  margin-bottom: 1em;
+  margin-bottom: 0.8em;
 }
 
 /*-------------*/
