@@ -95,18 +95,25 @@ td {
 
 /*-------------*/
 
-li {align-items: left;}
+ul {
+   font-size: 0.9em;
+   list-style-type: disc;
+}
 
-ul {list-style-type: circle;}
+ol {
+   font-size: 0.9em;
+   list-style-type: decimal;
+}
 
-ol {list-style-type: upper-roman;}
+li {
+   margin-bottom: 1em;
+}
 
 dt {
   font-weight: bold;
 }
 
-dl,
-dd {
+dl {
   font-size: 0.9em;
 }
 
@@ -127,11 +134,11 @@ code {
 }
 
 #prev-top, #next-top {
-    top: ◊|(/ edge 2)|em;
+    top: ◊|inner|em;
 }
 
 #prev-bottom, #next-bottom {
-    bottom: ◊|(/ edge 2)|em;
+    bottom: ◊|inner|em;
 }
 
 #prev-top, #prev-bottom {
