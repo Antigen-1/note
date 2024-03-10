@@ -282,3 +282,63 @@ ul
 I've left my beg on the bus.我把包丢在公交车上了。
 He wasn't well, so we had to leave him behind.他身体不舒服，因此我们只好把他留下。
 }
+
+◊h2{slack}
+
+◊p{[adj]松弛的，懈怠的}
+
+◊p{反义词tight/taut紧的}
+
+◊lst{
+ul
+Slack defending by Real Madrid allowed Manchester United to score.皇家马德里队的松懈防守让曼彻斯特联队趁机得分。
+}
+
+◊p{[adj]萧条的}
+
+◊p{depression[n]萧条}
+
+◊lst{
+ul
+Business is ◊u{bad/slack/depressed} in winter.冬季商业萧条。
+the Great Depression
+}
+
+◊p{繁荣：}
+
+◊lst{
+ul
+Business is ◊i{◊u{good/booming}}.
+◊i{prosperous} countries
+Business ◊i{flourished} and within six months they were earning 18000 roubles a day.
+Today her company continues to ◊i{thrive}.
+}
+
+◊h2{conquer}
+
+◊p{[T]征服}
+
+◊p{conqueror[n]征服者}
+
+◊lst{
+ul
+William the Conqueror
+The Normans conquered England in 1066.
+}
+
+◊p{[I]胜利；[T]战胜}
+
+◊lst{
+ul
+I came. I saw. I conquered.
+England conquered their main rivals in the first round.英格兰在第一回合就战胜了他们主要的对手。
+}
+
+◊p{（成功的）克服，对付，控制}
+
+◊lst{
+ul
+conquer the mountain成功登顶
+I finally conquered my fear of height.我最终克服了恐高。
+She has conquered the hearts of many men.她征服过许多男人的心。
+}

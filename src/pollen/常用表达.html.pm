@@ -1901,3 +1901,39 @@ Shanghai is in the south of China.
 Vietnam is on the south of China.
 1000 km south of Xi'an西安以南1000公里
 }
+
+◊h2{这/那里}
+
+◊lst{
+ul
+thither[adv]去那里，到那里
+hither[adv]去这里，到这里
+hither and thither=here and there到处，各处
+}
+
+◊lst{
+ul
+The leaves were blown hither and thither by the wind.叶子被风吹得到处都是。
+Colored fish darted hither and thither.彩色的鱼到处冲。
+}
+
+◊h2{主要的、最重要的人或事物}
+
+◊lst{
+dl
+main@（只作定语）主要的、最重要的@The main thing is to remain calm.最重要的是保持冷静。
+major@（常作定语）主要的、重要的、大的@◊lst{
+ul
+He played a major role in setting up the system.他在建立这个系统的过程中扮演了主要角色。
+Our major concern here is combatting poverty.在这里我们最关心的是解决贫穷问题。
+}@major最常用于不定冠词a之后，与单数名词连用；或不用冠词，与复数名词连用。@major与the和形容词性物主代词连用意为最主要的、最重要的。此时major只用于指人的想法或担忧，而非物质的东西，且较main正式。
+key@（常作定语）最重要的，主要的，关键的@◊lst{
+ul
+He was a key figure in the campaign.他是这场运动的关键人物。
+Speed is key at this point.这个时候速度是关键。
+}@最常用于商务和政治语境，可用以指想法或某人在某情形下起的作用，而非物质的东西。在主语为名词的句子中充当表语时尤为正式。
+central@（非常正式）最重要的，首要的，主要的@The central issue is that of widespread racism.最重要的问题是种族主义泛滥。@与key用法相似但比key更正式，常用于be central to。
+principal@（非常正式，只作定语）最重要的，主要的@The principal reason for this omission is lack of time.跳过它的主要原因是时间不足。@陈述无可争辩的事实。如果是表明意见或说服别人，常用key或central。
+chief@（非常正式，只作定语）最重要的，首要的，主要的@Unemployment was the chief cause of poverty.
+prime@（非常正式，只作定语）首要的，主要的@My prime concern is to protect my property.
+}
