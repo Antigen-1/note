@@ -1937,3 +1937,43 @@ principal@（非常正式，只作定语）最重要的，主要的@The principa
 chief@（非常正式，只作定语）最重要的，首要的，主要的@Unemployment was the chief cause of poverty.
 prime@（非常正式，只作定语）首要的，主要的@My prime concern is to protect my property.
 }
+
+◊h2{措施}
+
+◊lst{
+ul
+take ◊u{fire/safety/security/sanitary} precautions采取◊u{火灾/安全/安保/卫生}预防措施
+take ◊u{effective/drastic} measures to do采取◊u{有效/极端}措施
+}
+
+◊lst{
+ul
+The government took precautions to prevent the spread of the disease.政府已采取预防措施防止疾病蔓延。
+}
+
+◊h2{收入}
+
+◊p{◊b{proceeds[n](◊u{of/from} sth)收入，收益}}
+
+◊lst{
+ul
+The proceeds of the concert will go to charity.
+}
+
+◊p{辨析：proceedings诉讼。}
+
+◊lst{
+ul
+divorce proceedings离婚诉讼
+}
+
+◊p{辨析：proceed to do继续做}
+
+◊p{◊b{gain[U]利润}}
+
+◊lst{
+ul
+fame and gain名利
+}
+
+◊p{◊b{profit[U/C]◊u{on/from} sth利润}}

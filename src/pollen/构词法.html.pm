@@ -264,3 +264,20 @@ ul
 eradicate[T]根除
 radish[n]萝卜
 }
+
+◊h2{caution}
+
+◊lst{
+ul
+caution[U]谨慎；[U/C]（对危险或风险的）警告，告诫；[v]◊u{(sb) against sth/sb about sth}警告，告诫，提醒
+cautious[adj](about ◊u{sb/sth/doing sth})小心的，谨慎的
+precaution[n]预防措施
+}
+
+◊p{常用搭配：}
+
+◊lst{
+ul
+cautious optimism about sth
+be cautiously optimistic about sth
+}
