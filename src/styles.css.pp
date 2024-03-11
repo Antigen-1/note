@@ -127,7 +127,10 @@ dd {
 /*-------------*/
 
 code {
-    background-color: #a9a9a9;
+    background-color: #eee;
+    border-radius: 3px;
+    font-family: courier, monospace;
+    padding: 0 3px;
 }
 
 /*-------------*/

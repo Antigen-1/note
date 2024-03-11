@@ -1,5 +1,5 @@
-#lang hasket
-(require txexpr racket/string racket/function racket/match racket/list racket/contract sugar/list)
+#lang racket/base
+(require hasket txexpr racket/string racket/function racket/match racket/list racket/contract sugar/list)
 (provide
  (contract-out
   (tbl tag-function/c)
