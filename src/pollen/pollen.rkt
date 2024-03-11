@@ -1,5 +1,6 @@
-#lang hasket
-(require txexpr racket/string racket/function racket/match racket/list racket/contract sugar/list)
+#lang racket
+;; 如果添加了依赖必须加入display-note的构建脚本
+(require hasket txexpr sugar/list)
 (provide
  (contract-out
   (tbl tag-function/c)
