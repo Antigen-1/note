@@ -1977,3 +1977,73 @@ fame and gain名利
 }
 
 ◊p{◊b{profit[U/C]◊u{on/from} sth利润}}
+
+◊h2{时间长短}
+
+◊lst{
+ul
+◊div{
+◊p{[adj]持久的，长时间的}
+◊lst{
+ul
+prolonged
+protracted
+}
+}
+◊div{
+◊p{[v]使延长}
+◊lst{
+ul
+prolong
+protract
+}
+}
+}
+
+◊lst{
+ul
+prolonged questioning长时间的盘问
+prolonged exposure to the sun长时间暴露在太阳下
+◊u{prolonged/protracted} warfare长期的战争
+}
+
+◊p{反义词curtail[v]使缩短}
+
+◊lst{
+ul
+curtail one's holiday
+}
+
+◊h2{纠缠}
+
+◊p{harry[T]纠缠，骚扰}
+
+◊lst{
+ul
+The Vikings harried the English coast.维京人袭扰了英国的海岸。
+}
+
+◊lst{
+ul
+harass[v]纠缠
+harassment[n]
+}
+
+◊p{assail[v]袭击，引申为骚扰}
+
+◊lst{
+ul
+[NCE3.28]I had no sooner got off the ship than I was assailed by a man who wanted to sell me a diamond ring.我一下船就被一个想向我兜售钻戒的人骚扰了。
+}
+
+◊lst{
+ul
+pester sb for sth为了...纠缠...
+pester sb to do纠缠某人做某事
+}
+
+◊lst{
+ul
+The beggar pestered me for money.这个乞丐纠缠着让我给钱。
+[NCE3.29]From the moment he arrived there, he kept on pestering his doctor to tell him when he would be able to go home.从他进医院开始就不厌其烦的纠缠着医生，让他告诉自己什么时候可以回家。
+}

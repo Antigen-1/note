@@ -342,3 +342,44 @@ conquer the mountain成功登顶
 I finally conquered my fear of height.我最终克服了恐高。
 She has conquered the hearts of many men.她征服过许多男人的心。
 }
+
+◊h2{assemble}
+
+◊p{[T/I]（使）人群聚集}
+
+◊lst{
+ul
+A large crowd ◊u{assembled/was assembled} outside the American embassy.一大群人聚集在美国大使馆外。
+}
+
+◊p{表聚集}
+
+◊lst{
+dl
+[T/I]@assemble/gather/mass
+[I]@collect/congregate/converge
+}
+
+◊p{[v]装配，组装}
+
+◊p{反义词◊u{dismantle/take apart}拆卸}
+
+◊lst{
+ul
+assemble a computer
+dismantle the computer
+take the computer apart
+}
+
+◊h2{episode}
+
+◊p{[n] ◊b{an event, a situation or a period of time in} sb's life, a novel, etc.}
+
+◊p{可以有“插曲，片段，逸事”等多种译法。}
+
+◊lst{
+ul
+one of the most interesting episodes in his career他职业生涯中最有趣的经历之一
+Please watch next week's thrilling episode!请观看下周扣人心弦的一集！
+the final episode大结局
+}
