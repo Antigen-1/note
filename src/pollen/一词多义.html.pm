@@ -345,7 +345,7 @@ She has conquered the hearts of many men.她征服过许多男人的心。
 
 ◊h2{assemble}
 
-◊p{[T/I]（使）人群聚集}
+◊p{◊b{[T/I]（使）人群聚集}}
 
 ◊lst{
 ul
@@ -360,7 +360,7 @@ dl
 [I]@collect/congregate/converge
 }
 
-◊p{[v]装配，组装}
+◊p{◊b{[v]装配，组装}}
 
 ◊p{反义词◊u{dismantle/take apart}拆卸}
 
