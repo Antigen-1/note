@@ -2023,11 +2023,7 @@ ul
 The Vikings harried the English coast.维京人袭扰了英国的海岸。
 }
 
-◊lst{
-ul
-harass[v]纠缠
-harassment[n]
-}
+◊p{harass[v]纠缠；harassment[n]}
 
 ◊p{assail[v]袭击，引申为骚扰}
 
