@@ -448,4 +448,10 @@ trifle@[n]a trifle[sing.]稍微，一点点=slightly；[C]小事，琐事，不�
 slaughter@[v]屠宰
 tariff@[n]关税
 dialysis@[n]分离，分解，透析，渗析
+royal/royalty@王室的/[U]王室成员。◊lst{
+ul
+the Royal ◊u{Air Force/Navy}皇家◊u{空军/海军}
+a shop patronized by royalty一家王室经常光顾的商店
+}
+loyal/loyalty@忠诚的/[U]忠诚
 }
