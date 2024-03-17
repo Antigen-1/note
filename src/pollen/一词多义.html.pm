@@ -383,3 +383,19 @@ one of the most interesting episodes in his career他职业生涯中最有趣的
 Please watch next week's thrilling episode!请观看下周扣人心弦的一集！
 the final episode大结局
 }
+
+◊h2{act as}
+
+◊p{◊b{（临时）担任某工作}}
+
+◊lst{
+ul
+My brother speaks French -- he can act as interpreter.我兄弟会说法语——他可以临时充当口译员。
+}
+
+◊p{◊b{当作...来用=◊u{be used as/serve as/function as}}}
+
+◊lst{
+ul
+[NCE4.7]Not all sounds made by animals serve as language, ... .不是动物发出的所有声音都被用作语言，...。
+}

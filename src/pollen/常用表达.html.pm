@@ -2043,3 +2043,30 @@ ul
 The beggar pestered me for money.这个乞丐纠缠着让我给钱。
 [NCE3.29]From the moment he arrived there, he kept on pestering his doctor to tell him when he would be able to go home.从他进医院开始就不厌其烦的纠缠着医生，让他告诉自己什么时候可以回家。
 }
+
+◊h2{历史人物}
+
+◊p{历史人名+◊u{称谓/外号}等}
+
+◊lst{
+ul
+Alfred the Great阿尔弗雷德大帝
+}
+
+◊h2{装扮}
+
+◊p{◊b{disguise A as B把A装扮成B}}
+
+◊lst{
+ul
+[NCE4.9]Alfred the Great acted as his own spy, visiting Danish camps disguised as a minstrel.阿尔弗雷德大帝临时充当自己的细作，装扮为一个吟游歌手潜入丹麦人的营地。
+He escaped across the border disguised as a priest.他乔装为一个牧师逃过边界。
+}
+
+◊p{◊b{dress (sb) up as（使）装扮成}}
+
+◊lst{
+ul
+The king dressed (himself) up as a peasant.
+[NCE3.40]When a student recently saw two workmen using a pneumatic drill outside his university, he immediately telephoned the police and informed them that two students dressed up as workmen were tearing up the road with a pneumatic drill.一个学生最近看到他所在的大学外有两个工人在使用风钻，于是他马上报警通知警察说有两个学生假扮成工人使用风钻破坏路面。
+}

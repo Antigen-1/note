@@ -454,4 +454,21 @@ the Royal ◊u{Air Force/Navy}皇家◊u{空军/海军}
 a shop patronized by royalty一家王室经常光顾的商店
 }
 loyal/loyalty@忠诚的/[U]忠诚
+espionage@[n]间谍活动
+minstrel@[n]中世纪的吟游歌手
+harp@[n]竖琴
+ballad@[n]民歌
+acrobatic@[adj]杂技的
+conjuring@[n]魔术
+Dane/Danish@[n]丹麦人/[adj]丹麦的，丹麦人的，丹麦语的
+commissariat@[n]军粮供应
+skirmish@[n]小规模战斗
+rallying point@[n]有感召力的人（或团体、事件等），号召力。◊lst{
+ul
+Alfred made his kingdom the rallying point for all the Saxons, thus laying the foundation for the unification of England.阿尔弗雷德使他的王国成为所有撒克逊人的集结地，从而为英格兰的统一打下基础。
+}
+carry thunder@如雷贯耳。◊lst{
+ul
+He was recognized as the first king of England. Today his name still carries thunder.他被认作是英格兰的第一位国王。今天他的名字依旧如雷贯耳。
+}
 }
