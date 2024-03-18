@@ -36,19 +36,34 @@ vie （with sb）（for sth）@compete
 
 ◊h2{problem-solution pattern}
 
-NCE4.1
+◊p{[NCE4.1]这篇文章采用problem-solution层层递进的方式介绍了文字、传说和石器这三种考察古代人类活动的重要材料。}
+
+◊lst{
+ul
+◊i{We can read of things that happend 5000 years ago in the Near East, where people first learned to write.}一句话结束第一部分。
+◊i{But there are some parts of the world where even now people cannot write.}然后重点介绍第二部分。
+◊i{But the first people who were like ourselves lived so long ago that even their sagas, if they had any, are forgotten.}随后重点介绍第三部分。
+}
 
 ◊h2{问答模式}
 
-[NCE4.2]
+◊p{[NCE4.2]两处自问自答将文章分为两大部分：}
+
+◊lst{
+ul
+Why, you may wonder, should spiders be our friends?
+How many spiders are engaged in this work on our behalf?
+}
 
 ◊h2{Claim-Response Pattern}
 
 ◊p{[NCE4.5]}
 
-◊lst{ul
-claim
-response
-reasons for response
-relevant example(s)
-reaffirmation重申}
+◊lst{
+ul
+claim:◊i{People are always talking about 'the problem of youth'.}
+response:◊i{If there is one--which I take leave to doubt--then it is older people who create it, not the young themselves.}
+reasons for response:◊i{only one difference}
+relevant example(s):以作者本人的年轻时代为例。
+reaffirmation:重申了reason和response。
+}
