@@ -7,6 +7,7 @@ ul
 ◊lnk{常用表达.html}
 ◊lnk{构词法.html}
 ◊lnk{文法.html}
+◊lnk{句法.html}
 ◊lnk{介词和连词.html}
 ◊lnk{书面用法.html}
 ◊lnk{解题技巧.html}
