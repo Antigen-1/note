@@ -1,7 +1,21 @@
 #lang pollen/markup
 ◊h1{介词和连词}
 
-◊h2{of：关于}
+◊h2{of}
+
+◊p{◊b{（用于一个名词修饰另一个名词时）}}
+
+◊lst{
+ul
+She was an angel of a wife.她是一位天使一般的妻子。
+◊lst{
+ul
+Where's that idiot of a boy?
+Where's the boy that you think is stupid?
+}
+}
+
+◊p{◊b{关于}}
 
 ◊lst{
 ul

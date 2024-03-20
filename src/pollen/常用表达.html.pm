@@ -1478,14 +1478,6 @@ a ◊u{high/low} standard of living高/低水平的生活
 International Standards Organization(ISO)
 }
 
-◊p{在第二个例子里◊i{of}是用于一个名词修饰另一个名词。}
-
-◊lst{
-ul
-Where's that idiot of a boy?
-Where's the boy that you think is stupid?
-}
-
 ◊p{相关搭配：◊u{meet/reach/pass/live up to/satisfy/fulfill} standards符合标准}
 
 ◊p{criterion/criteria机构标准}
@@ -1655,6 +1647,7 @@ nowadays
 ◊lst{
 ul
 [NCE4.8]These days, it is differences in national regulations, far more than tariffs, that put sand in the wheels of trade between rich countries.如今，是国家法规之间的差异——而远不仅仅是关税——在妨碍富裕国家之间的贸易。
+[NCE3.4]These days, people who do manual work often receive far more money than people who work in offices.现如今，做体力活的人常常比在办公室工作的人赚得多得多。
 }
 
 ◊p{造句：现如今，是风俗习惯的差异，而远不仅仅是语言问题，阻碍了跨国婚姻（transnational marriage）。}

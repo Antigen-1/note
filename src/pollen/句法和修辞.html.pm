@@ -1,5 +1,5 @@
 #lang pollen/markup
-◊h1{句法}
+◊h1{句法和修辞}
 
 ◊h2{借代metonymy}
 
@@ -14,14 +14,6 @@ cross神权
 }
 
 eg.◊b{The crown should not yield to the cross.}王权不应屈服于神权。
-
-◊h2{自问自答}
-
-例如[NCE4.2]◊i{Why, you may wonder, should spiders be our friends?}
-
-◊p{在这里should用在疑问句中表意外的语气，译作「怎么会」。相对不重要的成分作为插入语。}
-
-◊p{整句翻译为，◊i{你可能会问，蜘蛛怎么会是我们的朋友？}}
 
 ◊h2{圆周句（掉尾句）}
 
@@ -83,9 +75,36 @@ ul
 [NCE4.8]An electric razor that meets the European Union's safety standards must be approved by American testers before it can be sold in the United States, and an American-made dialysis machine needs the EU's okay before it hits the market in Europe.符合欧盟安全标准的电动剃须刀必须经过美国测试者的同意才能在美国销售，而美国产的透析设备也需要欧盟的批准才能进入欧洲市场。
 }
 
-◊h2{暗喻}
+◊h2{暗喻Metaphor}
 
-◊p{[NCE4.5]...I was a new boy in ◊i{a huge school}我是社会这所大学校里的新生}
+◊p{◊b{喻体直陈式}}
+
+◊lst{
+ul
+[NCE4.5]...I was a new boy in ◊i{a huge school}.我是社会这所大学校里的新生。
+[NCE4.9]..., and their harp was their ◊i{passport}. ...，他们的竖琴就是通行证。
+College is a ◊i{comma} of a sentence of life.
+She was an ◊i{angel} of a wife.
+}
+
+◊p{◊b{喻体全隐式}}
+
+◊lst{
+ul
+[NCE4.10]As the time and cost of making a chip drop to a few days and a few hundred dollars, engineers may soon be free to ◊i{let their imaginations soar} without being penalized by expensive failures.由于制造一块芯片的时间降至数天，成本降至数百美元，工程师可能很快就可以充分发挥他们的想象力，而不会因失败造成经济上的损失。
+Some books are to be ◊i{tasted}, other to be ◊i{swallowed} and some few to be ◊i{chewed and digested}. -- Sir Francis Bacon
+}
+
+◊p{◊b{喻体半隐式：喻体使用名词作动词}}
+
+◊lst{
+ul
+From every window heads were ◊i{craning} for a view of it.每一个窗户都有头伸出来看它。
+He doesn't have an idea of his own. He just ◊i{parrots} what other people say.他没有自己的主见，只是鹦鹉学舌。
+A heavy silence ◊i{blanketed} the room.一片寂静笼罩在房间内。
+They ◊i{stormed} the speaker with questions.发言者被他们的问题所淹没。
+[GRE]I would argue that although it may be a benefit to study classics and be well schooled in diverse disciplines, these pursuits merely refine and ◊i{hone} an ability each and every person has, the ability to study human nature.我会认为，尽管学习经典著作并且以各种训练方法很好的加以培养可能是有好处的，但这些事业仅仅是改进和磨练了每一个人都有的能力——研究人类本性的能力。
+}
 
 ◊h2{逻辑词}
 
@@ -160,3 +179,11 @@ ul
 ul
 ◊i{Why not try to train your character?}为什么不尽力去培养你的性格呢？
 }
+
+◊h3{表意外}
+
+◊p{例如[NCE4.2]中的自问自答◊i{Why, you may wonder, should spiders be our friends?}}
+
+◊p{在这里should用在疑问句中表意外的语气，译作「怎么会」。相对不重要的成分作为插入语。}
+
+◊p{整句翻译为，◊i{你可能会问，蜘蛛怎么会是我们的朋友？}}

@@ -399,3 +399,24 @@ My brother speaks French -- he can act as interpreter.我兄弟会说法语—�
 ul
 [NCE4.7]Not all sounds made by animals serve as language, ... .不是动物发出的所有声音都被用作语言，...。
 }
+
+◊h2{passport}
+
+◊lst{
+ul
+护照
+途径，路子，手段=key;~ to sth
+}
+
+◊lst{
+ul
+◊u{British/Chinese} passport
+The only passport to success is hard work.
+}
+
+◊p{相关表达:visa[n]（护照的）签证}
+
+◊lst{
+ul
+◊u{work/student/tourist} visa
+}
