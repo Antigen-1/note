@@ -2063,3 +2063,29 @@ ul
 The king dressed (himself) up as a peasant.
 [NCE3.40]When a student recently saw two workmen using a pneumatic drill outside his university, he immediately telephoned the police and informed them that two students dressed up as workmen were tearing up the road with a pneumatic drill.一个学生最近看到他所在的大学外有两个工人在使用风钻，于是他马上报警通知警察说有两个学生假扮成工人使用风钻破坏路面。
 }
+
+◊h2{年龄}
+
+◊p{in (one's) youth（某人）年轻时}
+
+◊lst{
+ul
+[NCE3.24]The reader's hair stands on end when he reads in the final pages of the novel that the heroine a dear old lady who had always been so kind to every body, had, in her youth, poisoned every one of her five husbands.读者读到小说最后几页，发现女主人公，一位亲爱的、总是对所有人都很好的老淑女年轻时毒死了她的五任丈夫，一定会感到毛骨悚然。
+I live in that solitude which is painful in youth, but delicious in the years of maturity. --Albert Einstein我生活在那种孤独中，年轻时感到痛苦，成熟后又感到愉悦。
+}
+
+◊h2{使多样化}
+
+◊lst{
+ul
+vary
+add variety to
+diversify
+add ◊u{color/spice} to
+}
+
+◊lst{
+ul
+[NCE4.9]..., and could vary his programme with acrobatic tricks and simple conjuring. ...，并且可以穿插一些杂技和简单的魔术使自己的节目多样化。
+[NCE3.31]This invariably wins them the love and respect of others, for they add color to the dull routine of everyday life.他们不断为自己赢得他人的爱与尊重，因为他们让平淡的日常生活变得丰富多彩。
+}
