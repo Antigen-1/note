@@ -471,4 +471,5 @@ carry thunder@如雷贯耳。◊lst{
 ul
 He was recognized as the first king of England. Today his name still carries thunder.他被认作是英格兰的第一位国王。今天他的名字依旧如雷贯耳。
 }
+baptism@[n]（基督教的）洗礼，浸礼
 }

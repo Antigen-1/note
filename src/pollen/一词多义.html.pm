@@ -420,3 +420,20 @@ The only passport to success is hard work.
 ul
 ◊u{work/student/tourist} visa
 }
+
+◊h2{set out to do}
+
+◊p{◊b{开始一项工作/任务}}
+
+◊lst{
+ul
+[NCE3.5]The journalist immediately set out to obtain these important facts, but he took a long time to send them.记者立即出发去采集这些重要的事实，但过了好长时间也不见他把它们发来。
+}
+
+◊p{◊b{有意做某事}}
+
+◊lst{
+ul
+We never set out to hurt you.我们从未有意伤害你。
+[NCE3.31]True eccentrics never deliberately set out to draw attention to themselves.真正的怪人从不刻意为自己吸引别人的注意。
+}

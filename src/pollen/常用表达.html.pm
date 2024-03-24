@@ -1931,6 +1931,17 @@ chief@（非常正式，只作定语）最重要的，首要的，主要的@Unem
 prime@（非常正式，只作定语）首要的，主要的@My prime concern is to protect my property.
 }
 
+◊h3{反义词：微不足道的}
+
+◊lst{
+ul
+little
+trivial
+insignificant
+unimportant
+trifling
+}
+
 ◊h2{措施}
 
 ◊lst{
@@ -2088,4 +2099,33 @@ add ◊u{color/spice} to
 ul
 [NCE4.9]..., and could vary his programme with acrobatic tricks and simple conjuring. ...，并且可以穿插一些杂技和简单的魔术使自己的节目多样化。
 [NCE3.31]This invariably wins them the love and respect of others, for they add color to the dull routine of everyday life.他们不断为自己赢得他人的爱与尊重，因为他们让平淡的日常生活变得丰富多彩。
+}
+
+◊h2{花费}
+
+◊h3{take}
+
+◊p{◊u{人/事物/虚主语it}+take均表花费}
+
+◊lst{
+ul
+I went on an excursion recently, but ◊i{my trip} took me longer than I expected.我最近去远足了一次，但这次旅行比我预想的时间要长。
+◊i{It} took me over half an hour to get rid of him.我花了超过半小时来摆脱他。
+◊i{He} always takes so long to eat his breakfast.他总是花很久来吃早餐。
+}
+
+◊h2{进入}
+
+◊p{penetrate ◊u{(into/through)}[T/I]费力进入}
+
+◊lst{
+ul
+Our troops have penetrated (into) enemy territory.我们的军队费力进入了敌人的领土。
+}
+
+◊p{trespass on非法进入}
+
+◊lst{
+ul
+I accused him of trespassing on my estate.我指控他侵入了我的私有土地。
 }
