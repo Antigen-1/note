@@ -285,16 +285,24 @@ He wasn't well, so we had to leave him behind.他身体不舒服，因此我们�
 
 ◊h2{slack}
 
-◊p{[adj]松弛的，懈怠的}
+◊h3{[adj]松弛的，懈怠的}
 
-◊p{反义词tight/taut紧的}
+◊p{反义词◊u{tight/taut}紧的}
 
 ◊lst{
 ul
 Slack defending by Real Madrid allowed Manchester United to score.皇家马德里队的松懈防守让曼彻斯特联队趁机得分。
 }
 
-◊p{[adj]萧条的}
+◊p{近义词：◊u{loose/lax/casual/careless/inattentive}}
+
+◊lst{
+ul
+[NCE4.9]... discipline was ◊u{slack/loose/lax}.
+[NCE4.9]..., and their security precautions were casual.
+}
+
+◊h3{[adj]萧条的}
 
 ◊p{depression[n]萧条}
 
@@ -436,4 +444,19 @@ ul
 ul
 We never set out to hurt you.我们从未有意伤害你。
 [NCE3.31]True eccentrics never deliberately set out to draw attention to themselves.真正的怪人从不刻意为自己吸引别人的注意。
+}
+
+◊h2{settle down}
+
+◊lst{
+dl
+[I]@◊lst{
+dl
+舒适的坐下（或躺下）@I settled down with a book.
+（在某地）定居下来，过安定的生活@They'd like to see their daughter settle down, get married and have kids.@[NCE4.9]These had settled down for the winter at Chippenham: thither Alfred went.这些部队已经在Chippenham扎营准备过冬：这时候阿尔弗雷德来了。
+}
+[T/I]down为[adv]@◊lst{
+dl
+（使某人）安静下来，平静下来@It always takes the class a while to settle down at the start of the lesson.
+}
 }
